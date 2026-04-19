@@ -1,6 +1,6 @@
 #  Museum Management System
 
-This project is a fully designed Database Management System (DBMS) for managing museum operations. It was built from scratch, including database architecture, entity relationships, business logic, and a user interface.
+This project is a fully designed Database Management System (DBMS) for managing museum operations. It was built from scratch, including database architecture, entity relationships, business logic, and a user interface
 
 ---
 
@@ -89,7 +89,7 @@ An interactive interface was built using **Oracle APEX App Builder**:
 - Execute predefined database actions  
 - Generate reports  
 
- The UI allows users to interact with the system **without direct database access**, ensuring safety and usability.
+ The UI allows users to interact with the system **without direct database access**, ensuring safety and usability
 
 ---
 
@@ -134,4 +134,3 @@ The system supports:
 
 
 
-If you like this project, consider giving it a star ⭐ on GitHub!
