@@ -51,7 +51,7 @@ The system includes **11 interconnected tables**, representing real-world museum
 - Museum → Collections → Artworks  
 - Departments → Staff  
 
-All tables are connected using **primary and foreign keys**, ensuring data integrity.
+All tables are connected using **primary and foreign keys**, ensuring data integrity
 
 ---
 
