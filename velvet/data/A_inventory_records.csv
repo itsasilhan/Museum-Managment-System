@@ -1,0 +1,201 @@
+record_id,artwork_id,location_id,record_date,status,notes,staff_id
+INV001,ART289,LOC042,2011-05-20,On Display,Routine inventory check and condition assessment.,STF067
+INV002,ART506,LOC089,2023-11-26,On Loan,Artwork relocated; position updated in storage records.,STF062
+INV003,ART082,LOC115,2011-12-24,Under Conservation,Minor surface dust observed; scheduled for light cleaning.,STF013
+INV004,ART603,LOC093,2022-10-07,Under Conservation,Outgoing loan prepared; packing condition documented.,STF068
+INV005,ART327,LOC116,2020-10-10,Under Conservation,Returned from exhibition; no transport damage noted.,STF367
+INV006,ART512,LOC077,2017-01-11,In Storage,Routine inventory check and condition assessment.,STF501
+INV007,ART234,LOC044,2017-11-30,On Loan,Artwork relocated; position updated in storage records.,STF044
+INV008,ART477,LOC119,2019-01-17,On Loan,Minor surface dust observed; scheduled for light cleaning.,STF333
+INV009,ART476,LOC116,2013-03-09,On Loan,Outgoing loan prepared; packing condition documented.,STF157
+INV010,ART430,LOC007,2017-02-07,On Loan,Returned from exhibition; no transport damage noted.,STF143
+INV011,ART648,LOC039,2018-03-15,On Display,Routine inventory check and condition assessment.,STF410
+INV012,ART445,LOC045,2023-04-20,In Storage,Artwork relocated; position updated in storage records.,STF155
+INV013,ART223,LOC025,2018-10-11,On Loan,Minor surface dust observed; scheduled for light cleaning.,STF017
+INV014,ART154,LOC070,2014-06-09,On Display,Outgoing loan prepared; packing condition documented.,STF346
+INV015,ART510,LOC101,2016-10-22,Under Conservation,Returned from exhibition; no transport damage noted.,STF163
+INV016,ART234,LOC049,2023-08-12,On Loan,Routine inventory check and condition assessment.,STF499
+INV017,ART444,LOC112,2020-12-06,On Display,Artwork relocated; position updated in storage records.,STF164
+INV018,ART362,LOC028,2017-04-02,On Loan,Minor surface dust observed; scheduled for light cleaning.,STF069
+INV019,ART623,LOC075,2015-04-11,On Loan,Outgoing loan prepared; packing condition documented.,STF145
+INV020,ART222,LOC107,2010-04-17,Under Conservation,Returned from exhibition; no transport damage noted.,STF503
+INV021,ART647,LOC041,2016-12-19,On Loan,Routine inventory check and condition assessment.,STF347
+INV022,ART627,LOC032,2021-11-17,Under Conservation,Artwork relocated; position updated in storage records.,STF133
+INV023,ART350,LOC096,2018-04-16,On Loan,Minor surface dust observed; scheduled for light cleaning.,STF132
+INV024,ART065,LOC005,2018-04-20,On Loan,Outgoing loan prepared; packing condition documented.,STF458
+INV025,ART253,LOC054,2015-03-28,Under Conservation,Returned from exhibition; no transport damage noted.,STF335
+INV026,ART650,LOC122,2022-06-13,Under Conservation,Routine inventory check and condition assessment.,STF288
+INV027,ART592,LOC085,2012-11-07,Under Conservation,Artwork relocated; position updated in storage records.,STF200
+INV028,ART648,LOC059,2015-08-03,On Loan,Minor surface dust observed; scheduled for light cleaning.,STF243
+INV029,ART577,LOC121,2017-01-11,On Display,Outgoing loan prepared; packing condition documented.,STF020
+INV030,ART394,LOC038,2011-10-29,On Loan,Returned from exhibition; no transport damage noted.,STF330
+INV031,ART474,LOC069,2020-01-31,On Loan,Routine inventory check and condition assessment.,STF069
+INV032,ART198,LOC071,2018-02-28,On Display,Artwork relocated; position updated in storage records.,STF147
+INV033,ART486,LOC064,2010-01-26,Under Conservation,Minor surface dust observed; scheduled for light cleaning.,STF229
+INV034,ART365,LOC124,2016-02-13,Under Conservation,Outgoing loan prepared; packing condition documented.,STF150
+INV035,ART497,LOC081,2014-06-27,In Storage,Returned from exhibition; no transport damage noted.,STF550
+INV036,ART612,LOC031,2011-05-12,In Storage,Routine inventory check and condition assessment.,STF303
+INV037,ART537,LOC130,2015-07-27,On Loan,Artwork relocated; position updated in storage records.,STF290
+INV038,ART434,LOC003,2015-11-09,In Storage,Minor surface dust observed; scheduled for light cleaning.,STF306
+INV039,ART148,LOC076,2010-08-25,On Loan,Outgoing loan prepared; packing condition documented.,STF026
+INV040,ART081,LOC095,2013-04-24,On Loan,Returned from exhibition; no transport damage noted.,STF477
+INV041,ART641,LOC098,2023-04-27,On Loan,Routine inventory check and condition assessment.,STF161
+INV042,ART322,LOC028,2020-03-24,Under Conservation,Artwork relocated; position updated in storage records.,STF281
+INV043,ART203,LOC117,2013-08-27,In Storage,Minor surface dust observed; scheduled for light cleaning.,STF292
+INV044,ART331,LOC005,2011-03-06,Under Conservation,Outgoing loan prepared; packing condition documented.,STF127
+INV045,ART566,LOC123,2013-03-07,Under Conservation,Returned from exhibition; no transport damage noted.,STF378
+INV046,ART385,LOC007,2017-04-07,On Loan,Routine inventory check and condition assessment.,STF445
+INV047,ART183,LOC084,2016-05-06,Under Conservation,Artwork relocated; position updated in storage records.,STF036
+INV048,ART580,LOC011,2011-04-03,In Storage,Minor surface dust observed; scheduled for light cleaning.,STF524
+INV049,ART509,LOC017,2013-02-20,In Storage,Outgoing loan prepared; packing condition documented.,STF070
+INV050,ART105,LOC042,2012-01-23,Under Conservation,Returned from exhibition; no transport damage noted.,STF241
+INV051,ART366,LOC087,2019-04-04,Under Conservation,Routine inventory check and condition assessment.,STF084
+INV052,ART072,LOC127,2022-03-24,On Display,Artwork relocated; position updated in storage records.,STF411
+INV053,ART538,LOC107,2013-06-23,On Display,Minor surface dust observed; scheduled for light cleaning.,STF406
+INV054,ART213,LOC115,2012-08-02,Under Conservation,Outgoing loan prepared; packing condition documented.,STF163
+INV055,ART233,LOC062,2022-07-05,On Display,Returned from exhibition; no transport damage noted.,STF058
+INV056,ART054,LOC058,2010-12-14,On Display,Routine inventory check and condition assessment.,STF491
+INV057,ART225,LOC060,2013-02-01,Under Conservation,Artwork relocated; position updated in storage records.,STF157
+INV058,ART331,LOC100,2010-06-07,Under Conservation,Minor surface dust observed; scheduled for light cleaning.,STF406
+INV059,ART505,LOC007,2022-05-03,On Display,Outgoing loan prepared; packing condition documented.,STF425
+INV060,ART042,LOC052,2014-09-07,In Storage,Returned from exhibition; no transport damage noted.,STF037
+INV061,ART597,LOC126,2017-11-02,On Display,Routine inventory check and condition assessment.,STF008
+INV062,ART596,LOC095,2013-09-06,On Loan,Artwork relocated; position updated in storage records.,STF522
+INV063,ART218,LOC039,2010-03-02,Under Conservation,Minor surface dust observed; scheduled for light cleaning.,STF550
+INV064,ART273,LOC096,2018-09-17,In Storage,Outgoing loan prepared; packing condition documented.,STF524
+INV065,ART207,LOC066,2014-05-23,Under Conservation,Returned from exhibition; no transport damage noted.,STF343
+INV066,ART267,LOC101,2016-05-26,On Loan,Routine inventory check and condition assessment.,STF123
+INV067,ART030,LOC115,2019-02-06,In Storage,Artwork relocated; position updated in storage records.,STF525
+INV068,ART190,LOC029,2018-09-10,On Display,Minor surface dust observed; scheduled for light cleaning.,STF043
+INV069,ART211,LOC052,2014-10-22,Under Conservation,Outgoing loan prepared; packing condition documented.,STF306
+INV070,ART370,LOC119,2015-02-26,Under Conservation,Returned from exhibition; no transport damage noted.,STF056
+INV071,ART223,LOC007,2010-04-12,In Storage,Routine inventory check and condition assessment.,STF318
+INV072,ART186,LOC086,2021-03-16,On Loan,Artwork relocated; position updated in storage records.,STF212
+INV073,ART336,LOC118,2023-07-02,In Storage,Minor surface dust observed; scheduled for light cleaning.,STF401
+INV074,ART504,LOC123,2015-07-29,On Display,Outgoing loan prepared; packing condition documented.,STF293
+INV075,ART632,LOC028,2010-09-13,On Display,Returned from exhibition; no transport damage noted.,STF001
+INV076,ART012,LOC071,2016-10-21,On Loan,Routine inventory check and condition assessment.,STF001
+INV077,ART391,LOC041,2011-03-15,Under Conservation,Artwork relocated; position updated in storage records.,STF100
+INV078,ART221,LOC049,2018-05-13,On Display,Minor surface dust observed; scheduled for light cleaning.,STF434
+INV079,ART287,LOC107,2016-09-02,On Display,Outgoing loan prepared; packing condition documented.,STF023
+INV080,ART123,LOC078,2015-11-23,On Loan,Returned from exhibition; no transport damage noted.,STF146
+INV081,ART210,LOC031,2020-09-08,In Storage,Routine inventory check and condition assessment.,STF032
+INV082,ART015,LOC029,2015-04-08,On Loan,Artwork relocated; position updated in storage records.,STF089
+INV083,ART594,LOC070,2010-07-04,On Loan,Minor surface dust observed; scheduled for light cleaning.,STF277
+INV084,ART065,LOC040,2011-06-18,On Loan,Outgoing loan prepared; packing condition documented.,STF221
+INV085,ART695,LOC097,2010-11-01,On Loan,Returned from exhibition; no transport damage noted.,STF031
+INV086,ART443,LOC120,2013-12-04,On Display,Routine inventory check and condition assessment.,STF423
+INV087,ART591,LOC012,2016-04-19,Under Conservation,Artwork relocated; position updated in storage records.,STF065
+INV088,ART491,LOC052,2010-07-19,Under Conservation,Minor surface dust observed; scheduled for light cleaning.,STF274
+INV089,ART193,LOC061,2010-01-16,On Display,Outgoing loan prepared; packing condition documented.,STF459
+INV090,ART577,LOC112,2015-03-12,On Display,Returned from exhibition; no transport damage noted.,STF501
+INV091,ART294,LOC094,2023-06-01,Under Conservation,Routine inventory check and condition assessment.,STF091
+INV092,ART468,LOC121,2018-05-16,Under Conservation,Artwork relocated; position updated in storage records.,STF168
+INV093,ART565,LOC038,2017-10-11,On Loan,Minor surface dust observed; scheduled for light cleaning.,STF329
+INV094,ART179,LOC103,2020-06-26,Under Conservation,Outgoing loan prepared; packing condition documented.,STF382
+INV095,ART300,LOC038,2022-03-01,On Loan,Returned from exhibition; no transport damage noted.,STF507
+INV096,ART369,LOC111,2023-07-04,Under Conservation,Routine inventory check and condition assessment.,STF089
+INV097,ART141,LOC086,2020-06-19,On Loan,Artwork relocated; position updated in storage records.,STF368
+INV098,ART553,LOC043,2017-09-14,In Storage,Minor surface dust observed; scheduled for light cleaning.,STF044
+INV099,ART614,LOC088,2013-07-30,In Storage,Outgoing loan prepared; packing condition documented.,STF554
+INV100,ART211,LOC102,2019-05-26,On Display,Returned from exhibition; no transport damage noted.,STF084
+INV101,ART514,LOC011,2012-04-30,On Display,Routine inventory check and condition assessment.,STF533
+INV102,ART261,LOC043,2017-07-06,On Loan,Artwork relocated; position updated in storage records.,STF233
+INV103,ART120,LOC084,2022-04-20,On Loan,Minor surface dust observed; scheduled for light cleaning.,STF383
+INV104,ART536,LOC101,2022-12-10,Under Conservation,Outgoing loan prepared; packing condition documented.,STF225
+INV105,ART418,LOC028,2020-03-05,In Storage,Returned from exhibition; no transport damage noted.,STF232
+INV106,ART193,LOC001,2012-06-02,On Loan,Routine inventory check and condition assessment.,STF517
+INV107,ART148,LOC019,2015-06-05,On Loan,Artwork relocated; position updated in storage records.,STF314
+INV108,ART311,LOC054,2012-03-02,In Storage,Minor surface dust observed; scheduled for light cleaning.,STF555
+INV109,ART025,LOC005,2016-08-20,On Display,Outgoing loan prepared; packing condition documented.,STF032
+INV110,ART213,LOC048,2011-07-04,Under Conservation,Returned from exhibition; no transport damage noted.,STF074
+INV111,ART464,LOC031,2018-01-07,On Loan,Routine inventory check and condition assessment.,STF433
+INV112,ART011,LOC077,2018-09-12,Under Conservation,Artwork relocated; position updated in storage records.,STF352
+INV113,ART214,LOC078,2023-11-21,On Loan,Minor surface dust observed; scheduled for light cleaning.,STF439
+INV114,ART651,LOC011,2010-09-16,On Loan,Outgoing loan prepared; packing condition documented.,STF504
+INV115,ART328,LOC090,2015-09-27,On Loan,Returned from exhibition; no transport damage noted.,STF032
+INV116,ART393,LOC026,2023-03-03,Under Conservation,Routine inventory check and condition assessment.,STF433
+INV117,ART702,LOC126,2018-07-10,On Display,Artwork relocated; position updated in storage records.,STF028
+INV118,ART500,LOC023,2015-08-28,On Display,Minor surface dust observed; scheduled for light cleaning.,STF487
+INV119,ART085,LOC063,2020-03-13,On Loan,Outgoing loan prepared; packing condition documented.,STF097
+INV120,ART346,LOC062,2010-10-09,Under Conservation,Returned from exhibition; no transport damage noted.,STF481
+INV121,ART318,LOC116,2023-10-07,On Loan,Routine inventory check and condition assessment.,STF222
+INV122,ART098,LOC003,2023-04-24,On Display,Artwork relocated; position updated in storage records.,STF132
+INV123,ART519,LOC114,2021-04-05,In Storage,Minor surface dust observed; scheduled for light cleaning.,STF071
+INV124,ART475,LOC071,2022-01-06,On Display,Outgoing loan prepared; packing condition documented.,STF398
+INV125,ART260,LOC031,2021-01-06,In Storage,Returned from exhibition; no transport damage noted.,STF530
+INV126,ART463,LOC076,2010-11-23,Under Conservation,Routine inventory check and condition assessment.,STF167
+INV127,ART616,LOC085,2012-06-17,In Storage,Artwork relocated; position updated in storage records.,STF437
+INV128,ART079,LOC051,2020-11-27,In Storage,Minor surface dust observed; scheduled for light cleaning.,STF494
+INV129,ART006,LOC100,2018-06-14,On Display,Outgoing loan prepared; packing condition documented.,STF181
+INV130,ART310,LOC047,2017-08-17,On Loan,Returned from exhibition; no transport damage noted.,STF229
+INV131,ART235,LOC114,2012-04-11,In Storage,Routine inventory check and condition assessment.,STF119
+INV132,ART143,LOC034,2019-10-29,On Loan,Artwork relocated; position updated in storage records.,STF025
+INV133,ART376,LOC111,2021-10-12,Under Conservation,Minor surface dust observed; scheduled for light cleaning.,STF022
+INV134,ART651,LOC028,2020-08-16,On Display,Outgoing loan prepared; packing condition documented.,STF429
+INV135,ART286,LOC112,2011-07-03,On Display,Returned from exhibition; no transport damage noted.,STF433
+INV136,ART090,LOC068,2020-08-24,On Loan,Routine inventory check and condition assessment.,STF367
+INV137,ART520,LOC063,2012-09-18,On Display,Artwork relocated; position updated in storage records.,STF141
+INV138,ART166,LOC023,2014-05-29,On Loan,Minor surface dust observed; scheduled for light cleaning.,STF192
+INV139,ART676,LOC096,2020-09-19,On Display,Outgoing loan prepared; packing condition documented.,STF270
+INV140,ART673,LOC048,2012-08-07,On Display,Returned from exhibition; no transport damage noted.,STF424
+INV141,ART238,LOC052,2016-09-26,In Storage,Routine inventory check and condition assessment.,STF151
+INV142,ART401,LOC003,2011-05-07,On Display,Artwork relocated; position updated in storage records.,STF381
+INV143,ART116,LOC069,2010-03-14,Under Conservation,Minor surface dust observed; scheduled for light cleaning.,STF544
+INV144,ART141,LOC082,2020-10-10,In Storage,Outgoing loan prepared; packing condition documented.,STF250
+INV145,ART194,LOC122,2020-09-26,In Storage,Returned from exhibition; no transport damage noted.,STF490
+INV146,ART102,LOC045,2022-05-28,On Display,Routine inventory check and condition assessment.,STF398
+INV147,ART150,LOC033,2013-04-06,On Display,Artwork relocated; position updated in storage records.,STF523
+INV148,ART490,LOC019,2015-07-17,On Loan,Minor surface dust observed; scheduled for light cleaning.,STF169
+INV149,ART641,LOC093,2015-11-21,On Loan,Outgoing loan prepared; packing condition documented.,STF231
+INV150,ART062,LOC111,2017-03-10,On Loan,Returned from exhibition; no transport damage noted.,STF044
+INV151,ART029,LOC050,2018-10-07,On Loan,Routine inventory check and condition assessment.,STF383
+INV152,ART621,LOC058,2020-10-01,On Loan,Artwork relocated; position updated in storage records.,STF131
+INV153,ART662,LOC041,2023-06-08,Under Conservation,Minor surface dust observed; scheduled for light cleaning.,STF248
+INV154,ART510,LOC020,2023-06-15,On Display,Outgoing loan prepared; packing condition documented.,STF444
+INV155,ART428,LOC017,2013-04-07,On Display,Returned from exhibition; no transport damage noted.,STF087
+INV156,ART379,LOC072,2016-04-19,On Loan,Routine inventory check and condition assessment.,STF403
+INV157,ART666,LOC088,2022-01-03,Under Conservation,Artwork relocated; position updated in storage records.,STF311
+INV158,ART316,LOC121,2020-12-09,On Loan,Minor surface dust observed; scheduled for light cleaning.,STF524
+INV159,ART705,LOC036,2017-07-24,On Display,Outgoing loan prepared; packing condition documented.,STF481
+INV160,ART502,LOC088,2021-08-06,On Display,Returned from exhibition; no transport damage noted.,STF546
+INV161,ART258,LOC069,2016-06-25,In Storage,Routine inventory check and condition assessment.,STF278
+INV162,ART321,LOC083,2022-09-11,In Storage,Artwork relocated; position updated in storage records.,STF246
+INV163,ART357,LOC079,2017-07-07,On Loan,Minor surface dust observed; scheduled for light cleaning.,STF197
+INV164,ART286,LOC068,2014-03-23,In Storage,Outgoing loan prepared; packing condition documented.,STF435
+INV165,ART705,LOC076,2018-02-09,Under Conservation,Returned from exhibition; no transport damage noted.,STF195
+INV166,ART210,LOC119,2013-11-21,On Display,Routine inventory check and condition assessment.,STF533
+INV167,ART299,LOC064,2023-06-01,Under Conservation,Artwork relocated; position updated in storage records.,STF211
+INV168,ART188,LOC128,2015-07-06,On Loan,Minor surface dust observed; scheduled for light cleaning.,STF384
+INV169,ART496,LOC070,2022-01-20,Under Conservation,Outgoing loan prepared; packing condition documented.,STF471
+INV170,ART150,LOC066,2015-08-31,On Display,Returned from exhibition; no transport damage noted.,STF074
+INV171,ART386,LOC101,2011-06-30,In Storage,Routine inventory check and condition assessment.,STF004
+INV172,ART261,LOC127,2022-05-08,Under Conservation,Artwork relocated; position updated in storage records.,STF466
+INV173,ART524,LOC108,2015-12-17,On Display,Minor surface dust observed; scheduled for light cleaning.,STF204
+INV174,ART438,LOC126,2020-09-07,On Loan,Outgoing loan prepared; packing condition documented.,STF111
+INV175,ART397,LOC081,2013-02-18,In Storage,Returned from exhibition; no transport damage noted.,STF123
+INV176,ART126,LOC093,2010-12-03,On Display,Routine inventory check and condition assessment.,STF056
+INV177,ART285,LOC028,2016-01-08,In Storage,Artwork relocated; position updated in storage records.,STF549
+INV178,ART099,LOC109,2010-11-24,On Display,Minor surface dust observed; scheduled for light cleaning.,STF210
+INV179,ART011,LOC029,2016-03-20,Under Conservation,Outgoing loan prepared; packing condition documented.,STF346
+INV180,ART441,LOC062,2014-12-11,Under Conservation,Returned from exhibition; no transport damage noted.,STF237
+INV181,ART566,LOC091,2013-05-27,On Display,Routine inventory check and condition assessment.,STF243
+INV182,ART567,LOC082,2013-11-08,On Loan,Artwork relocated; position updated in storage records.,STF226
+INV183,ART209,LOC005,2012-01-17,Under Conservation,Minor surface dust observed; scheduled for light cleaning.,STF165
+INV184,ART498,LOC032,2015-07-10,On Loan,Outgoing loan prepared; packing condition documented.,STF098
+INV185,ART227,LOC062,2023-09-03,In Storage,Returned from exhibition; no transport damage noted.,STF471
+INV186,ART178,LOC057,2012-05-29,On Display,Routine inventory check and condition assessment.,STF287
+INV187,ART245,LOC079,2023-01-01,On Loan,Artwork relocated; position updated in storage records.,STF446
+INV188,ART457,LOC055,2012-04-02,On Display,Minor surface dust observed; scheduled for light cleaning.,STF238
+INV189,ART419,LOC114,2013-05-16,On Loan,Outgoing loan prepared; packing condition documented.,STF454
+INV190,ART630,LOC098,2022-02-21,Under Conservation,Returned from exhibition; no transport damage noted.,STF024
+INV191,ART211,LOC126,2021-10-02,Under Conservation,Routine inventory check and condition assessment.,STF448
+INV192,ART330,LOC006,2021-05-20,On Loan,Artwork relocated; position updated in storage records.,STF512
+INV193,ART453,LOC053,2013-03-29,On Display,Minor surface dust observed; scheduled for light cleaning.,STF382
+INV194,ART616,LOC097,2019-01-23,In Storage,Outgoing loan prepared; packing condition documented.,STF173
+INV195,ART224,LOC081,2019-02-01,Under Conservation,Returned from exhibition; no transport damage noted.,STF362
+INV196,ART255,LOC075,2018-07-06,On Loan,Routine inventory check and condition assessment.,STF237
+INV197,ART025,LOC063,2020-02-22,On Display,Artwork relocated; position updated in storage records.,STF067
+INV198,ART399,LOC089,2018-07-18,On Display,Minor surface dust observed; scheduled for light cleaning.,STF369
+INV199,ART503,LOC112,2019-07-07,On Display,Outgoing loan prepared; packing condition documented.,STF457
+INV200,ART448,LOC066,2015-02-16,Under Conservation,Returned from exhibition; no transport damage noted.,STF357

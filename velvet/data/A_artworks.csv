@@ -1,0 +1,1001 @@
+artwork_id,artist_id,title,year_created,medium,dimensions,description,collection_id
+ART001,ARS016,Silent Violet Sea,2010,Oil on canvas,179 x 148 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL096
+ART002,ARS017,Luminous Onyx Shadow,2005,Mixed media,113 x 229 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL057
+ART003,ARS117,Vibrant Red Path,2009,Photograph,169 x 175 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL069
+ART004,ARS019,Distant Amber City No. 38,2011,Marble sculpture,263 x 261 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL126
+ART005,ARS020,Luminous Ivory Harbor No. 69,2003,Marble sculpture,125 x 82 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL069
+ART006,ARS147,Eternal Violet Harbor No. 20,1963,Bronze sculpture,282 x 141 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL108
+ART007,ARS022,Whispering Violet Symphony,1988,Watercolor on paper,199 x 71 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL015
+ART008,ARS069,Radiant Red Shadow,1968,Oil on canvas,158 x 225 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL032
+ART009,ARS064,Radiant Violet River,1985,Acrylic on canvas,131 x 265 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL054
+ART010,ARS122,Radiant Sapphire Silhouette No. 6,2014,Marble sculpture,296 x 92 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL124
+ART011,ARS077,Luminous Ivory Forest,1988,Mixed media,87 x 150 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL084
+ART012,ARS004,Hidden Sapphire Figure No. 32,1859,Installation,51 x 273 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL040
+ART013,ARS096,Golden Amber Garden,1953,Bronze sculpture,60 x 60 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL040
+ART014,ARS138,Misty Emerald Sea No. 72,1944,Ink on paper,207 x 254 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL006
+ART015,ARS097,Frozen Emerald Sky,1942,Photograph,254 x 180 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL126
+ART016,ARS049,Shimmering Emerald Shadow,2021,Installation,269 x 170 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL042
+ART017,ARS018,Infinite Emerald Mountain,2004,Oil on canvas,217 x 262 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL130
+ART018,ARS098,Hidden Blue Landscape,2000,Photograph,194 x 62 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL100
+ART019,ARS049,Infinite Violet Shadow No. 37,2008,Acrylic on canvas,239 x 194 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL025
+ART020,ARS134,Golden Blue Echo No. 5,1922,Ink on paper,84 x 278 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL026
+ART021,ARS009,Shimmering Onyx Sea,1983,Bronze sculpture,161 x 55 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL057
+ART022,ARS019,Silent Amber Sea,2010,Bronze sculpture,269 x 61 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL107
+ART023,ARS095,Crimson Indigo Sky,1888,Ink on paper,185 x 69 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL025
+ART024,ARS026,Forgotten Scarlet Reflection No. 68,1915,Acrylic on canvas,121 x 242 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL092
+ART025,ARS118,Distant Red Garden,1940,Bronze sculpture,235 x 288 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL041
+ART026,ARS137,Broken Ivory Silhouette,1952,Mixed media,220 x 241 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL083
+ART027,ARS062,Shimmering Scarlet Horizon,2021,Digital print,160 x 214 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL115
+ART028,ARS102,Silent Blue Memory,2017,Oil on canvas,99 x 184 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL077
+ART029,ARS057,Luminous Ivory Harbor,2002,Photograph,171 x 291 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL040
+ART030,ARS025,Crimson Violet Symphony No. 34,1928,Marble sculpture,157 x 149 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL077
+ART031,ARS024,Shimmering Onyx Figure,1948,Watercolor on paper,196 x 277 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL125
+ART032,ARS148,Misty Indigo Memory No. 74,1947,Bronze sculpture,70 x 58 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL090
+ART033,ARS112,Distant Red River,2011,Oil on canvas,35 x 225 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL079
+ART034,ARS135,Crimson Ivory Shadow,2009,Watercolor on paper,287 x 143 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL013
+ART035,ARS101,Broken Indigo Figure,2005,Mixed media,251 x 178 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL038
+ART036,ARS034,Celestial Red Sea,1951,Acrylic on canvas,234 x 164 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL103
+ART037,ARS129,Distant Emerald Echo,1949,Installation,279 x 232 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL051
+ART038,ARS144,Infinite Amber River No. 56,1983,Mixed media,75 x 87 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL109
+ART039,ARS094,Frozen Amber Silhouette,1959,Bronze sculpture,186 x 116 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL114
+ART040,ARS038,Broken Blue River No. 48,1921,Oil on canvas,73 x 87 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL063
+ART041,ARS038,Whispering Blue Silhouette,1916,Digital print,186 x 260 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL006
+ART042,ARS085,Luminous Scarlet Horizon No. 67,1913,Oil on canvas,277 x 102 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL097
+ART043,ARS150,Infinite Blue Sky No. 37,1934,Digital print,168 x 57 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL003
+ART044,ARS018,Radiant Sapphire Symphony,1996,Ink on paper,179 x 227 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL098
+ART045,ARS131,Misty Ivory Sea,1986,Ink on paper,75 x 125 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL129
+ART046,ARS118,Melancholic Blue Forest No. 68,1924,Mixed media,200 x 280 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL041
+ART047,ARS005,Frozen Ivory Symphony,1932,Oil on canvas,286 x 171 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL066
+ART048,ARS100,Silent Scarlet Sky No. 44,1902,Mixed media,100 x 74 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL059
+ART049,ARS107,Forgotten Indigo Echo,1938,Photograph,198 x 259 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL034
+ART050,ARS053,Eternal Indigo Shadow,1928,Photograph,100 x 188 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL035
+ART051,ARS111,Eternal Indigo Garden,1966,Bronze sculpture,90 x 124 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL038
+ART052,ARS008,Celestial Onyx Path,1701,Acrylic on canvas,107 x 126 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL034
+ART053,ARS048,Silent Indigo Landscape,2017,Ink on paper,148 x 148 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL007
+ART054,ARS092,Golden Violet Echo,2008,Mixed media,221 x 124 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL126
+ART055,ARS122,Eternal Emerald Horizon No. 53,2015,Mixed media,37 x 168 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL057
+ART056,ARS052,Luminous Red Garden,1934,Digital print,280 x 196 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL064
+ART057,ARS110,Radiant Blue Landscape,1948,Installation,190 x 231 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL010
+ART058,ARS134,Misty Violet Mountain,1902,Photograph,155 x 295 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL102
+ART059,ARS011,Melancholic Onyx Light,1931,Digital print,127 x 179 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL102
+ART060,ARS078,Whispering Violet Garden,1943,Digital print,294 x 102 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL116
+ART061,ARS024,Infinite Red Garden,1978,Mixed media,99 x 231 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL083
+ART062,ARS116,Silent Emerald Mountain,2022,Acrylic on canvas,133 x 262 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL065
+ART063,ARS083,Hidden Red City No. 58,1967,Photograph,215 x 73 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL099
+ART064,ARS131,Hidden Onyx Shadow,2001,Installation,117 x 201 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL039
+ART065,ARS042,Eternal Emerald Forest,2001,Watercolor on paper,258 x 177 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL031
+ART066,ARS034,Luminous Blue Landscape,1946,Digital print,264 x 284 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL002
+ART067,ARS127,Forgotten Amber Figure,1907,Acrylic on canvas,239 x 256 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL002
+ART068,ARS063,Melancholic Sapphire Landscape,1914,Watercolor on paper,55 x 124 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL015
+ART069,ARS090,Crimson Emerald Forest,2018,Acrylic on canvas,182 x 199 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL013
+ART070,ARS028,Distant Emerald Garden,2008,Installation,120 x 263 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL093
+ART071,ARS010,Golden Sapphire Silhouette,1921,Photograph,64 x 248 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL017
+ART072,ARS075,Secret Emerald Dream,1998,Mixed media,198 x 299 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL054
+ART073,ARS054,Crimson Red Figure,2004,Installation,74 x 277 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL074
+ART074,ARS110,Celestial Sapphire Light,1945,Photograph,96 x 284 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL128
+ART075,ARS127,Hidden Indigo River,1890,Oil on canvas,30 x 90 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL120
+ART076,ARS031,Luminous Indigo Path,1977,Oil on canvas,209 x 138 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL052
+ART077,ARS073,Vibrant Red Memory,1947,Acrylic on canvas,195 x 33 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL086
+ART078,ARS088,Radiant Indigo Landscape,2001,Bronze sculpture,129 x 199 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL123
+ART079,ARS122,Crimson Emerald Sea No. 59,2001,Mixed media,201 x 266 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL015
+ART080,ARS134,Whispering Indigo Silhouette,1899,Bronze sculpture,136 x 199 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL017
+ART081,ARS039,Vibrant Blue Silhouette,1997,Watercolor on paper,114 x 229 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL030
+ART082,ARS079,Celestial Blue Sky,1998,Digital print,151 x 220 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL078
+ART083,ARS056,Infinite Sapphire Garden No. 5,2022,Digital print,133 x 77 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL130
+ART084,ARS007,Secret Scarlet Echo No. 62,1701,Acrylic on canvas,197 x 103 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL034
+ART085,ARS053,Crimson Violet Reflection,1969,Marble sculpture,89 x 32 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL012
+ART086,ARS023,Celestial Violet Forest No. 40,1976,Bronze sculpture,189 x 137 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL052
+ART087,ARS050,Whispering Sapphire Shadow,2000,Watercolor on paper,90 x 169 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL041
+ART088,ARS071,Misty Blue Landscape,1923,Photograph,135 x 209 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL082
+ART089,ARS070,Eternal Sapphire Figure No. 10,1973,Oil on canvas,203 x 257 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL034
+ART090,ARS008,Secret Blue Dream,1700,Watercolor on paper,248 x 230 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL115
+ART091,ARS092,Whispering Ivory Horizon,1958,Acrylic on canvas,268 x 97 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL120
+ART092,ARS025,Broken Sapphire Mountain,1965,Installation,144 x 103 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL067
+ART093,ARS094,Radiant Emerald Silhouette,1997,Oil on canvas,262 x 279 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL017
+ART094,ARS122,Hidden Sapphire Symphony,1975,Mixed media,290 x 82 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL028
+ART095,ARS084,Melancholic Red Memory,1963,Installation,241 x 152 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL063
+ART096,ARS141,Hidden Violet Reflection No. 27,2016,Installation,250 x 252 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL088
+ART097,ARS140,Forgotten Emerald City,2004,Installation,279 x 88 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL119
+ART098,ARS084,Melancholic Red Mountain No. 52,1920,Bronze sculpture,85 x 224 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL127
+ART099,ARS016,Golden Amber Echo,2023,Watercolor on paper,30 x 105 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL116
+ART100,ARS137,Whispering Onyx Landscape,1919,Marble sculpture,135 x 192 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL078
+ART101,ARS112,Frozen Red Figure No. 66,1998,Oil on canvas,95 x 180 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL095
+ART102,ARS141,Crimson Blue Shadow,1994,Oil on canvas,86 x 174 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL061
+ART103,ARS111,Shimmering Onyx Silhouette,1956,Photograph,225 x 252 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL055
+ART104,ARS045,Secret Emerald Horizon,1965,Marble sculpture,243 x 108 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL033
+ART105,ARS035,Silent Red Harbor No. 63,2023,Acrylic on canvas,253 x 99 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL036
+ART106,ARS107,Broken Indigo Path,1957,Photograph,290 x 247 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL116
+ART107,ARS099,Frozen Amber Garden,1948,Photograph,285 x 151 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL069
+ART108,ARS106,Melancholic Indigo Symphony No. 5,1959,Acrylic on canvas,277 x 218 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL124
+ART109,ARS021,Eternal Scarlet Sky,1995,Ink on paper,297 x 75 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL121
+ART110,ARS020,Melancholic Indigo Memory,2013,Digital print,35 x 270 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL121
+ART111,ARS147,Celestial Onyx Symphony,2014,Watercolor on paper,180 x 178 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL010
+ART112,ARS078,Shimmering Sapphire Forest,1977,Marble sculpture,116 x 56 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL007
+ART113,ARS074,Secret Red Echo,1951,Installation,159 x 97 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL072
+ART114,ARS071,Vibrant Blue Dream,1985,Bronze sculpture,107 x 258 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL045
+ART115,ARS067,Forgotten Violet Garden,1918,Watercolor on paper,205 x 73 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL040
+ART116,ARS127,Distant Onyx River,1924,Installation,115 x 137 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL089
+ART117,ARS014,Vibrant Red Forest No. 52,1947,Photograph,184 x 273 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL060
+ART118,ARS098,Radiant Violet Sky No. 56,1985,Mixed media,177 x 259 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL081
+ART119,ARS136,Crimson Red Shadow,1944,Marble sculpture,169 x 201 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL069
+ART120,ARS026,Vibrant Indigo Reflection,1915,Bronze sculpture,129 x 296 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL047
+ART121,ARS081,Melancholic Blue Harbor,1928,Photograph,240 x 80 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL027
+ART122,ARS115,Frozen Amber Memory,2007,Oil on canvas,42 x 77 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL056
+ART123,ARS032,Misty Red Landscape No. 73,2022,Watercolor on paper,124 x 86 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL065
+ART124,ARS076,Broken Red Mountain,1887,Marble sculpture,248 x 195 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL042
+ART125,ARS019,Vibrant Blue Reflection,2009,Watercolor on paper,162 x 165 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL113
+ART126,ARS018,Secret Amber Landscape,2016,Watercolor on paper,281 x 85 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL111
+ART127,ARS056,Misty Violet Sky No. 10,2011,Oil on canvas,158 x 258 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL128
+ART128,ARS039,Silent Blue Reflection,2006,Installation,198 x 230 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL001
+ART129,ARS132,Secret Violet Path,2022,Oil on canvas,65 x 145 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL099
+ART130,ARS124,Misty Indigo Shadow,1939,Mixed media,200 x 185 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL015
+ART131,ARS024,Frozen Scarlet Silhouette No. 59,1962,Photograph,133 x 120 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL011
+ART132,ARS099,Luminous Sapphire Reflection,1993,Digital print,279 x 73 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL049
+ART133,ARS036,Crimson Amber Harbor,1953,Mixed media,152 x 280 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL017
+ART134,ARS139,Whispering Violet Shadow,2013,Bronze sculpture,38 x 48 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL015
+ART135,ARS087,Crimson Onyx Dream No. 67,1984,Acrylic on canvas,106 x 149 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL010
+ART136,ARS037,Secret Blue Sea,2018,Watercolor on paper,53 x 154 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL004
+ART137,ARS045,Crimson Sapphire Dream,1916,Acrylic on canvas,62 x 84 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL128
+ART138,ARS057,Golden Amber Path,2020,Acrylic on canvas,235 x 196 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL036
+ART139,ARS083,Luminous Blue Figure No. 9,1934,Mixed media,170 x 102 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL044
+ART140,ARS095,Melancholic Emerald Mountain No. 75,1880,Installation,98 x 81 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL097
+ART141,ARS041,Silent Violet City No. 23,1999,Digital print,175 x 243 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL033
+ART142,ARS053,Eternal Sapphire Light,1933,Installation,119 x 49 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL047
+ART143,ARS128,Golden Sapphire Symphony,2010,Acrylic on canvas,150 x 128 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL025
+ART144,ARS093,Melancholic Scarlet River,2021,Oil on canvas,136 x 171 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL050
+ART145,ARS029,Eternal Violet Sea No. 6,1978,Ink on paper,216 x 175 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL112
+ART146,ARS065,Celestial Indigo Mountain No. 7,2013,Oil on canvas,120 x 110 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL125
+ART147,ARS132,Misty Red River,2020,Ink on paper,196 x 244 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL084
+ART148,ARS059,Misty Ivory River No. 53,1955,Acrylic on canvas,222 x 142 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL121
+ART149,ARS150,Secret Blue Path No. 79,1967,Bronze sculpture,121 x 228 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL035
+ART150,ARS118,Luminous Ivory Sky No. 17,1907,Watercolor on paper,60 x 173 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL029
+ART151,ARS120,Broken Onyx Garden,1987,Installation,181 x 110 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL044
+ART152,ARS148,Melancholic Amber City,1965,Installation,280 x 140 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL122
+ART153,ARS119,Vibrant Blue Path,1947,Mixed media,156 x 197 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL057
+ART154,ARS039,Shimmering Blue Path,1922,Oil on canvas,270 x 288 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL109
+ART155,ARS136,Radiant Violet Dream,1932,Mixed media,72 x 36 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL056
+ART156,ARS034,Frozen Sapphire River,1956,Marble sculpture,38 x 275 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL042
+ART157,ARS118,Shimmering Indigo Harbor,1934,Watercolor on paper,100 x 237 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL095
+ART158,ARS119,Silent Red Reflection,1953,Mixed media,46 x 181 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL070
+ART159,ARS139,Shimmering Amber City,2006,Bronze sculpture,58 x 293 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL014
+ART160,ARS029,Radiant Ivory Mountain,1998,Photograph,217 x 119 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL018
+ART161,ARS144,Luminous Emerald Silhouette No. 15,2003,Bronze sculpture,137 x 145 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL091
+ART162,ARS069,Infinite Onyx Sky No. 48,1988,Photograph,261 x 278 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL032
+ART163,ARS121,Melancholic Scarlet Memory,2016,Digital print,63 x 126 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL023
+ART164,ARS021,Radiant Emerald Memory,1994,Marble sculpture,85 x 114 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL029
+ART165,ARS038,Silent Sapphire Path,1971,Bronze sculpture,97 x 272 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL108
+ART166,ARS114,Silent Sapphire Horizon No. 30,2022,Installation,201 x 240 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL088
+ART167,ARS084,Secret Indigo Light,1968,Installation,264 x 185 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL034
+ART168,ARS079,Hidden Sapphire River,1971,Bronze sculpture,54 x 105 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL073
+ART169,ARS117,Hidden Indigo Garden,1994,Watercolor on paper,123 x 119 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL042
+ART170,ARS061,Misty Blue Silhouette,1972,Watercolor on paper,163 x 219 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL053
+ART171,ARS144,Crimson Ivory Symphony No. 58,2011,Acrylic on canvas,113 x 184 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL007
+ART172,ARS104,Secret Emerald Mountain,2012,Bronze sculpture,32 x 289 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL076
+ART173,ARS122,Whispering Indigo Echo,2013,Acrylic on canvas,256 x 203 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL123
+ART174,ARS011,Eternal Scarlet Dream,1942,Bronze sculpture,142 x 258 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL024
+ART175,ARS084,Crimson Indigo Horizon,1940,Oil on canvas,172 x 130 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL022
+ART176,ARS138,Broken Red Light,1925,Oil on canvas,192 x 291 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL093
+ART177,ARS102,Eternal Onyx Symphony,1984,Bronze sculpture,175 x 206 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL079
+ART178,ARS115,Melancholic Red Horizon,2020,Marble sculpture,242 x 256 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL042
+ART179,ARS109,Distant Emerald Figure,1987,Digital print,136 x 185 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL086
+ART180,ARS017,Shimmering Onyx City No. 35,2011,Installation,119 x 266 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL036
+ART181,ARS052,Hidden Onyx Memory,1908,Digital print,184 x 185 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL119
+ART182,ARS058,Silent Blue Echo,1998,Marble sculpture,271 x 93 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL107
+ART183,ARS046,Secret Amber Harbor No. 36,1933,Installation,64 x 215 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL124
+ART184,ARS145,Distant Sapphire Sea,1987,Installation,221 x 292 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL005
+ART185,ARS067,Hidden Indigo Forest No. 60,1924,Oil on canvas,212 x 113 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL070
+ART186,ARS093,Distant Ivory Forest,2017,Ink on paper,69 x 293 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL047
+ART187,ARS025,Hidden Scarlet Silhouette,1957,Bronze sculpture,184 x 168 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL025
+ART188,ARS137,Shimmering Ivory Echo No. 67,1941,Mixed media,220 x 278 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL088
+ART189,ARS042,Misty Amber Echo,1994,Mixed media,299 x 88 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL118
+ART190,ARS020,Misty Emerald Harbor,2012,Digital print,215 x 101 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL088
+ART191,ARS045,Whispering Blue Dream No. 19,1931,Ink on paper,187 x 94 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL034
+ART192,ARS021,Distant Red City No. 62,2017,Acrylic on canvas,51 x 130 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL009
+ART193,ARS132,Shimmering Blue Sea No. 33,2011,Oil on canvas,63 x 184 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL025
+ART194,ARS032,Luminous Indigo Horizon No. 45,1972,Marble sculpture,76 x 104 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL090
+ART195,ARS091,Hidden Scarlet Landscape No. 73,1996,Photograph,80 x 37 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL056
+ART196,ARS050,Whispering Emerald Shadow No. 13,1971,Bronze sculpture,288 x 273 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL048
+ART197,ARS113,Misty Emerald Symphony,2015,Ink on paper,139 x 293 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL105
+ART198,ARS029,Celestial Red Mountain No. 18,2006,Photograph,214 x 177 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL011
+ART199,ARS022,Celestial Violet Dream,2015,Ink on paper,189 x 257 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL105
+ART200,ARS075,Distant Amber City,2011,Oil on canvas,218 x 121 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL126
+ART201,ARS027,Radiant Violet Light,1959,Mixed media,91 x 103 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL103
+ART202,ARS027,Hidden Red Symphony,1992,Acrylic on canvas,132 x 236 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL060
+ART203,ARS109,Secret Sapphire Figure,2019,Digital print,234 x 212 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL104
+ART204,ARS125,Infinite Sapphire Echo,1904,Digital print,92 x 158 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL128
+ART205,ARS060,Eternal Blue Dream,1992,Watercolor on paper,285 x 43 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL098
+ART206,ARS084,Eternal Sapphire Landscape,2009,Digital print,69 x 296 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL120
+ART207,ARS052,Whispering Violet Sea,1940,Oil on canvas,205 x 39 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL111
+ART208,ARS031,Radiant Violet Silhouette,1991,Oil on canvas,265 x 48 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL046
+ART209,ARS143,Whispering Emerald Sea,1958,Acrylic on canvas,229 x 279 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL126
+ART210,ARS142,Melancholic Indigo Sea,2021,Oil on canvas,110 x 289 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL101
+ART211,ARS068,Secret Indigo Reflection,1946,Oil on canvas,175 x 194 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL008
+ART212,ARS012,Eternal Ivory Symphony,1941,Mixed media,43 x 204 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL025
+ART213,ARS110,Frozen Ivory Path,1931,Marble sculpture,156 x 150 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL022
+ART214,ARS017,Whispering Red Silhouette No. 69,2008,Mixed media,49 x 265 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL108
+ART215,ARS069,Silent Violet Figure No. 41,1992,Installation,229 x 195 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL026
+ART216,ARS126,Misty Amber Silhouette,1957,Installation,203 x 115 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL077
+ART217,ARS094,Distant Amber Sea,1965,Marble sculpture,139 x 177 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL013
+ART218,ARS077,Shimmering Onyx River,1980,Marble sculpture,78 x 202 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL018
+ART219,ARS146,Infinite Violet Path No. 10,1985,Marble sculpture,184 x 288 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL111
+ART220,ARS139,Celestial Amber Path,2017,Oil on canvas,262 x 122 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL048
+ART221,ARS148,Secret Amber Mountain,1967,Photograph,252 x 60 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL052
+ART222,ARS094,Broken Emerald River No. 39,2011,Acrylic on canvas,240 x 193 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL053
+ART223,ARS106,Vibrant Sapphire Garden,1961,Ink on paper,150 x 237 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL030
+ART224,ARS039,Luminous Blue River,1956,Photograph,267 x 278 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL112
+ART225,ARS109,Crimson Amber Garden,1979,Photograph,162 x 172 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL046
+ART226,ARS011,Secret Blue Forest,1932,Acrylic on canvas,190 x 182 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL105
+ART227,ARS094,Golden Onyx Echo No. 74,2020,Installation,91 x 297 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL065
+ART228,ARS128,Golden Amber Landscape No. 41,2003,Mixed media,229 x 150 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL056
+ART229,ARS037,Misty Emerald Horizon,2013,Installation,239 x 160 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL015
+ART230,ARS126,Melancholic Ivory Dream,1936,Marble sculpture,273 x 156 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL038
+ART231,ARS093,Secret Ivory Memory No. 78,2002,Marble sculpture,57 x 152 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL099
+ART232,ARS080,Frozen Red Shadow,1965,Mixed media,228 x 34 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL066
+ART233,ARS078,Golden Amber Memory No. 21,1968,Oil on canvas,192 x 238 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL071
+ART234,ARS021,Celestial Onyx Dream,2006,Bronze sculpture,289 x 63 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL108
+ART235,ARS141,Celestial Violet Harbor,2013,Watercolor on paper,124 x 257 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL001
+ART236,ARS103,Luminous Sapphire Silhouette,1904,Photograph,110 x 157 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL034
+ART237,ARS106,Celestial Violet Sea,1931,Installation,163 x 118 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL084
+ART238,ARS073,Luminous Red Path,1927,Oil on canvas,223 x 144 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL006
+ART239,ARS143,Forgotten Red Mountain No. 22,1891,Installation,235 x 249 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL067
+ART240,ARS039,Golden Ivory Garden,1932,Mixed media,37 x 299 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL117
+ART241,ARS127,Misty Amber Horizon No. 35,1896,Watercolor on paper,283 x 225 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL111
+ART242,ARS053,Luminous Sapphire Horizon,1955,Marble sculpture,104 x 44 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL068
+ART243,ARS061,Broken Amber Symphony,1985,Oil on canvas,264 x 73 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL121
+ART244,ARS035,Celestial Onyx Horizon,2008,Acrylic on canvas,161 x 67 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL016
+ART245,ARS014,Celestial Amber Sea,1892,Photograph,32 x 159 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL098
+ART246,ARS078,Radiant Ivory Echo,1975,Marble sculpture,51 x 121 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL044
+ART247,ARS129,Secret Ivory Mountain No. 41,2014,Marble sculpture,251 x 102 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL030
+ART248,ARS081,Crimson Emerald Sea,1945,Marble sculpture,214 x 250 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL068
+ART249,ARS068,Infinite Ivory Path,1941,Photograph,281 x 107 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL113
+ART250,ARS014,Luminous Emerald Forest No. 5,1947,Digital print,163 x 113 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL112
+ART251,ARS030,Secret Blue Mountain,1930,Digital print,278 x 264 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL029
+ART252,ARS038,Misty Ivory City No. 37,1925,Marble sculpture,116 x 290 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL055
+ART253,ARS150,Silent Scarlet Figure No. 10,1940,Bronze sculpture,285 x 78 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL007
+ART254,ARS073,Misty Onyx Symphony,1890,Oil on canvas,195 x 108 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL021
+ART255,ARS118,Secret Violet Sky,1905,Installation,198 x 52 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL116
+ART256,ARS084,Shimmering Emerald Horizon,2014,Oil on canvas,174 x 195 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL019
+ART257,ARS141,Radiant Red Reflection,1987,Oil on canvas,234 x 75 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL054
+ART258,ARS042,Radiant Onyx Memory,2023,Marble sculpture,108 x 91 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL126
+ART259,ARS111,Misty Ivory Light No. 58,1955,Installation,273 x 167 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL109
+ART260,ARS024,Distant Ivory Landscape No. 55,1949,Bronze sculpture,50 x 292 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL119
+ART261,ARS058,Eternal Violet Light,1991,Digital print,72 x 178 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL112
+ART262,ARS021,Secret Sapphire Echo,2009,Mixed media,157 x 297 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL076
+ART263,ARS146,Crimson Scarlet City,1967,Mixed media,85 x 291 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL106
+ART264,ARS025,Broken Indigo Sky,1942,Oil on canvas,71 x 287 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL030
+ART265,ARS119,Hidden Emerald Reflection No. 54,1951,Digital print,190 x 262 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL068
+ART266,ARS088,Hidden Amber Garden No. 78,2006,Photograph,84 x 252 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL005
+ART267,ARS002,Radiant Red Harbor No. 62,1885,Marble sculpture,237 x 279 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL093
+ART268,ARS102,Whispering Red Echo No. 25,1991,Oil on canvas,38 x 126 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL054
+ART269,ARS124,Eternal Amber Path,1951,Marble sculpture,127 x 74 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL119
+ART270,ARS038,Secret Onyx Harbor No. 20,1996,Digital print,257 x 278 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL006
+ART271,ARS116,Shimmering Amber Horizon,2017,Oil on canvas,56 x 200 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL027
+ART272,ARS111,Distant Violet Figure,1966,Digital print,178 x 48 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL103
+ART273,ARS125,Infinite Indigo Landscape,1955,Oil on canvas,279 x 148 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL005
+ART274,ARS109,Shimmering Ivory Shadow No. 54,2008,Installation,89 x 283 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL089
+ART275,ARS115,Distant Blue Garden,2012,Digital print,270 x 206 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL060
+ART276,ARS130,Forgotten Indigo Silhouette,2019,Marble sculpture,269 x 97 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL100
+ART277,ARS107,Frozen Violet Garden,1935,Watercolor on paper,74 x 277 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL045
+ART278,ARS052,Hidden Indigo Sea No. 54,1937,Ink on paper,185 x 150 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL013
+ART279,ARS005,Frozen Sapphire Symphony,1930,Acrylic on canvas,287 x 46 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL087
+ART280,ARS111,Misty Indigo River No. 29,1962,Bronze sculpture,162 x 204 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL012
+ART281,ARS143,Vibrant Emerald Light,1905,Digital print,55 x 254 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL029
+ART282,ARS028,Misty Scarlet Forest,1979,Bronze sculpture,90 x 135 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL041
+ART283,ARS075,Broken Scarlet Sea,1987,Bronze sculpture,108 x 216 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL036
+ART284,ARS032,Luminous Violet Path,1971,Bronze sculpture,155 x 272 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL074
+ART285,ARS130,Hidden Red Sky,2022,Ink on paper,242 x 214 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL039
+ART286,ARS136,Distant Amber Echo,1943,Photograph,239 x 264 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL093
+ART287,ARS008,Broken Emerald Harbor,1700,Bronze sculpture,73 x 203 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL103
+ART288,ARS043,Distant Blue Reflection,1933,Photograph,107 x 59 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL076
+ART289,ARS108,Radiant Scarlet Memory,1942,Marble sculpture,206 x 34 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL038
+ART290,ARS104,Broken Amber Shadow,2022,Ink on paper,206 x 237 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL078
+ART291,ARS022,Crimson Scarlet Silhouette,1994,Ink on paper,296 x 175 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL024
+ART292,ARS131,Melancholic Sapphire Light,1992,Oil on canvas,111 x 41 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL067
+ART293,ARS062,Whispering Onyx Light No. 8,2018,Bronze sculpture,162 x 289 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL032
+ART294,ARS013,Misty Violet Memory,1905,Ink on paper,262 x 203 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL060
+ART295,ARS090,Whispering Sapphire Figure,2010,Ink on paper,223 x 296 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL027
+ART296,ARS084,Infinite Indigo Horizon,1958,Watercolor on paper,262 x 80 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL109
+ART297,ARS106,Golden Red Forest,1931,Digital print,273 x 139 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL020
+ART298,ARS095,Infinite Onyx Figure,1971,Mixed media,165 x 285 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL113
+ART299,ARS126,Secret Violet Echo,1941,Ink on paper,300 x 90 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL117
+ART300,ARS122,Crimson Emerald Shadow,1974,Acrylic on canvas,239 x 86 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL095
+ART301,ARS147,Whispering Blue Light No. 48,1982,Marble sculpture,221 x 185 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL125
+ART302,ARS008,Eternal Emerald Figure,1701,Watercolor on paper,175 x 140 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL126
+ART303,ARS001,Misty Scarlet Symphony No. 6,1701,Installation,276 x 188 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL116
+ART304,ARS087,Radiant Violet Landscape No. 18,1987,Digital print,265 x 260 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL039
+ART305,ARS084,Golden Indigo Landscape,1941,Photograph,232 x 203 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL012
+ART306,ARS114,Vibrant Red Garden,1995,Ink on paper,93 x 73 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL014
+ART307,ARS146,Infinite Amber Sea,1904,Oil on canvas,91 x 122 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL071
+ART308,ARS053,Forgotten Indigo Mountain No. 69,1980,Installation,194 x 235 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL012
+ART309,ARS126,Silent Ivory Path No. 4,1942,Marble sculpture,192 x 225 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL024
+ART310,ARS030,Misty Scarlet Garden,1906,Watercolor on paper,160 x 75 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL079
+ART311,ARS105,Hidden Blue Forest,1978,Mixed media,193 x 102 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL083
+ART312,ARS067,Radiant Red Forest No. 77,1931,Photograph,282 x 290 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL099
+ART313,ARS030,Distant Red Sea No. 30,1896,Ink on paper,167 x 81 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL033
+ART314,ARS078,Shimmering Onyx Mountain No. 65,1953,Photograph,102 x 221 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL044
+ART315,ARS063,Melancholic Onyx Shadow,1888,Watercolor on paper,267 x 178 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL001
+ART316,ARS016,Secret Sapphire Landscape,2007,Installation,209 x 138 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL073
+ART317,ARS012,Hidden Scarlet Figure No. 12,1929,Photograph,92 x 101 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL072
+ART318,ARS111,Luminous Indigo Light,1951,Digital print,205 x 163 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL070
+ART319,ARS063,Celestial Ivory Horizon,1930,Oil on canvas,38 x 98 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL122
+ART320,ARS002,Silent Emerald Path,1886,Acrylic on canvas,231 x 71 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL008
+ART321,ARS114,Misty Ivory Reflection,2001,Oil on canvas,228 x 120 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL032
+ART322,ARS119,Frozen Amber Mountain No. 3,1949,Acrylic on canvas,213 x 128 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL078
+ART323,ARS057,Forgotten Violet Symphony No. 64,2004,Ink on paper,137 x 33 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL102
+ART324,ARS029,Vibrant Indigo Light,2010,Acrylic on canvas,129 x 119 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL033
+ART325,ARS017,Eternal Sapphire Figure,2014,Oil on canvas,170 x 128 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL065
+ART326,ARS144,Broken Blue Path,1948,Mixed media,195 x 251 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL071
+ART327,ARS032,Infinite Violet Sea,2019,Oil on canvas,52 x 144 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL072
+ART328,ARS108,Melancholic Violet Silhouette No. 25,1944,Ink on paper,71 x 42 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL109
+ART329,ARS020,Forgotten Amber Garden,2005,Digital print,79 x 44 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL111
+ART330,ARS007,Shimmering Ivory Sky No. 61,1700,Bronze sculpture,204 x 57 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL061
+ART331,ARS019,Golden Blue Forest,2010,Digital print,95 x 61 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL015
+ART332,ARS078,Distant Red Dream,1975,Mixed media,56 x 180 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL103
+ART333,ARS025,Distant Amber Landscape,1944,Mixed media,35 x 262 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL119
+ART334,ARS110,Misty Ivory Harbor,1942,Acrylic on canvas,128 x 85 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL004
+ART335,ARS018,Shimmering Amber Figure No. 66,2004,Digital print,211 x 245 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL114
+ART336,ARS048,Forgotten Emerald Forest No. 40,2019,Bronze sculpture,253 x 292 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL080
+ART337,ARS150,Melancholic Emerald Echo,1952,Oil on canvas,179 x 218 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL038
+ART338,ARS015,Forgotten Scarlet Shadow,1884,Ink on paper,206 x 130 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL052
+ART339,ARS018,Broken Indigo Silhouette,2014,Mixed media,201 x 183 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL085
+ART340,ARS042,Misty Violet Forest,1982,Digital print,144 x 147 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL055
+ART341,ARS062,Secret Ivory Reflection No. 24,2013,Acrylic on canvas,215 x 35 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL092
+ART342,ARS008,Melancholic Red Echo,1700,Oil on canvas,214 x 52 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL051
+ART343,ARS051,Whispering Emerald River,1973,Watercolor on paper,203 x 155 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL051
+ART344,ARS006,Hidden Sapphire Dream No. 18,1970,Ink on paper,86 x 203 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL079
+ART345,ARS117,Forgotten Ivory Symphony,2009,Acrylic on canvas,252 x 63 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL037
+ART346,ARS034,Luminous Amber Shadow,1992,Ink on paper,192 x 249 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL012
+ART347,ARS049,Melancholic Sapphire Echo,1999,Photograph,173 x 94 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL126
+ART348,ARS054,Golden Violet Landscape No. 66,1995,Digital print,290 x 221 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL119
+ART349,ARS046,Celestial Ivory Light,1933,Installation,272 x 167 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL103
+ART350,ARS150,Crimson Amber River,1966,Ink on paper,150 x 232 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL079
+ART351,ARS109,Radiant Indigo Garden,2001,Watercolor on paper,160 x 73 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL022
+ART352,ARS076,Broken Scarlet Symphony No. 6,1899,Mixed media,292 x 202 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL116
+ART353,ARS120,Distant Onyx Symphony,1999,Oil on canvas,169 x 225 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL046
+ART354,ARS114,Forgotten Sapphire City,1966,Photograph,180 x 286 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL021
+ART355,ARS071,Forgotten Red Dream No. 5,1979,Ink on paper,132 x 200 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL085
+ART356,ARS065,Whispering Sapphire Horizon,1987,Marble sculpture,163 x 34 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL073
+ART357,ARS089,Radiant Onyx Figure,1909,Watercolor on paper,271 x 292 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL102
+ART358,ARS059,Forgotten Amber Sea No. 76,1978,Bronze sculpture,269 x 266 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL022
+ART359,ARS081,Luminous Onyx Path No. 58,1963,Watercolor on paper,45 x 221 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL033
+ART360,ARS079,Silent Violet Symphony,1988,Photograph,247 x 236 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL077
+ART361,ARS084,Shimmering Blue Figure,1929,Installation,108 x 199 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL101
+ART362,ARS098,Luminous Onyx City,1997,Bronze sculpture,273 x 85 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL116
+ART363,ARS078,Golden Emerald Dream,1951,Oil on canvas,46 x 280 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL048
+ART364,ARS051,Golden Onyx Memory No. 38,2018,Oil on canvas,65 x 262 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL095
+ART365,ARS133,Silent Emerald Silhouette,1981,Acrylic on canvas,230 x 110 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL034
+ART366,ARS138,Distant Violet City,1951,Ink on paper,135 x 96 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL080
+ART367,ARS111,Secret Emerald Landscape,1950,Digital print,133 x 287 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL071
+ART368,ARS052,Silent Emerald Mountain No. 52,1944,Bronze sculpture,156 x 299 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL126
+ART369,ARS118,Broken Indigo Forest,1923,Marble sculpture,263 x 207 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL101
+ART370,ARS045,Distant Amber Garden,1983,Watercolor on paper,264 x 226 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL025
+ART371,ARS101,Melancholic Sapphire City,2021,Mixed media,141 x 282 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL032
+ART372,ARS095,Golden Red Light,1953,Watercolor on paper,239 x 260 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL065
+ART373,ARS054,Infinite Blue Mountain No. 60,1995,Ink on paper,205 x 234 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL102
+ART374,ARS010,Silent Sapphire Dream,1905,Digital print,197 x 267 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL119
+ART375,ARS018,Golden Scarlet River,2010,Marble sculpture,101 x 271 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL042
+ART376,ARS044,Silent Indigo Dream No. 16,1992,Acrylic on canvas,230 x 116 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL003
+ART377,ARS070,Eternal Violet Symphony No. 5,1988,Oil on canvas,140 x 256 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL027
+ART378,ARS100,Whispering Violet Forest,1880,Ink on paper,223 x 133 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL096
+ART379,ARS062,Luminous Red Harbor,2013,Acrylic on canvas,202 x 128 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL057
+ART380,ARS025,Hidden Emerald Forest,1911,Photograph,197 x 195 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL049
+ART381,ARS054,Melancholic Onyx Path No. 28,1977,Watercolor on paper,212 x 195 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL004
+ART382,ARS103,Celestial Blue Reflection No. 29,1901,Oil on canvas,172 x 218 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL018
+ART383,ARS056,Distant Sapphire Landscape,2011,Acrylic on canvas,117 x 158 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL084
+ART384,ARS100,Eternal Ivory Garden,1897,Bronze sculpture,276 x 64 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL005
+ART385,ARS150,Broken Onyx Light,1938,Ink on paper,287 x 36 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL006
+ART386,ARS032,Whispering Amber Path,2010,Watercolor on paper,70 x 60 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL096
+ART387,ARS128,Whispering Amber Echo,2013,Installation,49 x 151 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL114
+ART388,ARS085,Eternal Sapphire Silhouette,1899,Marble sculpture,296 x 242 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL007
+ART389,ARS059,Celestial Ivory River No. 7,1958,Photograph,143 x 225 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL083
+ART390,ARS047,Broken Blue City,1968,Watercolor on paper,128 x 56 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL053
+ART391,ARS033,Golden Emerald Figure,1978,Photograph,134 x 150 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL021
+ART392,ARS110,Broken Sapphire Garden,1931,Installation,247 x 120 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL064
+ART393,ARS078,Whispering Indigo Mountain,1952,Acrylic on canvas,169 x 276 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL093
+ART394,ARS102,Radiant Emerald Sea,2016,Digital print,251 x 109 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL006
+ART395,ARS098,Distant Red Memory,1994,Mixed media,119 x 161 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL119
+ART396,ARS079,Broken Sapphire Reflection,1996,Watercolor on paper,66 x 200 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL121
+ART397,ARS051,Eternal Amber Harbor No. 65,1998,Mixed media,281 x 237 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL102
+ART398,ARS096,Radiant Violet Memory,1919,Acrylic on canvas,239 x 49 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL099
+ART399,ARS145,Hidden Amber Path,2002,Bronze sculpture,290 x 280 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL015
+ART400,ARS099,Distant Amber River,1994,Marble sculpture,44 x 105 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL117
+ART401,ARS038,Vibrant Amber Landscape,1986,Acrylic on canvas,112 x 36 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL024
+ART402,ARS099,Radiant Indigo City,1972,Mixed media,246 x 114 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL065
+ART403,ARS078,Infinite Scarlet Reflection,1966,Installation,75 x 85 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL089
+ART404,ARS037,Vibrant Amber Reflection,1999,Oil on canvas,116 x 281 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL025
+ART405,ARS018,Distant Scarlet Path,2019,Watercolor on paper,250 x 117 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL096
+ART406,ARS048,Eternal Amber Sea No. 15,2002,Ink on paper,138 x 125 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL016
+ART407,ARS047,Luminous Sapphire Path,2022,Acrylic on canvas,85 x 115 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL076
+ART408,ARS022,Radiant Red Sky No. 4,2023,Digital print,150 x 274 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL026
+ART409,ARS003,Crimson Sapphire Harbor,1904,Photograph,79 x 138 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL002
+ART410,ARS097,Infinite Sapphire Sea,1923,Bronze sculpture,249 x 202 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL088
+ART411,ARS081,Forgotten Ivory Reflection,1931,Acrylic on canvas,212 x 199 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL001
+ART412,ARS117,Radiant Emerald Harbor,2009,Bronze sculpture,173 x 157 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL116
+ART413,ARS122,Infinite Onyx Horizon No. 42,1968,Bronze sculpture,214 x 53 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL114
+ART414,ARS060,Secret Onyx Landscape,2010,Acrylic on canvas,249 x 273 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL099
+ART415,ARS076,Luminous Emerald Light,1902,Digital print,46 x 95 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL023
+ART416,ARS078,Melancholic Violet Garden,1947,Ink on paper,276 x 153 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL055
+ART417,ARS044,Golden Red Path,1927,Mixed media,112 x 197 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL072
+ART418,ARS057,Vibrant Violet Dream,1982,Bronze sculpture,281 x 76 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL058
+ART419,ARS148,Golden Ivory Reflection,1947,Ink on paper,253 x 149 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL067
+ART420,ARS030,Whispering Red Dream No. 76,1907,Watercolor on paper,89 x 218 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL081
+ART421,ARS098,Shimmering Blue Memory No. 69,1997,Bronze sculpture,228 x 246 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL094
+ART422,ARS033,Infinite Indigo Figure No. 51,1928,Watercolor on paper,265 x 191 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL076
+ART423,ARS057,Eternal Blue Landscape,1978,Installation,93 x 170 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL123
+ART424,ARS056,Secret Sapphire Reflection No. 43,2012,Oil on canvas,137 x 145 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL046
+ART425,ARS125,Radiant Sapphire Garden,1933,Mixed media,230 x 202 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL122
+ART426,ARS090,Radiant Onyx City,1983,Photograph,174 x 129 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL101
+ART427,ARS025,Eternal Ivory Figure,1908,Watercolor on paper,185 x 264 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL036
+ART428,ARS114,Secret Sapphire Echo No. 26,1957,Watercolor on paper,215 x 82 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL097
+ART429,ARS110,Hidden Blue Dream,1960,Acrylic on canvas,121 x 56 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL087
+ART430,ARS112,Eternal Onyx River No. 31,1998,Installation,280 x 184 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL045
+ART431,ARS097,Golden Violet Reflection,1936,Acrylic on canvas,218 x 35 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL030
+ART432,ARS022,Misty Violet Light No. 76,2022,Acrylic on canvas,275 x 170 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL047
+ART433,ARS099,Secret Onyx Memory,1960,Photograph,196 x 62 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL048
+ART434,ARS104,Silent Onyx Shadow,2023,Installation,62 x 295 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL032
+ART435,ARS054,Misty Emerald Landscape,1971,Acrylic on canvas,258 x 190 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL011
+ART436,ARS033,Shimmering Amber Garden No. 33,1982,Acrylic on canvas,47 x 73 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL130
+ART437,ARS077,Frozen Scarlet Garden,2017,Marble sculpture,30 x 157 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL012
+ART438,ARS133,Whispering Scarlet Mountain No. 63,2017,Bronze sculpture,190 x 297 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL054
+ART439,ARS026,Crimson Amber Forest No. 39,1913,Installation,98 x 140 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL092
+ART440,ARS072,Eternal Indigo Path No. 33,1917,Mixed media,225 x 113 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL117
+ART441,ARS022,Vibrant Onyx Echo,1990,Bronze sculpture,167 x 128 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL042
+ART442,ARS108,Eternal Ivory Path,1979,Marble sculpture,156 x 69 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL032
+ART443,ARS137,Misty Scarlet Path No. 12,1961,Watercolor on paper,200 x 169 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL058
+ART444,ARS071,Forgotten Onyx Dream,1925,Marble sculpture,119 x 299 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL126
+ART445,ARS025,Infinite Ivory Figure,1940,Oil on canvas,168 x 80 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL044
+ART446,ARS082,Radiant Emerald Symphony,1994,Marble sculpture,274 x 95 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL003
+ART447,ARS132,Eternal Emerald Echo,2022,Bronze sculpture,166 x 57 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL064
+ART448,ARS108,Broken Emerald Mountain,2004,Marble sculpture,269 x 287 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL071
+ART449,ARS110,Infinite Amber Memory,1911,Bronze sculpture,186 x 238 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL024
+ART450,ARS021,Golden Amber City No. 8,1995,Oil on canvas,176 x 282 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL109
+ART451,ARS131,Eternal Violet Sea,1995,Oil on canvas,93 x 237 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL049
+ART452,ARS002,Distant Scarlet Symphony No. 68,1890,Watercolor on paper,51 x 259 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL058
+ART453,ARS045,Golden Ivory Echo,1886,Mixed media,246 x 283 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL044
+ART454,ARS096,Misty Ivory River,1925,Digital print,178 x 183 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL076
+ART455,ARS068,Luminous Blue Figure,1940,Digital print,293 x 48 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL125
+ART456,ARS015,Frozen Blue Landscape,1876,Oil on canvas,211 x 84 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL090
+ART457,ARS048,Radiant Ivory Harbor No. 63,1970,Photograph,73 x 300 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL040
+ART458,ARS106,Misty Violet Harbor No. 33,1937,Bronze sculpture,270 x 232 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL077
+ART459,ARS094,Distant Emerald Shadow,1969,Watercolor on paper,254 x 254 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL036
+ART460,ARS091,Distant Blue Symphony,2004,Marble sculpture,86 x 127 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL011
+ART461,ARS035,Radiant Onyx Silhouette,1991,Marble sculpture,131 x 275 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL031
+ART462,ARS108,Secret Scarlet Sea,1993,Mixed media,95 x 196 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL129
+ART463,ARS100,Eternal Red Dream,1885,Photograph,109 x 206 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL004
+ART464,ARS061,Crimson Ivory Path,1944,Marble sculpture,252 x 275 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL073
+ART465,ARS125,Golden Onyx River,1944,Ink on paper,291 x 125 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL072
+ART466,ARS030,Vibrant Amber Path No. 14,1927,Installation,122 x 126 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL039
+ART467,ARS059,Misty Emerald Reflection No. 25,1952,Installation,248 x 39 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL052
+ART468,ARS024,Crimson Onyx Path,1958,Mixed media,143 x 202 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL123
+ART469,ARS016,Infinite Onyx Forest,2000,Bronze sculpture,216 x 173 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL108
+ART470,ARS064,Celestial Blue Garden No. 7,2003,Digital print,138 x 176 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL072
+ART471,ARS026,Distant Emerald Sky,1923,Acrylic on canvas,201 x 185 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL025
+ART472,ARS004,Melancholic Emerald Silhouette,1904,Ink on paper,300 x 220 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL071
+ART473,ARS054,Shimmering Onyx City,1979,Installation,91 x 51 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL049
+ART474,ARS050,Broken Red City,2023,Digital print,205 x 184 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL052
+ART475,ARS137,Eternal Blue Echo No. 71,1933,Digital print,207 x 217 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL031
+ART476,ARS112,Golden Violet Path,2005,Installation,41 x 115 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL071
+ART477,ARS034,Whispering Blue Figure No. 25,1995,Acrylic on canvas,283 x 292 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL043
+ART478,ARS113,Infinite Onyx Shadow,2015,Watercolor on paper,169 x 135 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL001
+ART479,ARS041,Shimmering Amber Figure,2022,Photograph,292 x 263 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL067
+ART480,ARS078,Forgotten Sapphire Sky,1950,Photograph,144 x 53 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL061
+ART481,ARS075,Crimson Emerald Sky,1998,Ink on paper,56 x 157 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL030
+ART482,ARS001,Frozen Indigo Symphony,1701,Installation,98 x 239 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL076
+ART483,ARS084,Crimson Blue Symphony No. 36,1934,Photograph,161 x 38 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL028
+ART484,ARS098,Vibrant Indigo Shadow No. 57,1999,Ink on paper,196 x 167 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL102
+ART485,ARS040,Broken Amber Path,2014,Watercolor on paper,77 x 283 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL118
+ART486,ARS048,Hidden Amber Figure,1968,Marble sculpture,174 x 40 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL042
+ART487,ARS046,Radiant Indigo Horizon No. 10,1924,Mixed media,155 x 262 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL026
+ART488,ARS135,Eternal Blue Landscape No. 50,1999,Oil on canvas,86 x 36 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL034
+ART489,ARS064,Golden Sapphire Echo,2021,Acrylic on canvas,36 x 34 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL087
+ART490,ARS022,Luminous Emerald Sea,2014,Bronze sculpture,113 x 187 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL123
+ART491,ARS040,Forgotten Blue Shadow,2018,Oil on canvas,93 x 40 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL027
+ART492,ARS140,Whispering Red Light,1966,Ink on paper,102 x 30 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL007
+ART493,ARS059,Distant Onyx Echo,1961,Acrylic on canvas,145 x 226 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL126
+ART494,ARS044,Misty Amber Dream,1960,Installation,212 x 69 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL086
+ART495,ARS031,Frozen Red Forest,1957,Installation,249 x 201 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL047
+ART496,ARS109,Frozen Red Sky,2020,Acrylic on canvas,218 x 165 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL001
+ART497,ARS039,Eternal Ivory Echo,2009,Acrylic on canvas,274 x 64 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL110
+ART498,ARS072,Eternal Red Silhouette,1912,Bronze sculpture,227 x 210 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL127
+ART499,ARS109,Celestial Emerald River,2013,Photograph,284 x 282 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL059
+ART500,ARS099,Golden Indigo Path,1976,Bronze sculpture,74 x 150 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL001
+ART501,ARS053,Silent Ivory Shadow,1920,Bronze sculpture,86 x 60 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL093
+ART502,ARS036,Whispering Violet Echo,1951,Ink on paper,245 x 154 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL058
+ART503,ARS015,Eternal Red Echo,1858,Oil on canvas,247 x 220 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL028
+ART504,ARS149,Golden Violet Landscape,1947,Watercolor on paper,105 x 217 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL021
+ART505,ARS063,Golden Blue Figure,1941,Digital print,106 x 123 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL036
+ART506,ARS136,Whispering Violet Path,1945,Acrylic on canvas,36 x 176 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL040
+ART507,ARS016,Crimson Indigo Garden,1983,Digital print,232 x 246 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL067
+ART508,ARS147,Infinite Sapphire River,1973,Photograph,169 x 77 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL097
+ART509,ARS033,Luminous Onyx Landscape No. 51,1939,Digital print,69 x 269 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL081
+ART510,ARS104,Radiant Emerald Forest,2021,Acrylic on canvas,129 x 168 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL027
+ART511,ARS020,Frozen Indigo Silhouette No. 37,2008,Ink on paper,84 x 63 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL003
+ART512,ARS080,Luminous Scarlet Horizon,1913,Acrylic on canvas,153 x 167 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL012
+ART513,ARS145,Whispering Blue Symphony,2005,Bronze sculpture,286 x 129 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL101
+ART514,ARS092,Infinite Red Light,1967,Digital print,42 x 225 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL010
+ART515,ARS075,Hidden Emerald Mountain No. 12,1995,Watercolor on paper,140 x 102 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL129
+ART516,ARS133,Infinite Ivory Mountain,1972,Installation,178 x 214 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL111
+ART517,ARS011,Radiant Amber Horizon,1949,Installation,68 x 108 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL128
+ART518,ARS025,Silent Emerald Memory,1956,Acrylic on canvas,74 x 285 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL117
+ART519,ARS081,Hidden Sapphire Garden No. 74,1951,Acrylic on canvas,210 x 75 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL046
+ART520,ARS118,Vibrant Violet Sky,1933,Installation,101 x 93 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL125
+ART521,ARS011,Frozen Sapphire Reflection,1949,Bronze sculpture,96 x 255 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL081
+ART522,ARS096,Golden Onyx Light,1915,Photograph,59 x 155 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL003
+ART523,ARS040,Misty Sapphire Reflection No. 52,1988,Digital print,144 x 228 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL024
+ART524,ARS090,Broken Violet Shadow,1994,Watercolor on paper,85 x 73 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL028
+ART525,ARS102,Distant Amber Reflection,2004,Ink on paper,205 x 278 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL122
+ART526,ARS030,Vibrant Violet Forest,1925,Bronze sculpture,104 x 139 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL009
+ART527,ARS098,Luminous Blue Horizon,2012,Watercolor on paper,168 x 159 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL022
+ART528,ARS037,Golden Sapphire Reflection No. 58,2012,Marble sculpture,298 x 139 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL048
+ART529,ARS014,Golden Onyx Silhouette,1925,Bronze sculpture,114 x 131 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL108
+ART530,ARS124,Secret Scarlet Garden,1944,Oil on canvas,211 x 229 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL051
+ART531,ARS020,Shimmering Indigo Echo,2013,Digital print,37 x 107 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL038
+ART532,ARS128,Celestial Red Path,2016,Watercolor on paper,31 x 260 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL116
+ART533,ARS149,Misty Blue Horizon,1958,Installation,245 x 115 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL097
+ART534,ARS056,Frozen Amber Horizon,2019,Bronze sculpture,37 x 219 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL005
+ART535,ARS078,Whispering Scarlet Dream,1969,Bronze sculpture,241 x 240 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL091
+ART536,ARS139,Distant Scarlet Silhouette No. 23,2014,Watercolor on paper,249 x 221 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL042
+ART537,ARS139,Distant Onyx Memory,2012,Acrylic on canvas,175 x 80 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL027
+ART538,ARS023,Silent Indigo Path No. 80,2009,Photograph,81 x 257 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL009
+ART539,ARS075,Melancholic Onyx Dream No. 61,1988,Mixed media,209 x 267 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL102
+ART540,ARS002,Frozen Amber Light,1879,Ink on paper,187 x 242 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL002
+ART541,ARS107,Crimson Blue Harbor No. 48,2006,Bronze sculpture,295 x 192 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL044
+ART542,ARS147,Distant Amber Shadow,1975,Installation,231 x 56 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL110
+ART543,ARS033,Radiant Emerald Reflection,1961,Ink on paper,111 x 253 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL026
+ART544,ARS033,Infinite Red Figure,1981,Bronze sculpture,163 x 111 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL053
+ART545,ARS024,Golden Blue Path No. 76,1953,Installation,44 x 70 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL098
+ART546,ARS007,Eternal Violet Symphony No. 29,1701,Mixed media,129 x 155 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL067
+ART547,ARS014,Vibrant Red Echo,1900,Installation,86 x 265 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL032
+ART548,ARS028,Eternal Sapphire Sky,1974,Bronze sculpture,69 x 283 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL054
+ART549,ARS101,Misty Violet Harbor,2013,Mixed media,69 x 137 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL097
+ART550,ARS081,Broken Emerald Garden,1939,Bronze sculpture,46 x 90 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL089
+ART551,ARS124,Melancholic Blue Garden,1933,Installation,92 x 128 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL008
+ART552,ARS138,Silent Scarlet Light,1907,Ink on paper,216 x 88 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL008
+ART553,ARS084,Eternal Amber City,1928,Digital print,167 x 170 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL052
+ART554,ARS024,Frozen Scarlet Memory,1975,Mixed media,253 x 292 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL050
+ART555,ARS065,Hidden Amber Sky,1985,Ink on paper,189 x 114 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL125
+ART556,ARS111,Broken Onyx Landscape,1983,Installation,193 x 85 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL099
+ART557,ARS110,Luminous Indigo Symphony,1908,Oil on canvas,260 x 115 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL065
+ART558,ARS105,Whispering Indigo Light,1973,Bronze sculpture,88 x 122 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL110
+ART559,ARS048,Frozen Amber City No. 48,1992,Acrylic on canvas,104 x 190 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL003
+ART560,ARS082,Silent Ivory Horizon,1973,Mixed media,149 x 63 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL073
+ART561,ARS055,Infinite Amber Dream,1993,Bronze sculpture,245 x 252 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL082
+ART562,ARS051,Luminous Blue Sea,1986,Acrylic on canvas,245 x 91 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL116
+ART563,ARS044,Celestial Indigo Reflection No. 3,1960,Digital print,39 x 32 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL073
+ART564,ARS034,Radiant Blue Shadow,1950,Acrylic on canvas,202 x 38 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL121
+ART565,ARS025,Distant Sapphire Sky,1927,Photograph,234 x 70 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL081
+ART566,ARS127,Crimson Onyx Memory,1907,Bronze sculpture,282 x 92 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL027
+ART567,ARS008,Forgotten Blue Harbor No. 42,1701,Acrylic on canvas,145 x 117 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL049
+ART568,ARS095,Melancholic Blue Forest,1881,Marble sculpture,86 x 54 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL020
+ART569,ARS068,Celestial Indigo Reflection,1922,Acrylic on canvas,100 x 265 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL033
+ART570,ARS082,Eternal Indigo Path,1922,Ink on paper,297 x 300 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL123
+ART571,ARS126,Vibrant Ivory Sea No. 34,1927,Photograph,72 x 210 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL063
+ART572,ARS053,Golden Red Sea No. 2,1988,Mixed media,140 x 269 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL049
+ART573,ARS125,Misty Ivory Horizon,1946,Bronze sculpture,300 x 293 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL080
+ART574,ARS117,Infinite Amber Reflection No. 36,2003,Installation,114 x 187 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL027
+ART575,ARS038,Broken Red Dream No. 59,1925,Digital print,166 x 44 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL116
+ART576,ARS091,Vibrant Red Shadow No. 56,2005,Photograph,107 x 233 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL111
+ART577,ARS131,Celestial Blue Mountain,1958,Mixed media,55 x 225 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL050
+ART578,ARS076,Luminous Onyx Garden,1903,Mixed media,282 x 295 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL028
+ART579,ARS013,Forgotten Red River No. 5,1978,Acrylic on canvas,166 x 152 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL026
+ART580,ARS071,Forgotten Indigo Reflection,1922,Digital print,142 x 167 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL053
+ART581,ARS044,Luminous Ivory Memory,1960,Watercolor on paper,31 x 78 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL129
+ART582,ARS123,Whispering Amber Garden,1985,Bronze sculpture,115 x 125 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL117
+ART583,ARS037,Silent Violet Path,2004,Watercolor on paper,165 x 69 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL003
+ART584,ARS091,Secret Indigo Harbor,2007,Oil on canvas,271 x 86 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL005
+ART585,ARS146,Whispering Amber Light,1998,Acrylic on canvas,105 x 78 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL078
+ART586,ARS086,Broken Violet Symphony,1991,Bronze sculpture,279 x 159 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL118
+ART587,ARS004,Frozen Sapphire Silhouette,1919,Photograph,87 x 168 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL006
+ART588,ARS038,Silent Amber Figure,1957,Acrylic on canvas,214 x 135 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL050
+ART589,ARS097,Misty Sapphire Shadow,1937,Marble sculpture,299 x 119 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL090
+ART590,ARS085,Radiant Indigo Path,1914,Oil on canvas,188 x 127 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL088
+ART591,ARS032,Frozen Sapphire Dream,2002,Watercolor on paper,105 x 268 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL075
+ART592,ARS143,Hidden Sapphire Sea,1954,Oil on canvas,37 x 262 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL056
+ART593,ARS073,Shimmering Red Forest,1877,Oil on canvas,250 x 210 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL013
+ART594,ARS065,Eternal Ivory Memory,2011,Marble sculpture,109 x 74 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL037
+ART595,ARS051,Distant Indigo City,1955,Ink on paper,272 x 211 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL099
+ART596,ARS109,Radiant Red Sky,2016,Installation,189 x 118 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL112
+ART597,ARS083,Distant Scarlet Horizon,1932,Photograph,182 x 266 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL047
+ART598,ARS097,Distant Red Echo,1920,Digital print,287 x 213 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL091
+ART599,ARS110,Broken Onyx Path,1903,Watercolor on paper,245 x 75 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL078
+ART600,ARS063,Shimmering Scarlet Symphony No. 70,1960,Mixed media,180 x 57 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL033
+ART601,ARS104,Silent Violet Light,2009,Marble sculpture,73 x 58 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL028
+ART602,ARS086,Misty Sapphire Figure,2001,Installation,61 x 92 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL014
+ART603,ARS053,Infinite Emerald Shadow,1966,Watercolor on paper,99 x 144 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL078
+ART604,ARS080,Silent Violet Landscape,1923,Watercolor on paper,64 x 30 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL031
+ART605,ARS134,Misty Amber Horizon No. 4,1961,Oil on canvas,257 x 230 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL032
+ART606,ARS077,Radiant Violet Garden,2009,Installation,163 x 254 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL032
+ART607,ARS111,Eternal Blue Garden No. 31,1941,Digital print,291 x 132 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL123
+ART608,ARS075,Whispering Red Figure,2023,Mixed media,170 x 230 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL028
+ART609,ARS119,Distant Onyx Echo No. 59,1939,Installation,229 x 35 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL078
+ART610,ARS009,Broken Blue Symphony,1975,Oil on canvas,264 x 171 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL041
+ART611,ARS092,Infinite Scarlet Horizon,1997,Watercolor on paper,292 x 62 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL039
+ART612,ARS091,Shimmering Ivory Mountain,2000,Mixed media,172 x 185 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL018
+ART613,ARS124,Radiant Violet Landscape,1953,Marble sculpture,289 x 299 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL034
+ART614,ARS083,Shimmering Indigo Symphony,1952,Oil on canvas,64 x 53 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL041
+ART615,ARS060,Misty Red Sea,2018,Ink on paper,195 x 148 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL027
+ART616,ARS045,Radiant Onyx City No. 33,1902,Digital print,49 x 67 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL096
+ART617,ARS008,Hidden Ivory Dream,1701,Ink on paper,98 x 132 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL065
+ART618,ARS126,Broken Sapphire River No. 21,1936,Acrylic on canvas,300 x 128 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL007
+ART619,ARS025,Luminous Blue Echo,1928,Bronze sculpture,238 x 66 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL048
+ART620,ARS136,Secret Amber Horizon,1947,Bronze sculpture,286 x 210 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL036
+ART621,ARS018,Broken Onyx Reflection,2014,Photograph,70 x 95 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL077
+ART622,ARS026,Misty Violet River No. 70,1921,Marble sculpture,41 x 144 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL065
+ART623,ARS100,Frozen Red Garden,1881,Installation,153 x 295 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL129
+ART624,ARS080,Radiant Indigo Forest,1923,Oil on canvas,271 x 164 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL009
+ART625,ARS087,Distant Sapphire Horizon,2003,Ink on paper,60 x 101 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL085
+ART626,ARS016,Forgotten Violet City,2019,Acrylic on canvas,48 x 207 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL107
+ART627,ARS021,Melancholic Violet Echo,1992,Digital print,83 x 48 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL130
+ART628,ARS058,Frozen Onyx Sea,1972,Oil on canvas,40 x 58 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL051
+ART629,ARS137,Radiant Onyx Echo,1978,Digital print,100 x 89 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL031
+ART630,ARS095,Crimson Amber River No. 2,1928,Oil on canvas,241 x 53 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL064
+ART631,ARS015,Golden Blue Echo,1875,Bronze sculpture,52 x 190 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL063
+ART632,ARS075,Eternal Indigo Reflection,1988,Marble sculpture,69 x 69 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL053
+ART633,ARS127,Frozen Amber Mountain,1901,Photograph,179 x 155 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL069
+ART634,ARS082,Melancholic Scarlet Dream No. 53,2015,Ink on paper,173 x 70 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL036
+ART635,ARS134,Forgotten Sapphire Shadow No. 48,1915,Digital print,48 x 150 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL117
+ART636,ARS030,Silent Violet Forest,1932,Acrylic on canvas,226 x 183 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL016
+ART637,ARS072,Radiant Violet Harbor,1925,Ink on paper,257 x 52 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL053
+ART638,ARS098,Hidden Onyx Shadow No. 40,1987,Installation,208 x 43 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL087
+ART639,ARS068,Shimmering Amber Harbor,1956,Acrylic on canvas,248 x 59 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL100
+ART640,ARS074,Melancholic Violet Path,2012,Mixed media,163 x 113 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL120
+ART641,ARS061,Eternal Blue Sky,1961,Photograph,73 x 157 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL076
+ART642,ARS087,Shimmering Onyx Forest,1978,Installation,167 x 158 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL004
+ART643,ARS032,Hidden Violet Mountain No. 2,2000,Digital print,48 x 213 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL056
+ART644,ARS105,Crimson Indigo City,2011,Digital print,190 x 62 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL047
+ART645,ARS067,Vibrant Sapphire Sea No. 23,1925,Acrylic on canvas,55 x 149 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL010
+ART646,ARS048,Infinite Violet Figure,2015,Marble sculpture,146 x 61 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL066
+ART647,ARS005,Frozen Scarlet Forest,1936,Photograph,85 x 69 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL114
+ART648,ARS029,Infinite Red River No. 74,1998,Mixed media,242 x 66 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL073
+ART649,ARS037,Silent Ivory Landscape,2009,Digital print,238 x 221 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL076
+ART650,ARS008,Hidden Ivory Forest,1700,Installation,43 x 84 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL055
+ART651,ARS081,Infinite Scarlet Figure,1941,Watercolor on paper,223 x 46 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL098
+ART652,ARS021,Golden Amber Figure,2016,Oil on canvas,92 x 300 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL121
+ART653,ARS135,Infinite Violet Silhouette,2017,Bronze sculpture,180 x 154 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL063
+ART654,ARS093,Forgotten Violet Silhouette,2004,Mixed media,153 x 257 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL093
+ART655,ARS021,Frozen Scarlet Light No. 47,2020,Mixed media,147 x 259 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL059
+ART656,ARS146,Eternal Scarlet River,1954,Marble sculpture,100 x 163 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL088
+ART657,ARS081,Misty Red Path,1937,Watercolor on paper,283 x 131 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL117
+ART658,ARS004,Hidden Red Path,1918,Oil on canvas,81 x 94 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL111
+ART659,ARS007,Hidden Red Echo,1701,Watercolor on paper,246 x 211 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL103
+ART660,ARS143,Forgotten Sapphire Dream,1965,Acrylic on canvas,85 x 53 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL091
+ART661,ARS115,Distant Violet Path,2021,Installation,98 x 123 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL022
+ART662,ARS039,Silent Indigo Figure,2000,Bronze sculpture,262 x 224 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL113
+ART663,ARS046,Infinite Indigo Sky,1882,Digital print,148 x 182 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL088
+ART664,ARS013,Shimmering Scarlet Light,1959,Mixed media,176 x 195 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL082
+ART665,ARS046,Eternal Blue Horizon,1905,Bronze sculpture,190 x 80 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL073
+ART666,ARS043,Misty Sapphire Sky,1905,Marble sculpture,116 x 177 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL028
+ART667,ARS060,Vibrant Emerald Dream No. 66,1998,Photograph,44 x 50 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL050
+ART668,ARS002,Secret Blue Symphony No. 74,1884,Watercolor on paper,257 x 296 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL117
+ART669,ARS076,Misty Red Mountain,1901,Watercolor on paper,164 x 74 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL072
+ART670,ARS030,Frozen Red River,1915,Bronze sculpture,110 x 289 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL071
+ART671,ARS117,Infinite Red Silhouette,1978,Photograph,251 x 81 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL082
+ART672,ARS049,Melancholic Blue Harbor No. 76,2010,Marble sculpture,142 x 130 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL121
+ART673,ARS039,Secret Emerald Sea,1942,Ink on paper,75 x 294 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL001
+ART674,ARS112,Golden Violet Shadow,2018,Mixed media,121 x 49 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL068
+ART675,ARS098,Shimmering Amber Symphony,1996,Marble sculpture,183 x 148 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL125
+ART676,ARS126,Radiant Indigo Symphony,1927,Acrylic on canvas,79 x 142 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL074
+ART677,ARS108,Broken Ivory River,1916,Bronze sculpture,120 x 267 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL030
+ART678,ARS089,Secret Indigo Path,1911,Photograph,178 x 167 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL056
+ART679,ARS105,Celestial Onyx Reflection,1999,Oil on canvas,234 x 163 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL069
+ART680,ARS125,Forgotten Ivory Forest,1924,Photograph,143 x 115 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL053
+ART681,ARS029,Celestial Emerald Landscape,1976,Bronze sculpture,224 x 76 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL091
+ART682,ARS142,Golden Blue Light No. 69,1979,Ink on paper,110 x 232 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL075
+ART683,ARS042,Frozen Ivory Path No. 32,1982,Photograph,48 x 40 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL027
+ART684,ARS129,Radiant Violet Forest No. 39,1927,Oil on canvas,147 x 156 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL070
+ART685,ARS032,Vibrant Red City No. 54,1972,Acrylic on canvas,37 x 107 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL101
+ART686,ARS050,Whispering Ivory Path,1946,Digital print,184 x 170 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL052
+ART687,ARS026,Vibrant Indigo Sea,1927,Mixed media,77 x 143 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL072
+ART688,ARS124,Whispering Scarlet Light No. 3,1948,Photograph,231 x 220 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL028
+ART689,ARS116,Forgotten Indigo Harbor,2014,Digital print,258 x 219 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL028
+ART690,ARS080,Celestial Emerald City No. 22,1935,Acrylic on canvas,280 x 157 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL037
+ART691,ARS104,Secret Scarlet Figure,2009,Mixed media,282 x 159 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL080
+ART692,ARS087,Eternal Blue Silhouette,1993,Marble sculpture,238 x 32 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL054
+ART693,ARS144,Forgotten Ivory Mountain,2007,Mixed media,71 x 83 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL020
+ART694,ARS097,Eternal Blue Garden,1895,Digital print,115 x 131 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL030
+ART695,ARS010,Distant Violet Garden,1930,Photograph,279 x 101 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL108
+ART696,ARS103,Whispering Sapphire Light,1920,Marble sculpture,114 x 102 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL053
+ART697,ARS096,Luminous Ivory Echo No. 61,1911,Watercolor on paper,192 x 243 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL039
+ART698,ARS121,Golden Blue Memory,2014,Bronze sculpture,78 x 264 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL025
+ART699,ARS016,Broken Indigo Garden No. 72,1997,Ink on paper,206 x 37 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL071
+ART700,ARS073,Distant Indigo Memory,1928,Acrylic on canvas,160 x 133 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL040
+ART701,ARS027,Luminous Sapphire Garden,1962,Installation,94 x 297 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL099
+ART702,ARS085,Shimmering Indigo Landscape,1927,Oil on canvas,137 x 116 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL060
+ART703,ARS056,Golden Indigo Echo No. 61,2023,Acrylic on canvas,30 x 195 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL014
+ART704,ARS036,Infinite Violet Path,1936,Acrylic on canvas,184 x 286 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL062
+ART705,ARS144,Radiant Onyx Reflection,1987,Bronze sculpture,189 x 297 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL021
+ART706,ARS055,Hidden Sapphire Echo,2017,Acrylic on canvas,280 x 158 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL112
+ART707,ARS090,Hidden Blue Symphony,2014,Ink on paper,207 x 247 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL049
+ART708,ARS098,Frozen Emerald Harbor No. 47,2018,Installation,129 x 32 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL080
+ART709,ARS085,Misty Ivory Sky,1897,Marble sculpture,169 x 47 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL123
+ART710,ARS102,Crimson Sapphire Sky,2020,Installation,45 x 271 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL117
+ART711,ARS126,Hidden Violet Shadow,1911,Installation,219 x 44 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL040
+ART712,ARS046,Eternal Red Path,1885,Oil on canvas,58 x 257 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL081
+ART713,ARS025,Melancholic Sapphire Horizon,1952,Bronze sculpture,38 x 200 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL044
+ART714,ARS094,Infinite Blue Reflection,1963,Photograph,63 x 128 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL038
+ART715,ARS069,Golden Emerald Mountain No. 78,1969,Watercolor on paper,288 x 239 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL001
+ART716,ARS080,Vibrant Scarlet Symphony No. 60,1920,Acrylic on canvas,267 x 75 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL024
+ART717,ARS047,Golden Emerald Silhouette,1965,Ink on paper,116 x 35 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL096
+ART718,ARS118,Golden Amber Memory,1917,Oil on canvas,97 x 188 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL098
+ART719,ARS074,Distant Amber Horizon,1931,Marble sculpture,120 x 181 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL113
+ART720,ARS068,Golden Violet Symphony,1945,Watercolor on paper,297 x 260 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL010
+ART721,ARS150,Radiant Emerald Shadow,1964,Ink on paper,207 x 177 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL088
+ART722,ARS129,Crimson Red Light,1947,Digital print,273 x 101 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL083
+ART723,ARS096,Celestial Red Symphony,1911,Digital print,111 x 245 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL086
+ART724,ARS087,Broken Scarlet Garden,1983,Mixed media,263 x 252 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL122
+ART725,ARS063,Vibrant Ivory Landscape,1939,Ink on paper,183 x 50 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL130
+ART726,ARS028,Distant Onyx Sky,1994,Photograph,44 x 113 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL043
+ART727,ARS077,Infinite Amber Figure,1983,Acrylic on canvas,200 x 57 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL080
+ART728,ARS037,Frozen Violet Reflection No. 1,2020,Watercolor on paper,105 x 132 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL078
+ART729,ARS079,Golden Emerald River,1990,Watercolor on paper,76 x 155 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL096
+ART730,ARS002,Secret Emerald Symphony No. 71,1883,Mixed media,138 x 271 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL119
+ART731,ARS063,Misty Onyx Echo,1905,Marble sculpture,234 x 197 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL109
+ART732,ARS101,Melancholic Red Symphony,2021,Installation,43 x 143 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL046
+ART733,ARS061,Frozen Ivory Silhouette,1944,Ink on paper,233 x 69 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL036
+ART734,ARS128,Distant Emerald Memory,2014,Marble sculpture,276 x 47 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL108
+ART735,ARS046,Hidden Onyx Light,1929,Acrylic on canvas,72 x 207 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL104
+ART736,ARS004,Hidden Ivory Echo,1907,Digital print,262 x 35 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL103
+ART737,ARS109,Crimson Sapphire Path,2018,Photograph,89 x 260 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL096
+ART738,ARS122,Celestial Scarlet Symphony No. 23,1994,Watercolor on paper,226 x 70 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL002
+ART739,ARS087,Shimmering Sapphire Horizon,1994,Oil on canvas,262 x 252 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL119
+ART740,ARS073,Crimson Red Sea,1883,Mixed media,219 x 159 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL087
+ART741,ARS076,Silent Scarlet Sky No. 46,1896,Bronze sculpture,38 x 258 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL077
+ART742,ARS010,Misty Ivory Forest,1922,Acrylic on canvas,157 x 119 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL025
+ART743,ARS033,Eternal Violet Path,1950,Photograph,264 x 154 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL118
+ART744,ARS011,Golden Ivory Symphony No. 78,1953,Photograph,81 x 225 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL021
+ART745,ARS087,Whispering Onyx Reflection No. 33,2001,Acrylic on canvas,70 x 251 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL050
+ART746,ARS147,Vibrant Sapphire Landscape,2017,Bronze sculpture,154 x 55 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL122
+ART747,ARS056,Distant Sapphire Garden,2020,Watercolor on paper,53 x 234 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL073
+ART748,ARS070,Silent Onyx Horizon No. 54,1962,Digital print,170 x 166 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL082
+ART749,ARS025,Forgotten Amber Harbor,1919,Installation,62 x 177 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL118
+ART750,ARS108,Celestial Scarlet Reflection,1973,Bronze sculpture,36 x 205 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL082
+ART751,ARS089,Secret Amber Shadow,1957,Oil on canvas,160 x 236 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL021
+ART752,ARS125,Melancholic Ivory City No. 68,1921,Bronze sculpture,185 x 179 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL116
+ART753,ARS120,Silent Emerald Landscape,2004,Oil on canvas,250 x 242 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL073
+ART754,ARS143,Secret Amber Reflection,1912,Acrylic on canvas,223 x 93 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL102
+ART755,ARS056,Luminous Red Figure,2023,Photograph,111 x 235 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL105
+ART756,ARS091,Luminous Onyx Landscape,2015,Photograph,84 x 192 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL101
+ART757,ARS058,Radiant Violet Mountain,1986,Mixed media,110 x 120 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL074
+ART758,ARS001,Melancholic Ivory Mountain,1700,Mixed media,226 x 244 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL106
+ART759,ARS049,Silent Indigo River No. 80,2014,Oil on canvas,71 x 239 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL084
+ART760,ARS064,Hidden Indigo Sea,2006,Photograph,41 x 229 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL050
+ART761,ARS042,Broken Ivory River No. 26,2002,Acrylic on canvas,97 x 180 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL008
+ART762,ARS053,Shimmering Violet Mountain No. 78,1959,Digital print,153 x 120 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL129
+ART763,ARS029,Distant Scarlet Sea,1979,Photograph,243 x 163 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL031
+ART764,ARS137,Crimson Sapphire Reflection,1879,Photograph,216 x 234 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL113
+ART765,ARS110,Misty Red Echo,1914,Mixed media,116 x 217 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL087
+ART766,ARS037,Forgotten Violet Horizon,2009,Digital print,67 x 264 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL063
+ART767,ARS067,Celestial Sapphire Mountain,1944,Installation,162 x 170 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL010
+ART768,ARS036,Eternal Scarlet Memory No. 48,1952,Marble sculpture,215 x 179 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL041
+ART769,ARS146,Whispering Violet Mountain,1921,Installation,95 x 105 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL075
+ART770,ARS099,Vibrant Amber Harbor,1986,Marble sculpture,105 x 36 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL094
+ART771,ARS131,Infinite Onyx Sea,1962,Installation,206 x 109 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL129
+ART772,ARS081,Infinite Ivory Reflection,1959,Digital print,116 x 298 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL045
+ART773,ARS124,Radiant Blue City,1936,Watercolor on paper,135 x 144 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL072
+ART774,ARS031,Luminous Ivory Sea,1936,Ink on paper,298 x 146 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL094
+ART775,ARS009,Radiant Red Silhouette,1963,Digital print,70 x 58 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL064
+ART776,ARS063,Vibrant Emerald River No. 59,1910,Photograph,50 x 166 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL072
+ART777,ARS024,Luminous Red Echo,1947,Ink on paper,136 x 146 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL123
+ART778,ARS119,Golden Amber Sea No. 11,1962,Photograph,131 x 81 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL056
+ART779,ARS125,Whispering Indigo Harbor,1953,Ink on paper,87 x 256 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL117
+ART780,ARS001,Vibrant Onyx Landscape,1700,Digital print,198 x 289 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL073
+ART781,ARS077,Vibrant Scarlet River,2018,Digital print,287 x 188 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL029
+ART782,ARS047,Secret Blue Silhouette,1996,Watercolor on paper,270 x 283 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL046
+ART783,ARS017,Distant Sapphire Dream,2012,Ink on paper,205 x 123 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL028
+ART784,ARS060,Luminous Sapphire Light,2021,Marble sculpture,271 x 82 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL054
+ART785,ARS147,Eternal Ivory Garden No. 51,2013,Installation,117 x 110 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL041
+ART786,ARS084,Infinite Violet Landscape,2011,Marble sculpture,167 x 147 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL121
+ART787,ARS078,Frozen Emerald Memory,1962,Marble sculpture,191 x 260 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL109
+ART788,ARS145,Radiant Onyx Harbor,2005,Bronze sculpture,58 x 239 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL036
+ART789,ARS117,Vibrant Blue Horizon No. 33,1994,Bronze sculpture,221 x 42 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL110
+ART790,ARS098,Celestial Scarlet Shadow,1998,Marble sculpture,287 x 255 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL028
+ART791,ARS020,Forgotten Emerald Silhouette,2021,Mixed media,270 x 53 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL125
+ART792,ARS064,Vibrant Indigo Figure,1989,Marble sculpture,58 x 205 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL095
+ART793,ARS113,Whispering Red Sea No. 10,2014,Watercolor on paper,241 x 107 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL077
+ART794,ARS147,Luminous Scarlet City,1983,Oil on canvas,163 x 179 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL036
+ART795,ARS018,Celestial Ivory Mountain,2002,Digital print,124 x 194 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL059
+ART796,ARS118,Frozen Ivory Horizon,1921,Watercolor on paper,160 x 41 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL031
+ART797,ARS106,Distant Onyx Sea,1956,Bronze sculpture,60 x 292 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL005
+ART798,ARS145,Distant Blue Light,2000,Installation,281 x 174 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL086
+ART799,ARS018,Golden Indigo City,2020,Photograph,87 x 111 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL023
+ART800,ARS147,Broken Indigo Horizon,2012,Digital print,250 x 171 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL116
+ART801,ARS039,Celestial Red Garden,1960,Mixed media,262 x 300 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL006
+ART802,ARS103,Shimmering Sapphire Harbor,1921,Ink on paper,39 x 34 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL083
+ART803,ARS110,Eternal Sapphire River,1941,Installation,264 x 132 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL091
+ART804,ARS148,Eternal Amber Echo No. 24,1911,Watercolor on paper,43 x 50 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL090
+ART805,ARS018,Celestial Ivory River,2002,Mixed media,185 x 113 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL070
+ART806,ARS060,Luminous Ivory Harbor No. 57,1995,Digital print,222 x 43 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL054
+ART807,ARS098,Crimson Violet Mountain,1998,Acrylic on canvas,224 x 93 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL045
+ART808,ARS130,Shimmering Scarlet Dream No. 27,1981,Bronze sculpture,280 x 213 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL107
+ART809,ARS049,Luminous Red Light,2006,Digital print,290 x 87 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL005
+ART810,ARS002,Misty Ivory Symphony,1873,Ink on paper,252 x 183 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL022
+ART811,ARS100,Secret Blue Sky,1897,Ink on paper,53 x 102 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL046
+ART812,ARS145,Silent Emerald Light No. 61,1982,Marble sculpture,61 x 137 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL096
+ART813,ARS107,Hidden Onyx Garden No. 67,2022,Bronze sculpture,107 x 122 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL029
+ART814,ARS042,Silent Violet Horizon,2022,Installation,221 x 165 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL083
+ART815,ARS008,Silent Ivory Harbor,1700,Oil on canvas,103 x 238 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL097
+ART816,ARS135,Hidden Emerald Dream No. 29,2001,Acrylic on canvas,244 x 63 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL122
+ART817,ARS119,Distant Scarlet Mountain No. 78,1932,Digital print,189 x 273 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL066
+ART818,ARS033,Celestial Scarlet Symphony,1970,Digital print,79 x 274 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL051
+ART819,ARS033,Forgotten Scarlet Echo,1937,Acrylic on canvas,145 x 72 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL104
+ART820,ARS073,Misty Amber River,1915,Installation,198 x 266 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL069
+ART821,ARS034,Shimmering Blue Reflection,1970,Watercolor on paper,123 x 37 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL009
+ART822,ARS061,Hidden Onyx Silhouette No. 62,1974,Installation,206 x 126 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL104
+ART823,ARS116,Luminous Violet Landscape,2018,Photograph,90 x 173 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL087
+ART824,ARS087,Hidden Sapphire Silhouette,1986,Bronze sculpture,263 x 79 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL068
+ART825,ARS017,Frozen Onyx Harbor,2002,Digital print,78 x 146 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL029
+ART826,ARS031,Golden Scarlet Garden,1959,Oil on canvas,102 x 143 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL051
+ART827,ARS091,Infinite Indigo Echo,1995,Photograph,215 x 147 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL043
+ART828,ARS096,Hidden Red Garden,1938,Ink on paper,107 x 247 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL072
+ART829,ARS013,Radiant Sapphire Reflection,1958,Bronze sculpture,273 x 269 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL035
+ART830,ARS077,Silent Red Sky,2017,Installation,189 x 136 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL018
+ART831,ARS016,Hidden Amber Reflection,2009,Ink on paper,230 x 129 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL090
+ART832,ARS019,Forgotten Sapphire Echo,2011,Digital print,107 x 135 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL037
+ART833,ARS071,Celestial Blue Dream,1977,Ink on paper,82 x 271 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL113
+ART834,ARS077,Misty Scarlet Landscape,1979,Oil on canvas,204 x 169 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL098
+ART835,ARS066,Misty Violet Path,1913,Ink on paper,279 x 179 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL027
+ART836,ARS023,Frozen Amber Sea,2002,Acrylic on canvas,245 x 59 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL072
+ART837,ARS071,Vibrant Scarlet Silhouette,2017,Acrylic on canvas,158 x 212 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL004
+ART838,ARS026,Secret Amber Figure,1937,Acrylic on canvas,252 x 166 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL125
+ART839,ARS144,Shimmering Onyx Landscape,1990,Installation,51 x 85 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL026
+ART840,ARS148,Distant Onyx Forest,1955,Oil on canvas,265 x 297 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL103
+ART841,ARS111,Silent Amber Figure No. 43,1937,Oil on canvas,179 x 241 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL117
+ART842,ARS065,Forgotten Sapphire Mountain,1999,Watercolor on paper,264 x 164 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL054
+ART843,ARS143,Melancholic Ivory Reflection,1923,Bronze sculpture,285 x 75 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL091
+ART844,ARS138,Forgotten Ivory Memory No. 12,1934,Installation,237 x 190 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL128
+ART845,ARS048,Radiant Amber Sky,2007,Digital print,209 x 202 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL093
+ART846,ARS041,Hidden Ivory Harbor No. 75,2006,Photograph,289 x 181 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL046
+ART847,ARS102,Golden Amber City No. 77,2009,Bronze sculpture,164 x 104 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL091
+ART848,ARS102,Eternal Onyx Dream,2002,Ink on paper,72 x 195 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL114
+ART849,ARS011,Vibrant Blue Sea No. 29,1937,Ink on paper,145 x 255 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL038
+ART850,ARS004,Whispering Amber Harbor,1919,Photograph,254 x 242 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL050
+ART851,ARS106,Hidden Scarlet Figure,1959,Bronze sculpture,228 x 163 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL068
+ART852,ARS111,Frozen Ivory River,1953,Bronze sculpture,69 x 98 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL064
+ART853,ARS138,Shimmering Emerald Dream,1944,Photograph,289 x 273 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL081
+ART854,ARS027,Forgotten Ivory Shadow,1977,Installation,268 x 167 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL014
+ART855,ARS118,Broken Violet Figure,1915,Photograph,41 x 259 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL015
+ART856,ARS089,Secret Emerald City,1916,Oil on canvas,171 x 159 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL126
+ART857,ARS111,Eternal Onyx Horizon,1950,Ink on paper,185 x 199 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL105
+ART858,ARS037,Melancholic Indigo Silhouette,2018,Installation,57 x 213 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL031
+ART859,ARS019,Golden Scarlet Path,2014,Watercolor on paper,157 x 121 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL008
+ART860,ARS127,Misty Ivory City No. 52,1914,Mixed media,228 x 238 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL122
+ART861,ARS036,Celestial Emerald Dream,1927,Digital print,250 x 159 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL024
+ART862,ARS048,Vibrant Onyx Horizon No. 11,1988,Photograph,261 x 78 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL066
+ART863,ARS006,Crimson Scarlet Forest,1934,Photograph,116 x 30 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL004
+ART864,ARS002,Celestial Onyx Memory No. 73,1889,Watercolor on paper,221 x 65 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL049
+ART865,ARS128,Hidden Scarlet Horizon,1996,Installation,109 x 221 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL046
+ART866,ARS113,Hidden Scarlet Echo,2016,Photograph,45 x 49 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL031
+ART867,ARS080,Whispering Red Symphony,1930,Ink on paper,81 x 284 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL040
+ART868,ARS087,Broken Scarlet Reflection,1962,Ink on paper,63 x 203 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL094
+ART869,ARS037,Crimson Ivory Forest,2014,Acrylic on canvas,80 x 296 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL083
+ART870,ARS135,Shimmering Indigo Shadow,2023,Bronze sculpture,132 x 174 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL035
+ART871,ARS115,Radiant Red Sea No. 14,2016,Marble sculpture,277 x 229 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL128
+ART872,ARS074,Crimson Scarlet Forest No. 12,1958,Oil on canvas,118 x 190 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL008
+ART873,ARS013,Whispering Onyx Horizon,1973,Photograph,56 x 252 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL046
+ART874,ARS131,Frozen Blue Horizon No. 24,1966,Ink on paper,193 x 67 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL127
+ART875,ARS053,Shimmering Indigo Harbor No. 49,1929,Oil on canvas,89 x 178 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL062
+ART876,ARS085,Hidden Onyx River,1922,Watercolor on paper,52 x 109 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL064
+ART877,ARS067,Distant Indigo Memory No. 35,1942,Mixed media,35 x 242 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL097
+ART878,ARS072,Luminous Violet Sky,1926,Watercolor on paper,51 x 259 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL058
+ART879,ARS019,Misty Red Garden,2023,Photograph,64 x 123 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL084
+ART880,ARS043,Vibrant Onyx Memory,1909,Acrylic on canvas,163 x 85 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL102
+ART881,ARS052,Golden Scarlet Sea No. 67,1908,Acrylic on canvas,270 x 275 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL029
+ART882,ARS059,Crimson Onyx Garden No. 9,1958,Digital print,253 x 219 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL037
+ART883,ARS114,Crimson Scarlet Horizon,1996,Watercolor on paper,52 x 37 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL088
+ART884,ARS065,Hidden Ivory Mountain No. 8,2004,Marble sculpture,224 x 108 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL130
+ART885,ARS017,Forgotten Emerald Horizon,2021,Digital print,254 x 42 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL018
+ART886,ARS063,Infinite Sapphire Shadow No. 71,1928,Acrylic on canvas,59 x 87 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL105
+ART887,ARS133,Melancholic Blue Landscape,2021,Oil on canvas,194 x 219 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL037
+ART888,ARS027,Forgotten Blue Reflection No. 8,1998,Oil on canvas,91 x 144 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL019
+ART889,ARS006,Vibrant Ivory Mountain,1941,Ink on paper,262 x 214 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL037
+ART890,ARS074,Hidden Onyx Sky,1974,Marble sculpture,40 x 251 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL037
+ART891,ARS011,Broken Onyx Shadow,1942,Ink on paper,94 x 210 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL104
+ART892,ARS108,Distant Violet Mountain,1951,Bronze sculpture,267 x 216 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL084
+ART893,ARS103,Eternal Scarlet Horizon No. 25,1933,Digital print,129 x 216 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL105
+ART894,ARS096,Whispering Amber Reflection No. 14,1967,Oil on canvas,183 x 241 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL052
+ART895,ARS056,Celestial Scarlet Garden,2018,Digital print,251 x 122 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL007
+ART896,ARS053,Shimmering Emerald Reflection,2005,Mixed media,131 x 107 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL082
+ART897,ARS120,Forgotten Emerald Sea,1963,Acrylic on canvas,79 x 63 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL006
+ART898,ARS003,Crimson Ivory City,1944,Ink on paper,133 x 107 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL079
+ART899,ARS017,Frozen Indigo Silhouette,2012,Watercolor on paper,273 x 203 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL075
+ART900,ARS078,Eternal Emerald Path No. 80,1966,Marble sculpture,111 x 270 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL064
+ART901,ARS030,Eternal Violet Dream,1903,Mixed media,225 x 272 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL123
+ART902,ARS044,Silent Indigo Symphony,1998,Oil on canvas,123 x 259 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL126
+ART903,ARS146,Frozen Ivory City,1910,Installation,120 x 99 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL077
+ART904,ARS101,Eternal Red Horizon,2008,Bronze sculpture,179 x 72 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL127
+ART905,ARS005,Shimmering Onyx Garden,1933,Marble sculpture,128 x 292 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL007
+ART906,ARS126,Celestial Emerald Forest,1953,Digital print,186 x 164 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL111
+ART907,ARS087,Crimson Sapphire Mountain,1976,Installation,46 x 96 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL003
+ART908,ARS147,Silent Sapphire Reflection No. 61,1987,Marble sculpture,228 x 48 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL097
+ART909,ARS086,Frozen Scarlet Path,2002,Marble sculpture,97 x 207 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL050
+ART910,ARS126,Whispering Sapphire City,1951,Photograph,73 x 193 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL030
+ART911,ARS006,Eternal Red River No. 48,1930,Acrylic on canvas,108 x 151 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL020
+ART912,ARS003,Silent Ivory Landscape No. 75,1957,Installation,199 x 84 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL032
+ART913,ARS015,Eternal Amber City No. 12,1857,Ink on paper,251 x 149 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL013
+ART914,ARS021,Radiant Ivory Light No. 26,2021,Marble sculpture,125 x 270 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL016
+ART915,ARS114,Hidden Scarlet Harbor No. 26,1989,Acrylic on canvas,103 x 126 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL020
+ART916,ARS049,Hidden Ivory River No. 76,2007,Marble sculpture,241 x 289 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL056
+ART917,ARS110,Vibrant Ivory River,1932,Acrylic on canvas,174 x 112 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL016
+ART918,ARS017,Secret Ivory Forest,2011,Oil on canvas,70 x 258 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL023
+ART919,ARS082,Shimmering Ivory Landscape,1907,Digital print,164 x 193 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL092
+ART920,ARS123,Frozen Violet Memory,2001,Installation,127 x 146 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL044
+ART921,ARS011,Frozen Onyx Mountain,1940,Digital print,236 x 267 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL116
+ART922,ARS040,Eternal Onyx Path,1992,Watercolor on paper,192 x 225 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL103
+ART923,ARS094,Silent Onyx Garden No. 24,1983,Mixed media,78 x 38 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL121
+ART924,ARS039,Vibrant Ivory Horizon No. 51,1937,Ink on paper,185 x 172 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL049
+ART925,ARS125,Secret Onyx Path,1908,Bronze sculpture,279 x 60 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL028
+ART926,ARS018,Celestial Violet Landscape,2003,Ink on paper,295 x 283 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL107
+ART927,ARS126,Silent Sapphire Garden,1928,Installation,249 x 92 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL034
+ART928,ARS136,Whispering Ivory Symphony,1925,Acrylic on canvas,219 x 272 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL005
+ART929,ARS115,Frozen Onyx River No. 42,2013,Marble sculpture,190 x 273 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL088
+ART930,ARS148,Celestial Amber Echo,1928,Digital print,151 x 157 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL121
+ART931,ARS005,Celestial Scarlet Dream,1929,Photograph,194 x 71 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL126
+ART932,ARS119,Vibrant Red Mountain,1944,Bronze sculpture,171 x 103 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL016
+ART933,ARS122,Secret Scarlet Echo,1987,Installation,278 x 190 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL052
+ART934,ARS049,Misty Sapphire Forest,2004,Marble sculpture,298 x 288 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL064
+ART935,ARS097,Distant Blue Memory,1898,Oil on canvas,181 x 42 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL108
+ART936,ARS021,Frozen Violet Echo,2014,Bronze sculpture,110 x 257 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL028
+ART937,ARS071,Broken Sapphire Horizon,1968,Installation,175 x 113 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL033
+ART938,ARS083,Silent Red Forest,1962,Watercolor on paper,274 x 218 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL081
+ART939,ARS097,Melancholic Blue Path,1930,Installation,121 x 197 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL009
+ART940,ARS073,Celestial Indigo Figure No. 66,1884,Acrylic on canvas,97 x 284 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL018
+ART941,ARS036,Eternal Red Light No. 31,1921,Bronze sculpture,214 x 212 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL021
+ART942,ARS106,Crimson Scarlet Path,1948,Ink on paper,109 x 75 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL115
+ART943,ARS041,Misty Sapphire River No. 72,1997,Digital print,56 x 145 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL011
+ART944,ARS011,Forgotten Amber Echo,1934,Bronze sculpture,286 x 193 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL100
+ART945,ARS102,Silent Scarlet Memory,2010,Ink on paper,64 x 50 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL010
+ART946,ARS054,Forgotten Indigo Sea No. 11,1994,Mixed media,290 x 114 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL055
+ART947,ARS039,Melancholic Ivory Light,2023,Bronze sculpture,133 x 161 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL051
+ART948,ARS084,Vibrant Onyx Dream,1969,Installation,44 x 258 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL104
+ART949,ARS053,Hidden Red Forest,1916,Installation,135 x 132 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL077
+ART950,ARS055,Shimmering Sapphire Symphony,2003,Photograph,159 x 141 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL007
+ART951,ARS080,Silent Amber Garden,1935,Bronze sculpture,285 x 228 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL118
+ART952,ARS101,Hidden Violet Sea,2007,Installation,157 x 69 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL028
+ART953,ARS001,Silent Indigo Forest,1701,Digital print,30 x 185 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL098
+ART954,ARS146,Luminous Onyx Symphony No. 54,1985,Oil on canvas,41 x 182 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL031
+ART955,ARS078,Eternal Sapphire Mountain,1953,Digital print,91 x 45 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL045
+ART956,ARS004,Shimmering Scarlet Sky,1919,Ink on paper,62 x 108 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL017
+ART957,ARS102,Radiant Blue Forest,2013,Oil on canvas,241 x 119 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL012
+ART958,ARS017,Vibrant Sapphire Sea No. 35,1998,Ink on paper,169 x 126 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL115
+ART959,ARS001,Crimson Indigo Path,1701,Marble sculpture,148 x 54 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL094
+ART960,ARS023,Frozen Violet Sea,1998,Bronze sculpture,220 x 104 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL089
+ART961,ARS105,Hidden Indigo Reflection,1994,Digital print,179 x 105 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL105
+ART962,ARS093,Distant Red Landscape,2005,Digital print,200 x 213 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL116
+ART963,ARS139,Hidden Blue Silhouette,1994,Installation,204 x 111 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL036
+ART964,ARS053,Radiant Red Path,1967,Acrylic on canvas,51 x 296 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL002
+ART965,ARS066,Melancholic Emerald River,1890,Bronze sculpture,280 x 89 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL096
+ART966,ARS141,Radiant Scarlet Reflection No. 45,2019,Ink on paper,238 x 84 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL117
+ART967,ARS040,Luminous Blue Light,2015,Marble sculpture,103 x 66 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL062
+ART968,ARS104,Whispering Amber Shadow,2014,Oil on canvas,42 x 38 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL076
+ART969,ARS031,Luminous Emerald City No. 58,1950,Mixed media,246 x 213 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL003
+ART970,ARS077,Celestial Onyx Symphony No. 55,2014,Digital print,274 x 51 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL009
+ART971,ARS128,Celestial Ivory Harbor,2008,Mixed media,226 x 80 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL090
+ART972,ARS126,Silent Onyx Forest,1957,Marble sculpture,74 x 273 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL024
+ART973,ARS022,Forgotten Red Mountain,2007,Oil on canvas,153 x 270 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL083
+ART974,ARS080,Melancholic Violet Horizon,1921,Installation,35 x 95 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL008
+ART975,ARS130,Broken Red Light No. 36,2018,Marble sculpture,228 x 54 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL031
+ART976,ARS133,Hidden Blue Memory,1983,Acrylic on canvas,86 x 109 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL051
+ART977,ARS124,Secret Amber Harbor,1958,Oil on canvas,120 x 222 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL078
+ART978,ARS047,Forgotten Ivory Figure,1978,Acrylic on canvas,257 x 89 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL043
+ART979,ARS036,Eternal Indigo Figure No. 64,1939,Photograph,250 x 40 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL095
+ART980,ARS140,Misty Onyx Sea No. 56,1984,Acrylic on canvas,246 x 64 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL023
+ART981,ARS068,Frozen Violet Reflection,1932,Oil on canvas,100 x 91 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL042
+ART982,ARS023,Melancholic Ivory Shadow,1979,Acrylic on canvas,124 x 241 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL011
+ART983,ARS060,Luminous Emerald Memory No. 51,1988,Photograph,220 x 60 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL004
+ART984,ARS029,Infinite Sapphire Figure,1994,Ink on paper,100 x 193 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL123
+ART985,ARS055,Luminous Violet Sea,1995,Photograph,118 x 228 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL019
+ART986,ARS038,Eternal Scarlet Echo,1910,Acrylic on canvas,274 x 292 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL043
+ART987,ARS064,Distant Ivory River,2009,Oil on canvas,60 x 251 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL083
+ART988,ARS102,Silent Amber Symphony,2022,Digital print,145 x 95 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL105
+ART989,ARS041,Forgotten Indigo Light,2021,Installation,68 x 251 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL008
+ART990,ARS107,Golden Scarlet City,1998,Bronze sculpture,104 x 50 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL072
+ART991,ARS101,Vibrant Violet Silhouette,2015,Digital print,197 x 187 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL125
+ART992,ARS099,Shimmering Scarlet Landscape,1965,Acrylic on canvas,270 x 202 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL126
+ART993,ARS088,Melancholic Scarlet Landscape,2006,Marble sculpture,167 x 168 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL059
+ART994,ARS081,Celestial Amber Figure No. 40,1940,Mixed media,201 x 295 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL072
+ART995,ARS068,Eternal Sapphire Horizon,1947,Digital print,194 x 134 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL045
+ART996,ARS031,Whispering Amber Horizon,1978,Bronze sculpture,123 x 284 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL063
+ART997,ARS101,Celestial Emerald Sky,2006,Photograph,93 x 222 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL101
+ART998,ARS001,Golden Amber Sky,1701,Installation,171 x 291 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL108
+ART999,ARS051,Secret Indigo Dream,2000,Watercolor on paper,190 x 91 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL047
+ART1000,ARS032,Frozen Blue Forest,1988,Watercolor on paper,85 x 167 cm,"An artwork exploring themes of light, space, and memory within a contemporary visual language.",COL025

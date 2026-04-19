@@ -1,0 +1,556 @@
+staff_id,department_id,first_name,last_name,position,hire_date,salary_annual,email
+STF001,DEP001,Olivia,Brown,Exhibition Designer,1992-07-08,52869.94,olivia.brown.6142@museum.org
+STF002,DEP001,Aigerim,Martin,Registrar,2013-10-29,64144.92,aigerim.martin.2951@museum.org
+STF003,DEP001,Liam,Walker,Head of Department,2017-05-04,107729.76,liam.walker.3946@museum.org
+STF004,DEP002,Aruzhan,Martin,Registrar,2010-09-08,85600.94,aruzhan.martin.7530@museum.org
+STF005,DEP002,Benjamin,Smith,Security Officer,2002-11-26,89373.03,benjamin.smith.2589@museum.org
+STF006,DEP002,Sophia,Suleimenova,Exhibition Designer,2016-05-10,53419.65,sophia.suleimenova.6952@museum.org
+STF007,DEP002,Benjamin,Nurlybay,Conservator,1998-12-08,119940.49,benjamin.nurlybay.7917@museum.org
+STF008,DEP002,Charlotte,Wright,Head of Department,2015-08-28,59101.12,charlotte.wright.4848@museum.org
+STF009,DEP002,Henry,Johnson,Director,2007-10-03,51075.64,henry.johnson.9273@museum.org
+STF010,DEP002,Isabella,Tlegenova,Conservator,2000-04-28,82671.17,isabella.tlegenova.5773@museum.org
+STF011,DEP003,William,Young,Head of Department,2001-03-30,89387.62,william.young.2241@museum.org
+STF012,DEP003,Charlotte,Brown,Conservator,2009-10-10,28169.63,charlotte.brown.5978@museum.org
+STF013,DEP003,Harper,Thomas,Conservator,2004-08-27,96010.68,harper.thomas.2878@museum.org
+STF014,DEP003,Oliver,Harris,Tour Guide,2006-05-31,75430.98,oliver.harris.4466@museum.org
+STF015,DEP003,Liam,Lopez,Security Officer,2003-03-29,95923.14,liam.lopez.5550@museum.org
+STF016,DEP004,Amelia,Nurlybay,Senior Curator,1996-04-25,96644.39,amelia.nurlybay.3697@museum.org
+STF017,DEP004,Chloe,Sidorov,Head of Department,1994-01-19,100114.79,chloe.sidorov.229@museum.org
+STF018,DEP004,Benjamin,Petrova,Senior Curator,2010-05-27,60015.64,benjamin.petrova.4296@museum.org
+STF019,DEP004,Maria,Mitchell,Director,2006-08-31,35292.88,maria.mitchell.3831@museum.org
+STF020,DEP005,Timur,Johnson,Head of Department,2015-03-09,56160.6,timur.johnson.9996@museum.org
+STF021,DEP005,William,Anderson,Director,2010-10-29,111391.83,william.anderson.4952@museum.org
+STF022,DEP006,Arman,White,Assistant Curator,1992-01-13,114894.85,arman.white.4987@museum.org
+STF023,DEP006,Aruzhan,White,Head of Department,2000-07-13,109289.63,aruzhan.white.2223@museum.org
+STF024,DEP007,Sofia,Nurlybay,Head of Department,2020-01-29,115191.17,sofia.nurlybay.8851@museum.org
+STF025,DEP008,Arman,Martin,Education Specialist,2019-05-19,34407.06,arman.martin.8018@museum.org
+STF026,DEP008,Oleg,Roberts,Conservator,1991-06-21,90576.66,oleg.roberts.3560@museum.org
+STF027,DEP008,Dana,Suleimenova,Registrar,2006-04-09,34438.69,dana.suleimenova.6019@museum.org
+STF028,DEP008,Ayan,Nelson,Curator,2007-11-11,51208.74,ayan.nelson.2002@museum.org
+STF029,DEP008,Maksat,Thomas,Director,1999-07-08,85961.92,maksat.thomas.9784@museum.org
+STF030,DEP008,Olivia,Taylor,Head of Department,2000-12-04,118937.99,olivia.taylor.9251@museum.org
+STF031,DEP009,Elijah,Anderson,Tour Guide,1999-04-18,80706.39,elijah.anderson.3818@museum.org
+STF032,DEP009,Daniel,Martin,Archivist,1990-02-16,51341.11,daniel.martin.2371@museum.org
+STF033,DEP009,Harper,Petrova,Conservator,1997-10-29,35443.0,harper.petrova.423@museum.org
+STF034,DEP009,Harper,Smith,Head of Department,2000-09-03,80941.03,harper.smith.259@museum.org
+STF035,DEP010,Noah,Lopez,Curator,1995-09-08,95463.22,noah.lopez.8620@museum.org
+STF036,DEP010,Amelia,Anderson,Head of Department,2010-02-09,98911.62,amelia.anderson.8409@museum.org
+STF037,DEP010,Maria,Jackson,Security Officer,2012-08-07,46047.23,maria.jackson.711@museum.org
+STF038,DEP010,Nursultan,Green,Security Officer,2018-11-10,116582.49,nursultan.green.997@museum.org
+STF039,DEP011,Timur,Perez,Head of Department,2020-10-11,35256.37,timur.perez.7268@museum.org
+STF040,DEP012,Sophia,Thomas,Head of Department,2017-04-15,39091.71,sophia.thomas.2068@museum.org
+STF041,DEP012,Lucas,Sidorov,Deputy Director,2004-08-02,61185.92,lucas.sidorov.9788@museum.org
+STF042,DEP012,Nursultan,Scott,Security Officer,2012-09-04,82515.55,nursultan.scott.1625@museum.org
+STF043,DEP012,Amelia,Sidorov,Deputy Director,1999-08-24,65856.64,amelia.sidorov.3744@museum.org
+STF044,DEP012,Arman,Adams,Security Officer,2007-11-20,64519.02,arman.adams.1558@museum.org
+STF045,DEP012,David,Kenzhebayev,Exhibition Designer,2019-11-02,49214.53,david.kenzhebayev.2501@museum.org
+STF046,DEP012,Timur,Anderson,Senior Curator,1993-10-30,33856.86,timur.anderson.1583@museum.org
+STF047,DEP013,Grace,Harris,Tour Guide,1992-09-09,80714.18,grace.harris.9202@museum.org
+STF048,DEP013,Dmitry,Adams,Director,1995-06-26,64026.82,dmitry.adams.6930@museum.org
+STF049,DEP013,Isabella,Scott,Archivist,2004-01-07,58406.39,isabella.scott.9469@museum.org
+STF050,DEP013,Alina,Allen,Head of Department,2019-06-17,70807.99,alina.allen.1774@museum.org
+STF051,DEP013,Emily,Sidorov,Exhibition Designer,1995-02-26,97447.54,emily.sidorov.9407@museum.org
+STF052,DEP014,William,Kenzhebayev,Tour Guide,2017-11-21,83289.46,william.kenzhebayev.9122@museum.org
+STF053,DEP014,Olivia,Hill,Head of Department,1998-02-03,50960.69,olivia.hill.5063@museum.org
+STF054,DEP015,Daniel,Nelson,Head of Department,1998-02-20,107636.96,daniel.nelson.9279@museum.org
+STF055,DEP015,Chloe,Anderson,Assistant Curator,2023-03-29,85151.34,chloe.anderson.503@museum.org
+STF056,DEP016,Mia,Ivanov,Head of Department,2006-11-16,64884.09,mia.ivanov.5586@museum.org
+STF057,DEP016,Liam,Carter,Conservator,2022-05-15,55816.37,liam.carter.9300@museum.org
+STF058,DEP017,Elena,Thomas,Head of Department,1996-12-24,39953.94,elena.thomas.816@museum.org
+STF059,DEP017,Mia,Hill,Security Officer,2019-09-11,65281.4,mia.hill.9947@museum.org
+STF060,DEP017,Dana,Roberts,Conservator,1999-09-02,96719.6,dana.roberts.1865@museum.org
+STF061,DEP018,Emily,Kenzhebayev,Senior Curator,2002-09-15,89430.7,emily.kenzhebayev.9718@museum.org
+STF062,DEP018,Aruzhan,Ivanov,Director,2003-11-02,29314.65,aruzhan.ivanov.6476@museum.org
+STF063,DEP018,Elena,Taylor,Head of Department,1999-03-04,53634.84,elena.taylor.3461@museum.org
+STF064,DEP018,Harper,Lopez,Conservator,2004-09-19,36398.51,harper.lopez.8150@museum.org
+STF065,DEP019,Aigerim,Walker,Head of Department,2007-01-21,75595.32,aigerim.walker.3771@museum.org
+STF066,DEP019,Alina,Sidorov,Director,2005-11-20,31847.17,alina.sidorov.694@museum.org
+STF067,DEP019,Aigerim,Johnson,Security Officer,1993-06-29,106900.45,aigerim.johnson.9434@museum.org
+STF068,DEP020,Aigerim,Nazarov,Education Specialist,2021-10-29,85813.46,aigerim.nazarov.4744@museum.org
+STF069,DEP020,Amelia,Perez,Head of Department,2004-07-27,41327.95,amelia.perez.7539@museum.org
+STF070,DEP020,Grace,Thomas,Education Specialist,1994-10-01,48115.07,grace.thomas.9649@museum.org
+STF071,DEP021,Chloe,Ivanov,Senior Curator,2007-10-03,107699.82,chloe.ivanov.5563@museum.org
+STF072,DEP021,William,Adams,Head of Department,1993-06-05,73495.91,william.adams.1869@museum.org
+STF073,DEP021,Nursultan,Kim,Registrar,2005-09-03,58354.47,nursultan.kim.2420@museum.org
+STF074,DEP021,James,Jackson,Assistant Curator,2001-06-25,43740.82,james.jackson.9870@museum.org
+STF075,DEP022,Evelyn,Anderson,Head of Department,2018-03-03,71941.12,evelyn.anderson.9237@museum.org
+STF076,DEP022,Maria,Suleimenova,Director,2015-04-28,86084.22,maria.suleimenova.5296@museum.org
+STF077,DEP023,David,Martin,Security Officer,1993-01-23,69547.5,david.martin.4962@museum.org
+STF078,DEP023,Lucas,Taylor,Head of Department,2012-10-04,32048.11,lucas.taylor.7566@museum.org
+STF079,DEP023,Dana,Brown,Curator,2006-07-17,104011.18,dana.brown.1258@museum.org
+STF080,DEP024,Mia,Kim,Head of Department,2010-10-04,80131.29,mia.kim.673@museum.org
+STF081,DEP024,Dana,Nazarov,Director,1998-06-12,55545.04,dana.nazarov.7793@museum.org
+STF082,DEP024,Alina,Martin,Curator,2010-03-18,34832.68,alina.martin.5627@museum.org
+STF083,DEP025,Mia,Kim,Director,1997-09-28,28718.5,mia.kim.7173@museum.org
+STF084,DEP025,Dana,Ivanov,Head of Department,2017-05-10,40080.89,dana.ivanov.6109@museum.org
+STF085,DEP025,Henry,Mitchell,Education Specialist,2005-03-06,89495.28,henry.mitchell.858@museum.org
+STF086,DEP026,Daniel,Anderson,Head of Department,1994-03-29,78006.51,daniel.anderson.6334@museum.org
+STF087,DEP026,Henry,Lopez,Deputy Director,2019-06-15,116618.95,henry.lopez.9875@museum.org
+STF088,DEP026,Evelyn,Adams,Senior Curator,2016-02-21,88043.15,evelyn.adams.5732@museum.org
+STF089,DEP026,Alexander,Perez,Assistant Curator,2016-09-10,92339.23,alexander.perez.1389@museum.org
+STF090,DEP026,Alexander,Sidorov,Education Specialist,2018-11-12,100207.89,alexander.sidorov.2094@museum.org
+STF091,DEP027,Nursultan,Thomas,Director,2020-01-28,65223.6,nursultan.thomas.5929@museum.org
+STF092,DEP027,Olivia,Carter,Head of Department,1998-02-01,115361.08,olivia.carter.5599@museum.org
+STF093,DEP028,Aruzhan,Young,Registrar,1996-03-03,39719.79,aruzhan.young.4847@museum.org
+STF094,DEP028,Charlotte,Kim,Tour Guide,2023-02-18,108949.81,charlotte.kim.619@museum.org
+STF095,DEP028,Daniel,Harris,Head of Department,2006-11-25,39654.01,daniel.harris.2963@museum.org
+STF096,DEP028,Oleg,Lee,Deputy Director,2009-08-19,29150.78,oleg.lee.5969@museum.org
+STF097,DEP029,James,Suleimenova,Archivist,2002-10-13,96477.16,james.suleimenova.7356@museum.org
+STF098,DEP029,William,Petrova,Registrar,2003-11-19,116731.68,william.petrova.7685@museum.org
+STF099,DEP029,Oliver,Carter,Director,2015-08-03,118521.78,oliver.carter.7565@museum.org
+STF100,DEP029,Henry,Mitchell,Head of Department,2013-08-29,64772.78,henry.mitchell.2656@museum.org
+STF101,DEP030,Oliver,Harris,Head of Department,1992-05-04,85912.01,oliver.harris.6082@museum.org
+STF102,DEP031,Dmitry,Jackson,Deputy Director,2013-02-21,105860.77,dmitry.jackson.4671@museum.org
+STF103,DEP031,Mia,Lee,Conservator,2010-02-26,111004.09,mia.lee.2415@museum.org
+STF104,DEP031,Aigerim,Thomas,Head of Department,2010-03-28,109039.83,aigerim.thomas.437@museum.org
+STF105,DEP031,Arman,Taylor,Education Specialist,2012-07-08,60526.34,arman.taylor.6327@museum.org
+STF106,DEP032,Mia,Carter,Registrar,1991-04-07,55275.06,mia.carter.1624@museum.org
+STF107,DEP032,Daniel,Martin,Head of Department,1991-09-20,52253.54,daniel.martin.7741@museum.org
+STF108,DEP033,Harper,Akhanov,Security Officer,2017-08-08,25498.86,harper.akhanov.1299@museum.org
+STF109,DEP033,Olivia,Lopez,Head of Department,1996-09-15,77136.4,olivia.lopez.9976@museum.org
+STF110,DEP034,Nursultan,Kenzhebayev,Senior Curator,2002-12-04,47575.82,nursultan.kenzhebayev.1997@museum.org
+STF111,DEP034,Isabella,Wright,Education Specialist,2018-08-30,100420.42,isabella.wright.7490@museum.org
+STF112,DEP034,Sophia,White,Security Officer,2016-10-07,75925.11,sophia.white.8444@museum.org
+STF113,DEP034,Anna,Wright,Deputy Director,1996-06-10,52670.84,anna.wright.26@museum.org
+STF114,DEP034,Oleg,Nelson,Registrar,2015-08-07,64573.92,oleg.nelson.1403@museum.org
+STF115,DEP034,Nursultan,Carter,Head of Department,2013-08-06,76687.79,nursultan.carter.8317@museum.org
+STF116,DEP034,Dmitry,Johnson,Education Specialist,2011-02-02,29135.77,dmitry.johnson.6339@museum.org
+STF117,DEP035,Grace,Lopez,Deputy Director,1990-09-24,58923.92,grace.lopez.1107@museum.org
+STF118,DEP035,Emily,Wright,Deputy Director,2019-06-23,84684.41,emily.wright.9534@museum.org
+STF119,DEP035,Daniel,Harris,Curator,2005-10-21,76871.31,daniel.harris.2869@museum.org
+STF120,DEP035,Maksat,Akhanov,Director,1998-03-06,102092.28,maksat.akhanov.1034@museum.org
+STF121,DEP035,Maksat,Brown,Head of Department,1999-01-16,29161.6,maksat.brown.3269@museum.org
+STF122,DEP035,Ava,Baker,Conservator,2013-02-13,62831.29,ava.baker.8898@museum.org
+STF123,DEP035,Timur,Lopez,Curator,2023-10-16,86455.55,timur.lopez.4688@museum.org
+STF124,DEP036,Emily,Taylor,Director,2004-11-21,50955.58,emily.taylor.6030@museum.org
+STF125,DEP036,Aigerim,Perez,Deputy Director,2009-09-22,109990.56,aigerim.perez.6335@museum.org
+STF126,DEP036,Daniel,Walker,Head of Department,2021-01-16,72264.72,daniel.walker.8508@museum.org
+STF127,DEP036,Lucas,Thomas,Deputy Director,2009-01-16,32498.07,lucas.thomas.9871@museum.org
+STF128,DEP036,Noah,Petrova,Conservator,2004-05-29,34746.8,noah.petrova.5373@museum.org
+STF129,DEP037,Henry,Green,Security Officer,2017-01-12,93177.98,henry.green.2731@museum.org
+STF130,DEP037,Dana,Nelson,Security Officer,1991-11-25,94047.37,dana.nelson.5777@museum.org
+STF131,DEP037,Oleg,Kenzhebayev,Head of Department,2018-09-08,118102.59,oleg.kenzhebayev.940@museum.org
+STF132,DEP038,Sophia,Perez,Exhibition Designer,2013-01-06,101104.12,sophia.perez.2622@museum.org
+STF133,DEP038,Olivia,Martin,Head of Department,2020-06-01,99224.64,olivia.martin.571@museum.org
+STF134,DEP039,Harper,Anderson,Registrar,2018-12-10,59801.2,harper.anderson.6273@museum.org
+STF135,DEP039,Anna,Brown,Archivist,1996-11-18,89510.9,anna.brown.6078@museum.org
+STF136,DEP039,Grace,Suleimenova,Head of Department,2015-09-30,38081.04,grace.suleimenova.6013@museum.org
+STF137,DEP039,Chloe,Baker,Director,2002-07-03,48713.11,chloe.baker.1859@museum.org
+STF138,DEP040,Olivia,Walker,Head of Department,2013-03-23,61763.8,olivia.walker.9203@museum.org
+STF139,DEP040,Amelia,Lopez,Conservator,2021-07-31,67395.95,amelia.lopez.4679@museum.org
+STF140,DEP040,Aruzhan,Young,Senior Curator,1996-02-02,106018.5,aruzhan.young.7407@museum.org
+STF141,DEP041,Noah,Suleimenova,Head of Department,2020-08-03,116918.32,noah.suleimenova.5237@museum.org
+STF142,DEP041,Emily,Anderson,Tour Guide,2014-04-27,52584.42,emily.anderson.4915@museum.org
+STF143,DEP042,Liam,Walker,Head of Department,2012-10-27,46302.95,liam.walker.3293@museum.org
+STF144,DEP042,Harper,Wright,Security Officer,1991-03-07,59285.17,harper.wright.9377@museum.org
+STF145,DEP042,Grace,Nurlybay,Tour Guide,1995-10-28,83135.09,grace.nurlybay.1413@museum.org
+STF146,DEP042,Sophia,Green,Education Specialist,2022-02-28,93292.62,sophia.green.8613@museum.org
+STF147,DEP043,Arman,Roberts,Head of Department,1993-04-23,36906.04,arman.roberts.5195@museum.org
+STF148,DEP044,Sophia,Suleimenova,Security Officer,2020-07-04,74149.2,sophia.suleimenova.2103@museum.org
+STF149,DEP044,Dmitry,Walker,Assistant Curator,2009-05-29,72772.06,dmitry.walker.908@museum.org
+STF150,DEP044,Amelia,Ivanov,Head of Department,2003-08-23,40642.42,amelia.ivanov.5287@museum.org
+STF151,DEP044,William,Nelson,Tour Guide,2002-09-28,105363.7,william.nelson.4106@museum.org
+STF152,DEP044,Oliver,Sidorov,Conservator,1995-08-13,84377.12,oliver.sidorov.8741@museum.org
+STF153,DEP044,Mia,Kim,Director,1997-07-25,81221.8,mia.kim.9514@museum.org
+STF154,DEP045,Evelyn,Lee,Director,2018-01-05,93460.11,evelyn.lee.9915@museum.org
+STF155,DEP045,Daniel,Nazarov,Curator,1991-04-10,32716.17,daniel.nazarov.9450@museum.org
+STF156,DEP045,Benjamin,Allen,Head of Department,2008-09-08,83720.3,benjamin.allen.497@museum.org
+STF157,DEP046,Aruzhan,Petrova,Conservator,2018-10-18,115881.77,aruzhan.petrova.7913@museum.org
+STF158,DEP046,James,Perez,Head of Department,2010-05-06,31932.44,james.perez.982@museum.org
+STF159,DEP046,Liam,Suleimenova,Education Specialist,2011-09-21,69122.0,liam.suleimenova.5574@museum.org
+STF160,DEP046,Elena,Martin,Exhibition Designer,2022-03-23,55335.06,elena.martin.5659@museum.org
+STF161,DEP047,Chloe,Harris,Exhibition Designer,2013-02-06,78356.87,chloe.harris.5229@museum.org
+STF162,DEP047,James,Nurlybay,Senior Curator,2001-12-31,67711.62,james.nurlybay.2309@museum.org
+STF163,DEP047,Charlotte,Taylor,Head of Department,2007-03-26,107095.57,charlotte.taylor.6851@museum.org
+STF164,DEP048,James,Lee,Exhibition Designer,2015-11-30,93507.2,james.lee.3111@museum.org
+STF165,DEP048,Liam,Tlegenova,Head of Department,2010-12-10,72382.17,liam.tlegenova.5056@museum.org
+STF166,DEP048,Aruzhan,Johnson,Senior Curator,2007-08-22,73017.22,aruzhan.johnson.3945@museum.org
+STF167,DEP048,Elijah,Nelson,Curator,1992-04-08,51728.85,elijah.nelson.9790@museum.org
+STF168,DEP049,Timur,Scott,Head of Department,1990-05-14,105481.37,timur.scott.7061@museum.org
+STF169,DEP049,Harper,Lopez,Deputy Director,2006-05-29,97566.39,harper.lopez.5996@museum.org
+STF170,DEP049,Ava,Perez,Curator,2015-08-01,78372.6,ava.perez.5940@museum.org
+STF171,DEP049,Dmitry,Scott,Senior Curator,2007-05-01,72904.28,dmitry.scott.9009@museum.org
+STF172,DEP050,Lucas,White,Head of Department,1994-05-04,62420.85,lucas.white.5556@museum.org
+STF173,DEP050,Dmitry,Carter,Assistant Curator,1998-12-06,82233.98,dmitry.carter.6577@museum.org
+STF174,DEP051,Alina,Brown,Head of Department,1991-09-30,38018.46,alina.brown.5457@museum.org
+STF175,DEP051,Timur,Ivanov,Security Officer,1996-09-06,82594.75,timur.ivanov.8447@museum.org
+STF176,DEP051,Harper,Baker,Archivist,2004-04-15,40437.69,harper.baker.4903@museum.org
+STF177,DEP051,Maria,Adams,Tour Guide,2012-11-12,75572.28,maria.adams.9223@museum.org
+STF178,DEP051,Alexander,Akhanov,Curator,2006-07-11,56467.76,alexander.akhanov.1796@museum.org
+STF179,DEP051,Arman,Green,Deputy Director,2020-11-11,84779.75,arman.green.9780@museum.org
+STF180,DEP051,Timur,Lopez,Director,2015-12-13,79875.27,timur.lopez.842@museum.org
+STF181,DEP052,Maria,Akhanov,Assistant Curator,2013-07-08,84757.4,maria.akhanov.6230@museum.org
+STF182,DEP052,Evelyn,Wright,Curator,2015-09-07,115079.49,evelyn.wright.1801@museum.org
+STF183,DEP052,Oliver,Johnson,Security Officer,2004-01-27,64784.13,oliver.johnson.6766@museum.org
+STF184,DEP052,Elijah,Roberts,Head of Department,2017-06-06,112449.49,elijah.roberts.1021@museum.org
+STF185,DEP052,Harper,Ivanov,Registrar,2015-02-28,55879.71,harper.ivanov.7838@museum.org
+STF186,DEP053,Nursultan,Mitchell,Exhibition Designer,1997-10-08,68668.04,nursultan.mitchell.8735@museum.org
+STF187,DEP053,Daniel,Petrova,Head of Department,2020-04-26,98339.03,daniel.petrova.4332@museum.org
+STF188,DEP053,Oleg,Akhanov,Registrar,2001-01-21,51505.61,oleg.akhanov.4891@museum.org
+STF189,DEP053,William,Green,Conservator,2021-08-15,44691.39,william.green.8012@museum.org
+STF190,DEP053,David,Akhanov,Exhibition Designer,2015-02-22,113701.54,david.akhanov.4481@museum.org
+STF191,DEP053,Henry,White,Archivist,2020-05-08,76603.13,henry.white.6465@museum.org
+STF192,DEP053,Emily,Martin,Conservator,1991-11-21,52324.88,emily.martin.1295@museum.org
+STF193,DEP054,Emily,Suleimenova,Head of Department,2001-07-03,95997.16,emily.suleimenova.3506@museum.org
+STF194,DEP054,Oliver,Petrova,Conservator,2015-03-19,91136.27,oliver.petrova.2250@museum.org
+STF195,DEP054,Charlotte,Wright,Registrar,1992-04-11,88634.23,charlotte.wright.8701@museum.org
+STF196,DEP054,William,King,Curator,1994-06-30,64263.63,william.king.7740@museum.org
+STF197,DEP054,Charlotte,Harris,Curator,2014-09-08,117901.52,charlotte.harris.2588@museum.org
+STF198,DEP054,Arman,Akhanov,Security Officer,2019-03-08,43948.32,arman.akhanov.4707@museum.org
+STF199,DEP055,David,Scott,Director,1992-08-27,111254.01,david.scott.1466@museum.org
+STF200,DEP055,Anna,King,Tour Guide,2023-02-19,93696.18,anna.king.612@museum.org
+STF201,DEP055,Noah,Roberts,Assistant Curator,1991-08-19,119731.32,noah.roberts.6505@museum.org
+STF202,DEP055,Aruzhan,Walker,Head of Department,2002-12-26,108290.6,aruzhan.walker.152@museum.org
+STF203,DEP056,Alexander,Nazarov,Archivist,1994-10-25,113203.21,alexander.nazarov.5490@museum.org
+STF204,DEP056,Henry,Nurlybay,Director,2014-05-16,74810.26,henry.nurlybay.2199@museum.org
+STF205,DEP056,Alina,Nurlybay,Head of Department,1998-08-26,101837.32,alina.nurlybay.5418@museum.org
+STF206,DEP056,Liam,Nurlybay,Director,2001-07-17,93266.83,liam.nurlybay.231@museum.org
+STF207,DEP056,Daniel,Scott,Archivist,2020-04-02,96941.86,daniel.scott.2876@museum.org
+STF208,DEP056,Oleg,Perez,Education Specialist,2013-02-11,56153.03,oleg.perez.6568@museum.org
+STF209,DEP057,Charlotte,Walker,Head of Department,2011-06-02,55742.16,charlotte.walker.4065@museum.org
+STF210,DEP057,Emma,Lopez,Education Specialist,2000-07-25,67439.87,emma.lopez.4375@museum.org
+STF211,DEP058,Daniel,Green,Archivist,2022-06-05,79423.35,daniel.green.4286@museum.org
+STF212,DEP058,Grace,Wright,Head of Department,2019-12-16,36231.36,grace.wright.5027@museum.org
+STF213,DEP059,Liam,Perez,Head of Department,2012-07-17,112695.07,liam.perez.5096@museum.org
+STF214,DEP060,Amelia,Scott,Exhibition Designer,2017-07-28,45980.68,amelia.scott.2189@museum.org
+STF215,DEP060,Timur,Martin,Security Officer,2023-07-17,118939.61,timur.martin.6122@museum.org
+STF216,DEP060,Arman,Sidorov,Head of Department,2023-12-22,76064.18,arman.sidorov.3579@museum.org
+STF217,DEP061,James,Thomas,Tour Guide,2010-01-15,75176.45,james.thomas.5928@museum.org
+STF218,DEP061,Sophia,Nazarov,Head of Department,1992-10-08,103733.54,sophia.nazarov.8282@museum.org
+STF219,DEP061,Oliver,Nazarov,Tour Guide,1996-09-21,40631.03,oliver.nazarov.8526@museum.org
+STF220,DEP062,Dana,White,Director,1999-03-20,93107.21,dana.white.8009@museum.org
+STF221,DEP062,Mia,Kim,Head of Department,1992-06-30,68076.07,mia.kim.8410@museum.org
+STF222,DEP062,Arman,Nurlybay,Archivist,1992-08-03,78085.73,arman.nurlybay.5050@museum.org
+STF223,DEP063,Olivia,Perez,Head of Department,1990-02-19,95851.43,olivia.perez.9476@museum.org
+STF224,DEP063,Sophia,Brown,Education Specialist,2005-06-15,91536.56,sophia.brown.8867@museum.org
+STF225,DEP063,Isabella,Anderson,Security Officer,1991-06-04,52273.62,isabella.anderson.2949@museum.org
+STF226,DEP063,Harper,Roberts,Exhibition Designer,2007-02-27,67611.03,harper.roberts.6185@museum.org
+STF227,DEP063,Sofia,Thomas,Director,2019-09-08,108082.6,sofia.thomas.2179@museum.org
+STF228,DEP064,Emily,White,Assistant Curator,2014-02-06,62340.57,emily.white.2087@museum.org
+STF229,DEP064,William,Smith,Curator,2003-05-21,68985.37,william.smith.8921@museum.org
+STF230,DEP064,Aigerim,Petrova,Head of Department,2000-04-20,48513.64,aigerim.petrova.5672@museum.org
+STF231,DEP065,Evelyn,Hill,Registrar,2022-07-10,97721.54,evelyn.hill.528@museum.org
+STF232,DEP065,Arman,Johnson,Head of Department,1999-03-31,31392.64,arman.johnson.9732@museum.org
+STF233,DEP065,Ava,Suleimenova,Archivist,2020-02-23,91812.2,ava.suleimenova.798@museum.org
+STF234,DEP066,James,Brown,Education Specialist,2009-09-09,47262.23,james.brown.3560@museum.org
+STF235,DEP066,Isabella,Harris,Head of Department,2002-12-23,47245.34,isabella.harris.9439@museum.org
+STF236,DEP066,David,Nazarov,Archivist,2020-03-02,102746.34,david.nazarov.3882@museum.org
+STF237,DEP066,Alexander,Martin,Director,2013-05-20,45999.06,alexander.martin.4924@museum.org
+STF238,DEP067,Lucas,Taylor,Head of Department,2016-07-16,108572.82,lucas.taylor.2870@museum.org
+STF239,DEP067,Aigerim,Sidorov,Security Officer,1992-02-08,117367.57,aigerim.sidorov.6245@museum.org
+STF240,DEP068,Nursultan,Baker,Deputy Director,2008-09-04,63784.62,nursultan.baker.4914@museum.org
+STF241,DEP068,Sofia,Walker,Tour Guide,2011-03-30,47891.98,sofia.walker.3693@museum.org
+STF242,DEP068,Alexander,Martin,Security Officer,1992-08-02,78426.67,alexander.martin.6825@museum.org
+STF243,DEP068,Dmitry,Ivanov,Assistant Curator,2007-06-04,48071.56,dmitry.ivanov.3332@museum.org
+STF244,DEP068,Daniel,Thomas,Head of Department,2006-08-24,33784.08,daniel.thomas.3121@museum.org
+STF245,DEP069,Isabella,Hill,Head of Department,2020-03-21,82472.1,isabella.hill.648@museum.org
+STF246,DEP069,Sophia,Young,Archivist,2022-06-29,88787.8,sophia.young.3556@museum.org
+STF247,DEP070,Timur,Allen,Head of Department,2003-08-08,115916.88,timur.allen.252@museum.org
+STF248,DEP070,Elijah,Young,Deputy Director,1995-04-07,95953.53,elijah.young.7847@museum.org
+STF249,DEP070,James,Allen,Education Specialist,2000-09-26,77447.53,james.allen.4638@museum.org
+STF250,DEP070,Sofia,Nurlybay,Tour Guide,2019-02-06,59129.66,sofia.nurlybay.4286@museum.org
+STF251,DEP070,Grace,Kim,Security Officer,2010-11-27,34367.78,grace.kim.7693@museum.org
+STF252,DEP070,David,Allen,Exhibition Designer,2004-01-14,64323.37,david.allen.9217@museum.org
+STF253,DEP070,William,Martin,Curator,2001-09-12,77564.6,william.martin.9569@museum.org
+STF254,DEP070,Maria,Roberts,Conservator,1996-11-02,43638.22,maria.roberts.3769@museum.org
+STF255,DEP071,Sofia,Nazarov,Head of Department,2012-05-25,77311.04,sofia.nazarov.5531@museum.org
+STF256,DEP071,Benjamin,Tlegenova,Deputy Director,2018-10-14,95261.44,benjamin.tlegenova.7551@museum.org
+STF257,DEP071,Liam,Nelson,Assistant Curator,1996-04-12,93429.79,liam.nelson.8001@museum.org
+STF258,DEP071,Noah,Petrova,Director,1992-08-20,74774.72,noah.petrova.1218@museum.org
+STF259,DEP071,Isabella,Smith,Education Specialist,1996-03-02,105041.75,isabella.smith.3792@museum.org
+STF260,DEP072,Sophia,Martin,Curator,1999-10-24,73044.63,sophia.martin.6115@museum.org
+STF261,DEP072,Isabella,Akhanov,Head of Department,2011-11-20,26494.52,isabella.akhanov.8720@museum.org
+STF262,DEP073,Dmitry,Roberts,Head of Department,1990-10-02,75294.68,dmitry.roberts.4502@museum.org
+STF263,DEP074,Ayan,Scott,Head of Department,2012-07-12,102249.94,ayan.scott.7055@museum.org
+STF264,DEP074,Noah,Jackson,Senior Curator,2013-07-10,39145.26,noah.jackson.3145@museum.org
+STF265,DEP074,Oleg,Ivanov,Conservator,2005-11-25,50395.85,oleg.ivanov.6503@museum.org
+STF266,DEP074,Mia,Carter,Education Specialist,2010-08-04,78675.21,mia.carter.3701@museum.org
+STF267,DEP074,Alexander,Thomas,Director,2019-02-25,97160.66,alexander.thomas.1532@museum.org
+STF268,DEP075,Chloe,Mitchell,Education Specialist,2014-10-17,70220.48,chloe.mitchell.155@museum.org
+STF269,DEP075,Liam,Thomas,Security Officer,2009-06-19,86266.19,liam.thomas.5428@museum.org
+STF270,DEP075,Anna,Jackson,Head of Department,1991-11-29,46827.82,anna.jackson.9287@museum.org
+STF271,DEP075,Timur,Hill,Curator,1993-05-03,90020.73,timur.hill.4594@museum.org
+STF272,DEP075,Ayan,Nazarov,Director,1991-06-24,42038.68,ayan.nazarov.5153@museum.org
+STF273,DEP076,Olivia,Allen,Archivist,1996-06-20,96464.17,olivia.allen.6526@museum.org
+STF274,DEP076,Sophia,Green,Assistant Curator,2015-04-19,47844.86,sophia.green.6376@museum.org
+STF275,DEP076,Ayan,Adams,Education Specialist,2023-11-23,95275.79,ayan.adams.1285@museum.org
+STF276,DEP076,Alina,Nelson,Head of Department,1994-05-20,66523.38,alina.nelson.1246@museum.org
+STF277,DEP076,Daniel,Perez,Exhibition Designer,1991-05-01,85241.68,daniel.perez.7382@museum.org
+STF278,DEP077,Aruzhan,King,Head of Department,2014-10-22,114408.57,aruzhan.king.7076@museum.org
+STF279,DEP077,Noah,Mitchell,Senior Curator,2017-10-01,53061.05,noah.mitchell.4038@museum.org
+STF280,DEP077,Sophia,Thomas,Conservator,1996-12-01,61100.0,sophia.thomas.2528@museum.org
+STF281,DEP077,Sofia,Baker,Exhibition Designer,1994-10-12,33694.44,sofia.baker.5051@museum.org
+STF282,DEP077,Dana,Carter,Conservator,1994-08-02,37588.17,dana.carter.3071@museum.org
+STF283,DEP078,Aigerim,Suleimenova,Tour Guide,2014-11-19,73681.88,aigerim.suleimenova.1693@museum.org
+STF284,DEP078,Olivia,Thomas,Head of Department,2014-11-11,33841.1,olivia.thomas.9799@museum.org
+STF285,DEP079,David,Mitchell,Curator,2003-02-03,64311.96,david.mitchell.1388@museum.org
+STF286,DEP079,Dmitry,Wright,Archivist,2013-05-17,41110.38,dmitry.wright.6238@museum.org
+STF287,DEP079,Liam,Harris,Head of Department,2003-07-05,50498.65,liam.harris.2391@museum.org
+STF288,DEP080,Sophia,Lee,Head of Department,2002-05-19,65004.72,sophia.lee.7934@museum.org
+STF289,DEP080,Sophia,Carter,Conservator,2001-01-23,93485.45,sophia.carter.8124@museum.org
+STF290,DEP081,Elena,Young,Security Officer,1994-10-19,37871.5,elena.young.111@museum.org
+STF291,DEP081,Chloe,Adams,Archivist,2007-01-16,101387.26,chloe.adams.5400@museum.org
+STF292,DEP081,Dana,Adams,Education Specialist,2019-03-16,117551.41,dana.adams.2231@museum.org
+STF293,DEP081,Alexander,Baker,Archivist,2021-03-10,44080.89,alexander.baker.5148@museum.org
+STF294,DEP081,Noah,Perez,Exhibition Designer,2003-01-28,94813.06,noah.perez.8045@museum.org
+STF295,DEP081,Anna,Wright,Head of Department,2006-11-14,51628.51,anna.wright.6438@museum.org
+STF296,DEP082,Grace,White,Archivist,1998-12-18,81261.57,grace.white.8940@museum.org
+STF297,DEP082,Noah,Sidorov,Curator,2022-08-15,68854.11,noah.sidorov.3435@museum.org
+STF298,DEP082,Dana,Scott,Head of Department,1993-02-07,102801.73,dana.scott.6704@museum.org
+STF299,DEP082,Aruzhan,Harris,Director,2003-08-02,47992.01,aruzhan.harris.2526@museum.org
+STF300,DEP083,Aigerim,Mitchell,Senior Curator,2010-02-22,119116.56,aigerim.mitchell.7852@museum.org
+STF301,DEP083,Maria,Perez,Tour Guide,2012-09-22,112732.1,maria.perez.6854@museum.org
+STF302,DEP083,Ayan,Brown,Head of Department,2021-06-22,110072.64,ayan.brown.8797@museum.org
+STF303,DEP084,Elena,Thomas,Head of Department,2001-02-19,87472.16,elena.thomas.5817@museum.org
+STF304,DEP084,Liam,Brown,Archivist,2018-12-08,89359.83,liam.brown.6548@museum.org
+STF305,DEP085,Daniel,Kenzhebayev,Head of Department,1990-06-22,34367.62,daniel.kenzhebayev.3638@museum.org
+STF306,DEP085,Alina,Ivanov,Tour Guide,2016-01-16,90328.12,alina.ivanov.3622@museum.org
+STF307,DEP085,Dana,Carter,Education Specialist,2010-10-09,98372.51,dana.carter.9644@museum.org
+STF308,DEP086,Alina,Martin,Head of Department,1991-02-07,70863.25,alina.martin.4841@museum.org
+STF309,DEP086,Arman,Thomas,Senior Curator,2022-10-02,38459.14,arman.thomas.5111@museum.org
+STF310,DEP086,Daniel,Nurlybay,Registrar,2013-05-17,70877.97,daniel.nurlybay.7802@museum.org
+STF311,DEP087,Charlotte,Suleimenova,Head of Department,2021-04-03,67982.48,charlotte.suleimenova.1101@museum.org
+STF312,DEP087,Alexander,Brown,Deputy Director,1995-03-01,27145.59,alexander.brown.5621@museum.org
+STF313,DEP087,Charlotte,Lee,Deputy Director,2000-12-10,74019.42,charlotte.lee.9043@museum.org
+STF314,DEP087,Liam,Adams,Tour Guide,2009-02-15,116053.95,liam.adams.3799@museum.org
+STF315,DEP087,Chloe,Walker,Assistant Curator,2018-09-24,87444.25,chloe.walker.6482@museum.org
+STF316,DEP088,Olivia,Young,Head of Department,2016-07-25,65807.52,olivia.young.73@museum.org
+STF317,DEP088,Elijah,Allen,Conservator,2023-10-01,91857.18,elijah.allen.1026@museum.org
+STF318,DEP088,Anna,Jackson,Tour Guide,1998-05-22,59750.34,anna.jackson.3229@museum.org
+STF319,DEP088,Maksat,White,Conservator,2020-02-01,106950.47,maksat.white.8647@museum.org
+STF320,DEP089,David,Mitchell,Archivist,2007-08-11,80765.45,david.mitchell.5701@museum.org
+STF321,DEP089,Emily,Nurlybay,Archivist,1997-09-27,102305.13,emily.nurlybay.4874@museum.org
+STF322,DEP089,Oleg,Thomas,Director,1996-01-04,54752.65,oleg.thomas.3909@museum.org
+STF323,DEP089,Alexander,White,Assistant Curator,2006-09-30,90876.47,alexander.white.8370@museum.org
+STF324,DEP089,Sofia,Roberts,Head of Department,1996-03-08,79606.57,sofia.roberts.6932@museum.org
+STF325,DEP089,Noah,Tlegenova,Director,2014-02-08,90876.13,noah.tlegenova.2839@museum.org
+STF326,DEP090,Dmitry,Lee,Security Officer,2002-12-16,38328.17,dmitry.lee.5155@museum.org
+STF327,DEP090,Dana,Taylor,Exhibition Designer,1990-06-07,71037.85,dana.taylor.3197@museum.org
+STF328,DEP090,Sofia,Sidorov,Head of Department,2019-04-18,72022.14,sofia.sidorov.8057@museum.org
+STF329,DEP091,Arman,Suleimenova,Head of Department,1997-07-03,32853.71,arman.suleimenova.506@museum.org
+STF330,DEP091,William,Scott,Curator,2002-05-01,46360.12,william.scott.4730@museum.org
+STF331,DEP092,Liam,Nurlybay,Archivist,2023-04-23,98392.03,liam.nurlybay.8116@museum.org
+STF332,DEP092,Dmitry,Kim,Senior Curator,2015-09-10,35849.63,dmitry.kim.8899@museum.org
+STF333,DEP092,Grace,Petrova,Head of Department,2022-04-02,66929.83,grace.petrova.3581@museum.org
+STF334,DEP092,Aigerim,Jackson,Deputy Director,2019-04-28,96377.82,aigerim.jackson.4878@museum.org
+STF335,DEP092,Ava,Suleimenova,Conservator,2005-08-21,106908.96,ava.suleimenova.1426@museum.org
+STF336,DEP093,Dana,White,Registrar,1999-06-01,102016.76,dana.white.9633@museum.org
+STF337,DEP093,Emily,Kenzhebayev,Assistant Curator,2017-08-22,38227.32,emily.kenzhebayev.3386@museum.org
+STF338,DEP093,Elijah,Taylor,Head of Department,2005-09-26,75566.68,elijah.taylor.9779@museum.org
+STF339,DEP093,Ayan,Lee,Exhibition Designer,2021-08-01,52800.3,ayan.lee.9384@museum.org
+STF340,DEP093,Lucas,Kim,Director,1994-04-10,37880.95,lucas.kim.6744@museum.org
+STF341,DEP094,Isabella,Hill,Head of Department,1995-09-10,91635.52,isabella.hill.2175@museum.org
+STF342,DEP094,James,Martin,Deputy Director,2004-06-13,103705.77,james.martin.6435@museum.org
+STF343,DEP094,Aruzhan,Martin,Archivist,2018-05-15,50528.13,aruzhan.martin.6787@museum.org
+STF344,DEP094,Sofia,Suleimenova,Senior Curator,2018-06-04,100486.87,sofia.suleimenova.1526@museum.org
+STF345,DEP095,Chloe,Kim,Deputy Director,2002-06-25,90996.84,chloe.kim.6047@museum.org
+STF346,DEP095,Maksat,Tlegenova,Exhibition Designer,2016-02-08,25234.94,maksat.tlegenova.1527@museum.org
+STF347,DEP095,Maksat,Nelson,Head of Department,2013-12-22,62783.01,maksat.nelson.7040@museum.org
+STF348,DEP095,Elijah,Tlegenova,Conservator,2004-06-25,103692.64,elijah.tlegenova.5534@museum.org
+STF349,DEP095,Dmitry,Nazarov,Assistant Curator,2015-05-25,105980.14,dmitry.nazarov.5632@museum.org
+STF350,DEP096,Isabella,Brown,Senior Curator,2018-02-02,99469.53,isabella.brown.7530@museum.org
+STF351,DEP096,Olivia,White,Head of Department,2009-10-18,68369.22,olivia.white.7010@museum.org
+STF352,DEP096,Oliver,Harris,Director,2003-07-17,40102.86,oliver.harris.4490@museum.org
+STF353,DEP096,Mia,Carter,Conservator,1993-09-12,60325.16,mia.carter.2712@museum.org
+STF354,DEP097,Isabella,Perez,Director,2003-09-15,93968.89,isabella.perez.3837@museum.org
+STF355,DEP097,Aigerim,Thomas,Deputy Director,1994-04-09,25103.2,aigerim.thomas.7813@museum.org
+STF356,DEP097,Sophia,Harris,Head of Department,2000-02-23,74347.2,sophia.harris.7292@museum.org
+STF357,DEP097,Emma,Smith,Deputy Director,2005-05-31,102625.36,emma.smith.6920@museum.org
+STF358,DEP098,Harper,Akhanov,Senior Curator,2000-04-09,61391.64,harper.akhanov.1679@museum.org
+STF359,DEP098,Charlotte,Baker,Exhibition Designer,2003-06-04,38027.28,charlotte.baker.2182@museum.org
+STF360,DEP098,Evelyn,Anderson,Head of Department,2015-04-08,25805.1,evelyn.anderson.2689@museum.org
+STF361,DEP099,Dana,Nelson,Head of Department,1999-07-23,84667.6,dana.nelson.2481@museum.org
+STF362,DEP100,Arman,Suleimenova,Registrar,1993-11-21,110176.33,arman.suleimenova.2294@museum.org
+STF363,DEP100,Amelia,Mitchell,Head of Department,2009-04-06,54877.85,amelia.mitchell.2291@museum.org
+STF364,DEP101,James,Hill,Head of Department,1993-10-12,48575.87,james.hill.9847@museum.org
+STF365,DEP102,Elena,Scott,Deputy Director,1991-03-16,105549.75,elena.scott.4943@museum.org
+STF366,DEP102,Elijah,Ivanov,Archivist,2012-11-09,42921.42,elijah.ivanov.6419@museum.org
+STF367,DEP102,Henry,Taylor,Registrar,2012-03-14,61659.13,henry.taylor.3950@museum.org
+STF368,DEP102,Aruzhan,Anderson,Head of Department,1990-07-17,118753.84,aruzhan.anderson.5186@museum.org
+STF369,DEP103,Harper,Mitchell,Head of Department,2008-11-17,59714.18,harper.mitchell.2831@museum.org
+STF370,DEP103,Timur,Anderson,Curator,2016-05-07,31415.59,timur.anderson.4296@museum.org
+STF371,DEP103,Elijah,Brown,Curator,2007-11-08,73128.01,elijah.brown.8210@museum.org
+STF372,DEP104,Arman,Kenzhebayev,Deputy Director,2008-01-17,32830.64,arman.kenzhebayev.8792@museum.org
+STF373,DEP104,Ayan,Martin,Conservator,1993-10-01,54441.15,ayan.martin.8378@museum.org
+STF374,DEP104,Elijah,Martin,Tour Guide,2004-08-28,62119.49,elijah.martin.1084@museum.org
+STF375,DEP104,Alexander,Kenzhebayev,Head of Department,2000-09-14,30501.06,alexander.kenzhebayev.1413@museum.org
+STF376,DEP105,Aigerim,White,Head of Department,2017-06-19,82839.08,aigerim.white.5068@museum.org
+STF377,DEP105,Noah,White,Curator,2021-10-03,38035.12,noah.white.186@museum.org
+STF378,DEP105,Liam,Tlegenova,Exhibition Designer,2013-06-17,74136.17,liam.tlegenova.4248@museum.org
+STF379,DEP105,Liam,Carter,Assistant Curator,2023-08-20,99206.78,liam.carter.4404@museum.org
+STF380,DEP105,Amelia,Johnson,Exhibition Designer,2009-04-05,50838.16,amelia.johnson.1047@museum.org
+STF381,DEP105,Benjamin,Nazarov,Director,1993-06-16,72134.02,benjamin.nazarov.8369@museum.org
+STF382,DEP106,Grace,Taylor,Security Officer,2015-06-06,40853.73,grace.taylor.2578@museum.org
+STF383,DEP106,Benjamin,Jackson,Archivist,2020-03-28,93663.95,benjamin.jackson.3743@museum.org
+STF384,DEP106,Alina,Smith,Head of Department,1990-07-21,48232.39,alina.smith.7730@museum.org
+STF385,DEP107,Grace,Mitchell,Assistant Curator,1998-01-11,113460.21,grace.mitchell.580@museum.org
+STF386,DEP107,Dmitry,Roberts,Registrar,2004-06-08,48585.0,dmitry.roberts.5242@museum.org
+STF387,DEP107,Lucas,Anderson,Head of Department,2006-09-22,36343.09,lucas.anderson.863@museum.org
+STF388,DEP108,Noah,King,Tour Guide,1992-01-23,115637.54,noah.king.1130@museum.org
+STF389,DEP108,Maksat,Scott,Head of Department,2004-09-06,33206.62,maksat.scott.7484@museum.org
+STF390,DEP108,Emma,Carter,Registrar,2003-01-30,78561.64,emma.carter.4980@museum.org
+STF391,DEP108,Oleg,Wright,Security Officer,2006-07-09,81210.64,oleg.wright.8084@museum.org
+STF392,DEP108,Oliver,Petrova,Registrar,1996-10-02,25605.9,oliver.petrova.6719@museum.org
+STF393,DEP109,Olivia,King,Head of Department,2005-07-16,85414.47,olivia.king.158@museum.org
+STF394,DEP109,Daniel,Smith,Director,2006-11-17,105655.57,daniel.smith.5039@museum.org
+STF395,DEP109,Charlotte,Allen,Tour Guide,2000-09-07,64882.5,charlotte.allen.982@museum.org
+STF396,DEP110,Evelyn,Hill,Senior Curator,1991-12-21,112521.07,evelyn.hill.8516@museum.org
+STF397,DEP110,Arman,Carter,Head of Department,2023-07-20,33065.73,arman.carter.1566@museum.org
+STF398,DEP111,Alina,Harris,Head of Department,2007-09-10,32108.9,alina.harris.9304@museum.org
+STF399,DEP111,Isabella,Kenzhebayev,Director,1995-11-12,47493.31,isabella.kenzhebayev.4277@museum.org
+STF400,DEP111,David,Perez,Deputy Director,2022-12-27,55993.9,david.perez.7418@museum.org
+STF401,DEP112,Lucas,King,Head of Department,1999-02-04,37930.63,lucas.king.9580@museum.org
+STF402,DEP112,Charlotte,Martin,Senior Curator,1997-05-17,67708.84,charlotte.martin.5146@museum.org
+STF403,DEP113,Arman,White,Tour Guide,2006-01-27,116640.3,arman.white.3402@museum.org
+STF404,DEP113,Dana,Green,Head of Department,2001-11-20,105985.81,dana.green.1482@museum.org
+STF405,DEP113,Liam,Green,Deputy Director,2021-04-05,82313.74,liam.green.3523@museum.org
+STF406,DEP113,David,Martin,Senior Curator,2021-11-25,48580.78,david.martin.5829@museum.org
+STF407,DEP113,Chloe,Kim,Curator,2020-05-17,53389.87,chloe.kim.2849@museum.org
+STF408,DEP113,Olivia,Perez,Security Officer,2014-12-09,96067.45,olivia.perez.4094@museum.org
+STF409,DEP113,Charlotte,Nurlybay,Senior Curator,1996-04-09,36538.06,charlotte.nurlybay.1011@museum.org
+STF410,DEP114,William,Harris,Registrar,2007-12-21,60362.78,william.harris.1377@museum.org
+STF411,DEP114,Maria,Lopez,Head of Department,1990-12-24,119730.34,maria.lopez.3240@museum.org
+STF412,DEP114,Dana,Harris,Senior Curator,2004-11-15,36640.13,dana.harris.7553@museum.org
+STF413,DEP114,Isabella,Lee,Archivist,2009-06-06,103060.11,isabella.lee.6472@museum.org
+STF414,DEP114,Aruzhan,Johnson,Education Specialist,2020-08-24,65533.08,aruzhan.johnson.5800@museum.org
+STF415,DEP115,Elijah,Walker,Conservator,2002-07-22,67371.09,elijah.walker.2436@museum.org
+STF416,DEP115,Ava,Wright,Head of Department,2003-03-29,72394.7,ava.wright.9023@museum.org
+STF417,DEP115,Timur,Taylor,Senior Curator,2002-07-20,61386.45,timur.taylor.6869@museum.org
+STF418,DEP115,Oliver,Ivanov,Registrar,2018-04-18,119438.29,oliver.ivanov.8908@museum.org
+STF419,DEP116,Olivia,Mitchell,Head of Department,2006-02-09,70570.02,olivia.mitchell.7941@museum.org
+STF420,DEP116,Emily,Nazarov,Tour Guide,2004-06-05,61896.22,emily.nazarov.2947@museum.org
+STF421,DEP116,Olivia,Baker,Archivist,1999-10-29,27783.83,olivia.baker.4603@museum.org
+STF422,DEP116,Isabella,Akhanov,Tour Guide,2006-01-13,97850.01,isabella.akhanov.3814@museum.org
+STF423,DEP116,Liam,Jackson,Registrar,2019-06-20,47909.52,liam.jackson.8744@museum.org
+STF424,DEP116,Isabella,King,Archivist,2007-06-04,58706.44,isabella.king.2847@museum.org
+STF425,DEP117,Noah,Wright,Archivist,2004-04-07,101589.97,noah.wright.5879@museum.org
+STF426,DEP117,Maria,Johnson,Deputy Director,2021-06-04,58409.8,maria.johnson.9301@museum.org
+STF427,DEP117,Anna,Martin,Archivist,1998-06-12,104486.2,anna.martin.8065@museum.org
+STF428,DEP117,Ayan,Green,Assistant Curator,2012-01-01,28606.56,ayan.green.921@museum.org
+STF429,DEP117,William,King,Head of Department,2013-08-13,70408.95,william.king.5436@museum.org
+STF430,DEP118,Oleg,Young,Head of Department,2005-04-14,93109.08,oleg.young.5302@museum.org
+STF431,DEP118,Isabella,Johnson,Assistant Curator,2016-04-25,91946.15,isabella.johnson.2321@museum.org
+STF432,DEP119,Amelia,Ivanov,Exhibition Designer,1993-04-03,60491.12,amelia.ivanov.6482@museum.org
+STF433,DEP119,Maria,Jackson,Exhibition Designer,2003-07-16,55647.3,maria.jackson.2581@museum.org
+STF434,DEP119,Aigerim,Tlegenova,Director,2004-03-26,41549.25,aigerim.tlegenova.9208@museum.org
+STF435,DEP119,Oleg,Nelson,Head of Department,2019-11-09,80950.26,oleg.nelson.2873@museum.org
+STF436,DEP119,Sofia,Green,Deputy Director,2020-11-19,52979.14,sofia.green.2912@museum.org
+STF437,DEP119,Emma,Nazarov,Education Specialist,2015-06-16,28076.36,emma.nazarov.9870@museum.org
+STF438,DEP120,David,King,Director,2015-05-15,34890.47,david.king.8130@museum.org
+STF439,DEP120,Evelyn,Adams,Deputy Director,1993-06-28,47609.61,evelyn.adams.5235@museum.org
+STF440,DEP120,Liam,Thomas,Deputy Director,2020-01-21,85714.76,liam.thomas.5501@museum.org
+STF441,DEP120,Dana,Smith,Head of Department,1999-05-29,48706.38,dana.smith.1111@museum.org
+STF442,DEP121,Emily,Lopez,Senior Curator,2022-04-26,25121.71,emily.lopez.6324@museum.org
+STF443,DEP121,Dana,Roberts,Assistant Curator,2008-07-28,71842.79,dana.roberts.6205@museum.org
+STF444,DEP121,Emily,Petrova,Education Specialist,1994-07-20,103736.66,emily.petrova.9471@museum.org
+STF445,DEP121,William,Lee,Security Officer,1993-04-22,100923.48,william.lee.548@museum.org
+STF446,DEP121,Henry,Johnson,Head of Department,2001-09-18,115407.9,henry.johnson.1216@museum.org
+STF447,DEP122,Daniel,Lee,Education Specialist,1997-03-21,94538.58,daniel.lee.8963@museum.org
+STF448,DEP122,Mia,Adams,Archivist,2017-07-11,109856.49,mia.adams.508@museum.org
+STF449,DEP122,Aigerim,Lee,Archivist,2009-06-23,39924.86,aigerim.lee.1660@museum.org
+STF450,DEP122,Daniel,Allen,Registrar,2008-05-11,91233.69,daniel.allen.8850@museum.org
+STF451,DEP122,Benjamin,Scott,Conservator,2000-08-27,34112.01,benjamin.scott.6438@museum.org
+STF452,DEP122,Anna,Sidorov,Head of Department,1996-11-21,30177.96,anna.sidorov.63@museum.org
+STF453,DEP123,Aigerim,Thomas,Conservator,2019-09-12,84383.64,aigerim.thomas.7870@museum.org
+STF454,DEP123,Oliver,Jackson,Head of Department,1999-04-14,41229.06,oliver.jackson.4782@museum.org
+STF455,DEP123,Mia,Akhanov,Senior Curator,2003-11-01,99563.27,mia.akhanov.7716@museum.org
+STF456,DEP124,Aruzhan,Lopez,Head of Department,2018-10-17,76691.97,aruzhan.lopez.3030@museum.org
+STF457,DEP124,Grace,Mitchell,Exhibition Designer,1998-05-15,67348.65,grace.mitchell.4314@museum.org
+STF458,DEP125,Dana,Nurlybay,Head of Department,2000-02-24,104522.48,dana.nurlybay.9245@museum.org
+STF459,DEP125,Isabella,Martin,Deputy Director,2019-12-10,34186.75,isabella.martin.5633@museum.org
+STF460,DEP126,Ayan,Roberts,Archivist,2000-03-16,77592.18,ayan.roberts.6343@museum.org
+STF461,DEP126,Nursultan,Roberts,Tour Guide,2020-10-26,107354.93,nursultan.roberts.7780@museum.org
+STF462,DEP126,Anna,Wright,Head of Department,2003-05-29,32500.73,anna.wright.569@museum.org
+STF463,DEP127,Alina,Nazarov,Head of Department,2015-08-21,89365.81,alina.nazarov.2416@museum.org
+STF464,DEP127,Amelia,Suleimenova,Assistant Curator,1997-07-01,117355.66,amelia.suleimenova.3158@museum.org
+STF465,DEP127,Harper,Brown,Education Specialist,1993-07-07,118886.59,harper.brown.7134@museum.org
+STF466,DEP127,Oliver,Martin,Archivist,2001-07-27,55376.2,oliver.martin.1098@museum.org
+STF467,DEP127,Mia,Mitchell,Tour Guide,2007-10-29,77445.15,mia.mitchell.4526@museum.org
+STF468,DEP128,Nursultan,Nurlybay,Curator,2021-06-02,84190.5,nursultan.nurlybay.8562@museum.org
+STF469,DEP128,Arman,White,Education Specialist,1996-09-17,39078.98,arman.white.9633@museum.org
+STF470,DEP128,Maria,Jackson,Senior Curator,2015-03-30,99056.75,maria.jackson.4688@museum.org
+STF471,DEP128,Ayan,Nelson,Education Specialist,2001-11-06,61389.13,ayan.nelson.7956@museum.org
+STF472,DEP128,Anna,Akhanov,Head of Department,1997-09-22,51164.34,anna.akhanov.2357@museum.org
+STF473,DEP128,Oleg,Perez,Curator,2007-10-03,109509.55,oleg.perez.5432@museum.org
+STF474,DEP129,James,Taylor,Head of Department,2011-04-26,112479.32,james.taylor.6103@museum.org
+STF475,DEP130,Olivia,Adams,Conservator,2003-12-13,51632.93,olivia.adams.8055@museum.org
+STF476,DEP130,Charlotte,King,Assistant Curator,2003-06-25,117550.85,charlotte.king.7260@museum.org
+STF477,DEP130,David,Hill,Head of Department,2008-09-11,82473.02,david.hill.1463@museum.org
+STF478,DEP130,Oliver,Suleimenova,Registrar,2008-04-07,95389.76,oliver.suleimenova.8463@museum.org
+STF479,DEP131,Grace,Taylor,Head of Department,1997-02-17,31233.61,grace.taylor.8304@museum.org
+STF480,DEP131,Chloe,Harris,Tour Guide,2015-07-06,27750.08,chloe.harris.3159@museum.org
+STF481,DEP131,Oliver,Taylor,Registrar,1991-06-26,68362.62,oliver.taylor.5905@museum.org
+STF482,DEP132,Oliver,Hill,Exhibition Designer,2010-10-28,72987.01,oliver.hill.2030@museum.org
+STF483,DEP132,Olivia,Wright,Exhibition Designer,2011-12-05,81434.14,olivia.wright.2910@museum.org
+STF484,DEP132,Timur,Sidorov,Head of Department,2005-06-11,40533.79,timur.sidorov.4238@museum.org
+STF485,DEP133,Mia,Scott,Head of Department,2007-05-05,29716.85,mia.scott.9376@museum.org
+STF486,DEP133,Elijah,King,Director,2000-02-06,89381.05,elijah.king.4409@museum.org
+STF487,DEP134,Arman,Kim,Head of Department,2020-08-08,25845.31,arman.kim.2168@museum.org
+STF488,DEP134,Noah,Smith,Registrar,2001-04-28,82792.67,noah.smith.5005@museum.org
+STF489,DEP134,Lucas,Kenzhebayev,Education Specialist,2005-08-23,68604.81,lucas.kenzhebayev.3576@museum.org
+STF490,DEP135,Maksat,Green,Director,2013-05-10,103309.53,maksat.green.6507@museum.org
+STF491,DEP135,Maria,Jackson,Curator,2012-12-11,119945.79,maria.jackson.6132@museum.org
+STF492,DEP135,Dmitry,Scott,Conservator,2020-09-13,35269.93,dmitry.scott.1046@museum.org
+STF493,DEP135,Daniel,Hill,Director,2004-08-02,106841.7,daniel.hill.4279@museum.org
+STF494,DEP135,Alexander,Young,Assistant Curator,2013-03-16,97720.07,alexander.young.931@museum.org
+STF495,DEP135,Elena,Perez,Head of Department,2004-05-03,89671.8,elena.perez.418@museum.org
+STF496,DEP135,Aruzhan,Scott,Conservator,2008-10-10,63436.89,aruzhan.scott.579@museum.org
+STF497,DEP136,Maria,Nazarov,Registrar,2005-05-24,94022.24,maria.nazarov.3644@museum.org
+STF498,DEP136,Ayan,Akhanov,Head of Department,2006-01-30,73194.91,ayan.akhanov.2786@museum.org
+STF499,DEP136,Dmitry,Walker,Conservator,1994-05-19,69724.18,dmitry.walker.4238@museum.org
+STF500,DEP137,Dmitry,Walker,Director,2005-01-21,87171.29,dmitry.walker.3642@museum.org
+STF501,DEP137,Emily,King,Deputy Director,2003-10-11,64944.89,emily.king.5429@museum.org
+STF502,DEP137,Grace,Lopez,Archivist,2003-03-11,69057.26,grace.lopez.1930@museum.org
+STF503,DEP137,Timur,Taylor,Head of Department,2016-03-06,80129.75,timur.taylor.1167@museum.org
+STF504,DEP138,Timur,Young,Tour Guide,1995-05-18,107412.29,timur.young.6254@museum.org
+STF505,DEP138,Nursultan,Green,Education Specialist,1992-06-04,107730.67,nursultan.green.2471@museum.org
+STF506,DEP138,Harper,Young,Exhibition Designer,2008-05-10,118783.2,harper.young.7497@museum.org
+STF507,DEP138,Evelyn,Baker,Deputy Director,1998-02-02,98999.41,evelyn.baker.7989@museum.org
+STF508,DEP138,Daniel,Walker,Head of Department,2018-06-18,30511.29,daniel.walker.7407@museum.org
+STF509,DEP139,Lucas,Allen,Assistant Curator,2015-11-07,97625.95,lucas.allen.8022@museum.org
+STF510,DEP139,Mia,Harris,Archivist,2009-06-15,85181.32,mia.harris.6610@museum.org
+STF511,DEP139,Aigerim,Akhanov,Head of Department,1990-03-18,28583.91,aigerim.akhanov.3268@museum.org
+STF512,DEP140,Grace,Smith,Head of Department,2023-12-14,104156.72,grace.smith.3123@museum.org
+STF513,DEP140,Olivia,Smith,Director,2022-11-28,48638.2,olivia.smith.5642@museum.org
+STF514,DEP140,Alexander,Harris,Senior Curator,2007-03-17,72816.97,alexander.harris.5016@museum.org
+STF515,DEP140,Liam,Anderson,Curator,2003-05-18,115104.02,liam.anderson.7470@museum.org
+STF516,DEP140,Nursultan,Ivanov,Exhibition Designer,2009-06-15,109357.53,nursultan.ivanov.2193@museum.org
+STF517,DEP140,Daniel,Tlegenova,Exhibition Designer,2023-08-25,42900.47,daniel.tlegenova.6610@museum.org
+STF518,DEP140,Olivia,King,Registrar,2022-08-14,118563.55,olivia.king.3461@museum.org
+STF519,DEP141,Olivia,Kim,Assistant Curator,1995-07-11,59826.19,olivia.kim.613@museum.org
+STF520,DEP141,Sofia,Lopez,Tour Guide,2017-12-14,29615.76,sofia.lopez.786@museum.org
+STF521,DEP141,Charlotte,Johnson,Curator,2020-12-09,36000.03,charlotte.johnson.7280@museum.org
+STF522,DEP141,Sofia,White,Head of Department,2001-05-03,70067.65,sofia.white.2509@museum.org
+STF523,DEP141,Elijah,Smith,Conservator,2008-11-17,87858.13,elijah.smith.8525@museum.org
+STF524,DEP141,Lucas,Harris,Education Specialist,1994-09-15,73600.55,lucas.harris.1929@museum.org
+STF525,DEP141,Henry,White,Senior Curator,2012-04-29,43871.43,henry.white.3273@museum.org
+STF526,DEP142,Benjamin,Ivanov,Registrar,2006-01-21,91826.49,benjamin.ivanov.4840@museum.org
+STF527,DEP142,Liam,Brown,Head of Department,2012-04-07,111483.88,liam.brown.7876@museum.org
+STF528,DEP143,Daniel,Wright,Head of Department,1990-07-28,88805.15,daniel.wright.1810@museum.org
+STF529,DEP143,Anna,Tlegenova,Assistant Curator,1994-01-15,99054.99,anna.tlegenova.1230@museum.org
+STF530,DEP143,Charlotte,Lopez,Director,2000-05-15,68391.37,charlotte.lopez.4851@museum.org
+STF531,DEP144,Benjamin,Nurlybay,Curator,1994-06-24,102251.95,benjamin.nurlybay.647@museum.org
+STF532,DEP144,Henry,Carter,Director,2004-01-11,65469.54,henry.carter.1899@museum.org
+STF533,DEP144,Charlotte,Brown,Head of Department,1996-03-17,88018.73,charlotte.brown.2794@museum.org
+STF534,DEP145,Daniel,Nelson,Head of Department,2017-11-22,50489.39,daniel.nelson.1523@museum.org
+STF535,DEP145,Grace,Adams,Assistant Curator,1995-02-09,63073.86,grace.adams.7480@museum.org
+STF536,DEP145,Lucas,Mitchell,Deputy Director,2011-06-15,100990.41,lucas.mitchell.2733@museum.org
+STF537,DEP146,Amelia,Harris,Head of Department,2022-08-02,30571.41,amelia.harris.2612@museum.org
+STF538,DEP147,Charlotte,Roberts,Archivist,2011-08-27,101215.15,charlotte.roberts.7179@museum.org
+STF539,DEP147,Noah,Mitchell,Exhibition Designer,2017-06-04,27737.54,noah.mitchell.2141@museum.org
+STF540,DEP147,Timur,Tlegenova,Senior Curator,2008-06-13,66865.35,timur.tlegenova.1038@museum.org
+STF541,DEP147,Benjamin,Baker,Curator,2021-08-09,107491.57,benjamin.baker.8599@museum.org
+STF542,DEP147,Anna,Nazarov,Head of Department,2020-01-18,107948.64,anna.nazarov.8505@museum.org
+STF543,DEP148,Nursultan,Jackson,Education Specialist,2019-09-07,94031.94,nursultan.jackson.7896@museum.org
+STF544,DEP148,Emily,Mitchell,Assistant Curator,2015-01-17,109745.88,emily.mitchell.895@museum.org
+STF545,DEP148,Emma,Lee,Head of Department,2011-01-19,105927.76,emma.lee.2710@museum.org
+STF546,DEP148,Sophia,Tlegenova,Exhibition Designer,2000-10-21,56435.01,sophia.tlegenova.4558@museum.org
+STF547,DEP149,Isabella,Kim,Registrar,2014-09-11,86115.14,isabella.kim.6608@museum.org
+STF548,DEP149,James,Thomas,Security Officer,2009-12-04,101119.82,james.thomas.7342@museum.org
+STF549,DEP149,Mia,Tlegenova,Security Officer,2004-03-06,36277.15,mia.tlegenova.8149@museum.org
+STF550,DEP149,Olivia,Jackson,Education Specialist,2008-06-30,28404.03,olivia.jackson.8997@museum.org
+STF551,DEP149,Emma,Thomas,Archivist,2017-10-08,85566.12,emma.thomas.8329@museum.org
+STF552,DEP149,Dmitry,Allen,Director,2020-02-14,68339.75,dmitry.allen.5585@museum.org
+STF553,DEP149,Grace,Taylor,Head of Department,2010-05-21,56537.4,grace.taylor.9830@museum.org
+STF554,DEP150,Timur,Carter,Deputy Director,2010-04-20,35832.22,timur.carter.3634@museum.org
+STF555,DEP150,Emma,Adams,Head of Department,2018-06-04,116621.2,emma.adams.4784@museum.org

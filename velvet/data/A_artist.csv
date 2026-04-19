@@ -1,0 +1,151 @@
+artist_id,artist_name,birth_year,death_year,nationality,art_movement
+ARS001,Leonardo da Vinci,1452,1519.0,Italian,Renaissance
+ARS002,Vincent van Gogh,1853,1890.0,Dutch,Post-Impressionism
+ARS003,Pablo Picasso,1881,1973.0,Spanish,Cubism
+ARS004,Claude Monet,1840,1926.0,French,Impressionism
+ARS005,Frida Kahlo,1907,1954.0,Mexican,Surrealism
+ARS006,Salvador Dali,1904,1989.0,Spanish,Surrealism
+ARS007,Rembrandt van Rijn,1606,1669.0,Dutch,Baroque
+ARS008,Michelangelo Buonarroti,1475,1564.0,Italian,Renaissance
+ARS009,Andy Warhol,1928,1987.0,American,Pop Art
+ARS010,Kazimir Malevich,1879,1935.0,Russian,Suprematism
+ARS011,Jackson Pollock,1912,1956.0,American,Abstract Expressionism
+ARS012,Diego Rivera,1886,1957.0,Mexican,Muralism
+ARS013,Georgia O'Keeffe,1887,1986.0,American,Modernism
+ARS014,Henri Matisse,1869,1954.0,French,Fauvism
+ARS015,Paul Cezanne,1839,1906.0,French,Post-Impressionism
+ARS016,Dmitry Ivanov,1945,,French,Impressionism
+ARS017,Aruzhan Harris,1954,2024.0,Kazakh,Post-Impressionism
+ARS018,Amelia Perez,1905,1967.0,Chinese,Baroque
+ARS019,Arman Brown,1881,,Austrian,Modernism
+ARS020,Maria Kim,1884,,Italian,Pop Art
+ARS021,Isabella Sidorov,1960,,Swiss,Pop Art
+ARS022,Noah Walker,1882,1970.0,Chinese,Pop Art
+ARS023,Sofia Roberts,1913,1984.0,Japanese,Modernism
+ARS024,Harper Harris,1955,,Swedish,Cubism
+ARS025,Dmitry Baker,1991,,Kazakh,Post-Impressionism
+ARS026,Oleg Scott,1938,,German,Conceptual Art
+ARS027,Noah Kim,1988,,Chinese,Conceptual Art
+ARS028,Amelia Nelson,1993,2024.0,Canadian,Minimalism
+ARS029,Ayan Scott,1958,,Swedish,Baroque
+ARS030,Olivia Mitchell,1887,1940.0,Kazakh,Cubism
+ARS031,Liam Scott,1914,1967.0,Japanese,Post-Impressionism
+ARS032,Ayan Brown,1941,,Spanish,Contemporary
+ARS033,Dmitry King,1993,2024.0,Japanese,Conceptual Art
+ARS034,Isabella Mitchell,1949,2019.0,French,Renaissance
+ARS035,Benjamin Young,1963,,Mexican,Contemporary
+ARS036,Ayan Young,1899,1960.0,Dutch,Impressionism
+ARS037,Noah Kim,1880,1957.0,British,Pop Art
+ARS038,Benjamin Harris,1891,1957.0,Italian,Surrealism
+ARS039,Maksat Martin,1860,1930.0,French,Minimalism
+ARS040,Oleg Green,1975,,Mexican,Baroque
+ARS041,David Ivanov,1906,,Swedish,Baroque
+ARS042,Alina Lee,1956,2024.0,Dutch,Surrealism
+ARS043,William Allen,1934,2002.0,Kazakh,Contemporary
+ARS044,Nursultan Akhanov,1993,,Italian,Baroque
+ARS045,Emily Suleimenova,1911,,American,Renaissance
+ARS046,David Mitchell,1879,1963.0,Japanese,Renaissance
+ARS047,Nursultan Carter,1981,,Austrian,Modernism
+ARS048,Ava Scott,1899,1954.0,Spanish,Impressionism
+ARS049,Ayan Petrova,1851,,Kazakh,Minimalism
+ARS050,Elijah Kenzhebayev,1876,1953.0,Dutch,Conceptual Art
+ARS051,Evelyn Johnson,1967,,French,Baroque
+ARS052,Sophia Taylor,1895,,Dutch,Contemporary
+ARS053,William Lopez,1954,2024.0,Brazilian,Abstract Expressionism
+ARS054,David Johnson,1949,,Italian,Minimalism
+ARS055,Oleg Anderson,1861,,Dutch,Surrealism
+ARS056,Alina Jackson,1924,,Japanese,Contemporary
+ARS057,Mia Scott,1962,2013.0,Swiss,Impressionism
+ARS058,Ayan King,1884,,Japanese,Minimalism
+ARS059,Evelyn Green,1945,,Italian,Pop Art
+ARS060,Dmitry Martin,1881,1967.0,Brazilian,Pop Art
+ARS061,Dmitry Thomas,1928,2000.0,Kazakh,Abstract Expressionism
+ARS062,Alina Martin,1891,1980.0,British,Post-Impressionism
+ARS063,Amelia Walker,1995,,Austrian,Minimalism
+ARS064,Dmitry Anderson,1924,,British,Baroque
+ARS065,Oliver Tlegenova,1934,1999.0,Spanish,Cubism
+ARS066,Oleg Anderson,1899,1977.0,Chinese,Contemporary
+ARS067,Alexander Martin,1994,2024.0,Canadian,Impressionism
+ARS068,Emma Baker,1913,,Canadian,Cubism
+ARS069,Grace Harris,1934,,Austrian,Modernism
+ARS070,Emily Green,1974,2024.0,Dutch,Cubism
+ARS071,Harper Petrova,1900,1990.0,Dutch,Conceptual Art
+ARS072,Sophia Johnson,1979,,Brazilian,Contemporary
+ARS073,Elijah Brown,1991,2024.0,Swiss,Minimalism
+ARS074,Evelyn Carter,1950,2024.0,Japanese,Impressionism
+ARS075,Maksat Kim,1980,2024.0,Swedish,Renaissance
+ARS076,James Lee,1981,2024.0,Russian,Contemporary
+ARS077,Anna Martin,1973,,French,Post-Impressionism
+ARS078,Aruzhan King,1866,1930.0,French,Minimalism
+ARS079,Elijah Ivanov,1942,2021.0,French,Renaissance
+ARS080,David Jackson,1983,,British,Conceptual Art
+ARS081,Benjamin Petrova,1995,2024.0,Mexican,Contemporary
+ARS082,Sophia Ivanov,1914,1978.0,Swedish,Abstract Expressionism
+ARS083,Emily Nelson,1974,,Italian,Pop Art
+ARS084,Harper Suleimenova,1892,1974.0,British,Post-Impressionism
+ARS085,Evelyn Walker,1890,1947.0,American,Abstract Expressionism
+ARS086,Daniel White,1973,,Swiss,Post-Impressionism
+ARS087,Maria Lee,1955,2007.0,German,Contemporary
+ARS088,Maria Lee,1884,,French,Contemporary
+ARS089,Evelyn Taylor,1892,1953.0,Swedish,Abstract Expressionism
+ARS090,Elena Nazarov,1854,,Japanese,Baroque
+ARS091,Elijah Suleimenova,1970,,Russian,Post-Impressionism
+ARS092,Arman Martin,1896,,Swedish,Cubism
+ARS093,Liam Adams,1966,2020.0,American,Abstract Expressionism
+ARS094,Sofia Harris,1877,1960.0,Swedish,Minimalism
+ARS095,Arman Martin,1874,1963.0,French,Pop Art
+ARS096,Alina White,1873,1931.0,Italian,Minimalism
+ARS097,Aigerim Ivanov,1957,2009.0,Swedish,Abstract Expressionism
+ARS098,William Akhanov,1947,2024.0,Spanish,Abstract Expressionism
+ARS099,Harper Lopez,1972,,Dutch,Cubism
+ARS100,Elena Petrova,1954,2004.0,Italian,Contemporary
+ARS101,Nursultan White,1983,2024.0,Chinese,Abstract Expressionism
+ARS102,Grace Jackson,1889,1976.0,British,Cubism
+ARS103,Ayan Kenzhebayev,1994,2024.0,Brazilian,Post-Impressionism
+ARS104,Arman Sidorov,1992,2024.0,Swiss,Cubism
+ARS105,Alexander Nazarov,1938,,Brazilian,Conceptual Art
+ARS106,Harper White,1908,1968.0,Spanish,Post-Impressionism
+ARS107,Alina Perez,1936,,French,Impressionism
+ARS108,Sofia Smith,1873,,Swiss,Contemporary
+ARS109,Aigerim Thomas,1866,1939.0,Dutch,Contemporary
+ARS110,Ava Mitchell,1952,,Swedish,Cubism
+ARS111,Elena Taylor,1894,,Austrian,Renaissance
+ARS112,Oliver Ivanov,1923,2011.0,Swedish,Pop Art
+ARS113,William Lee,1859,1909.0,Russian,Baroque
+ARS114,Lucas Perez,1940,,Brazilian,Contemporary
+ARS115,Oliver Ivanov,1853,,Dutch,Baroque
+ARS116,Dmitry Scott,1993,,Mexican,Surrealism
+ARS117,Lucas King,1899,1974.0,Italian,Cubism
+ARS118,Noah Roberts,1979,2024.0,Swedish,Cubism
+ARS119,Daniel White,1981,,British,Conceptual Art
+ARS120,Dana Mitchell,1994,2024.0,Chinese,Modernism
+ARS121,Maksat Johnson,1973,2024.0,Brazilian,Minimalism
+ARS122,William King,1930,2002.0,Swedish,Pop Art
+ARS123,Emma Lopez,1913,1988.0,Chinese,Baroque
+ARS124,Dmitry Walker,1971,2024.0,British,Impressionism
+ARS125,Oliver Tlegenova,1901,1966.0,British,Post-Impressionism
+ARS126,William Young,1913,,Mexican,Impressionism
+ARS127,Charlotte White,1870,,Swiss,Contemporary
+ARS128,Emma Petrova,1860,,Mexican,Contemporary
+ARS129,David Tlegenova,1920,2002.0,British,Abstract Expressionism
+ARS130,William Nazarov,1882,1959.0,Swiss,Pop Art
+ARS131,Ava Kim,1938,1999.0,Austrian,Baroque
+ARS132,Nursultan Nurlybay,1930,,Italian,Minimalism
+ARS133,Elijah Mitchell,1875,1964.0,British,Impressionism
+ARS134,Dmitry Lopez,1910,1999.0,Chinese,Surrealism
+ARS135,Noah Tlegenova,1958,2024.0,Mexican,Abstract Expressionism
+ARS136,Lucas Suleimenova,1896,1982.0,American,Baroque
+ARS137,Lucas Wright,1992,2024.0,Kazakh,Impressionism
+ARS138,Evelyn Akhanov,1852,1933.0,German,Minimalism
+ARS139,Nursultan Petrova,1930,,Japanese,Cubism
+ARS140,Dmitry Nazarov,1862,1922.0,French,Post-Impressionism
+ARS141,Benjamin Akhanov,1874,1945.0,British,Surrealism
+ARS142,Grace Sidorov,1992,,British,Surrealism
+ARS143,Olivia Roberts,1881,1969.0,Kazakh,Contemporary
+ARS144,Anna Petrova,1894,,Japanese,Surrealism
+ARS145,David Kim,1974,,Austrian,Baroque
+ARS146,Sofia Scott,1968,,German,Impressionism
+ARS147,Daniel Roberts,1953,,Dutch,Baroque
+ARS148,Liam Adams,1908,1976.0,British,Contemporary
+ARS149,Chloe Hill,1963,,Mexican,Conceptual Art
+ARS150,Maria Ivanov,1965,2024.0,Italian,Impressionism

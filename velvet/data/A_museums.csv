@@ -1,0 +1,101 @@
+museum_id,museum_name,museum_type,city,established_year,total_area_sqm
+MUS001,Cairo History Museum,History Museum,Cairo,1890,7632.51
+MUS002,Vienna History Collection,History Collection,Vienna,1794,15581.33
+MUS003,New York Art Museum,Art Museum,New York,1861,7351.2
+MUS004,Istanbul Art Collection,Art Collection,Istanbul,1851,18468.45
+MUS005,Rio de Janeiro Architecture Institute,Architecture Institute,Rio de Janeiro,1862,12331.81
+MUS006,Barcelona Art Gallery,Art Gallery,Barcelona,1966,9825.76
+MUS007,Prague Science Center,Science Center,Prague,1802,4133.15
+MUS008,Madrid Photography Center,Photography Center,Madrid,1885,20563.95
+MUS009,Cape Town Design Collection,Design Collection,Cape Town,1813,24381.66
+MUS010,Sydney History Collection,History Collection,Sydney,1900,21076.31
+MUS011,Athens Photography Collection,Photography Collection,Athens,1848,18205.15
+MUS012,New York Science Center,Science Center,New York,1790,21672.31
+MUS013,Madrid Sculpture Center,Sculpture Center,Madrid,1982,16620.74
+MUS014,Montreal Modern Art Center,Modern Art Center,Montreal,1931,6818.66
+MUS015,Barcelona History Collection,History Collection,Barcelona,1837,14285.22
+MUS016,Chicago Modern Art Institute,Modern Art Institute,Chicago,1944,8208.8
+MUS017,Cairo Architecture Gallery,Architecture Gallery,Cairo,1916,21385.59
+MUS018,Tokyo Science Museum,Science Museum,Tokyo,1911,11226.79
+MUS019,Berlin Science Collection,Science Collection,Berlin,1911,6890.41
+MUS020,Shanghai Sculpture Institute,Sculpture Institute,Shanghai,1823,8092.24
+MUS021,Chicago Architecture Collection,Architecture Collection,Chicago,1884,19181.32
+MUS022,Dubai National Institute,National Institute,Dubai,1935,7044.38
+MUS023,Vienna Architecture Institute,Architecture Institute,Vienna,1796,19382.99
+MUS024,Amsterdam Modern Art Gallery,Modern Art Gallery,Amsterdam,1966,15717.41
+MUS025,Sydney Sculpture Collection,Sculpture Collection,Sydney,1989,14169.63
+MUS026,Stockholm Art Museum,Art Museum,Stockholm,1886,19677.77
+MUS027,Hamburg History Center,History Center,Hamburg,1972,5637.63
+MUS028,Paris Ethnography Collection,Ethnography Collection,Paris,1841,13676.68
+MUS029,Madrid Ethnography Collection,Ethnography Collection,Madrid,1851,5515.3
+MUS030,Astana Modern Art Collection,Modern Art Collection,Astana,1750,15775.73
+MUS031,Shanghai Art Museum,Art Museum,Shanghai,1935,22210.6
+MUS032,Venice Science Museum,Science Museum,Venice,1873,22194.22
+MUS033,Rome History Institute,History Institute,Rome,1785,24493.64
+MUS034,Copenhagen Modern Art Gallery,Modern Art Gallery,Copenhagen,1993,23777.52
+MUS035,Moscow Ethnography Collection,Ethnography Collection,Moscow,1966,24180.35
+MUS036,Copenhagen Science Center,Science Center,Copenhagen,1954,24888.44
+MUS037,Mexico City Photography Institute,Photography Institute,Mexico City,2014,12384.18
+MUS038,Chicago Science Museum,Science Museum,Chicago,1923,2483.79
+MUS039,Stockholm Science Collection,Science Collection,Stockholm,1862,2165.39
+MUS040,Johannesburg Art Gallery,Art Gallery,Johannesburg,1784,22824.66
+MUS041,Hamburg History Collection,History Collection,Hamburg,1871,8404.98
+MUS042,Shanghai Science Collection,Science Collection,Shanghai,1817,18637.11
+MUS043,Oslo National Institute,National Institute,Oslo,1874,20046.25
+MUS044,Brisbane Science Museum,Science Museum,Brisbane,1799,17156.6
+MUS045,Toronto Sculpture Institute,Sculpture Institute,Toronto,1989,21868.25
+MUS046,Tokyo History Museum,History Museum,Tokyo,1956,18748.91
+MUS047,Madrid Science Gallery,Science Gallery,Madrid,1847,14334.57
+MUS048,Vienna Sculpture Gallery,Sculpture Gallery,Vienna,1892,12640.45
+MUS049,Berlin Design Collection,Design Collection,Berlin,1800,3163.53
+MUS050,Copenhagen Art Museum,Art Museum,Copenhagen,1871,5825.16
+MUS051,Shanghai Design Gallery,Design Gallery,Shanghai,1955,22756.19
+MUS052,Moscow Sculpture Museum,Sculpture Museum,Moscow,1949,8099.67
+MUS053,Singapore Ethnography Institute,Ethnography Institute,Singapore,1999,5560.33
+MUS054,Florence Science Museum,Science Museum,Florence,1781,19203.44
+MUS055,Tokyo Art Collection,Art Collection,Tokyo,1994,13565.56
+MUS056,Budapest Modern Art Museum,Modern Art Museum,Budapest,2010,3842.56
+MUS057,St. Petersburg History Collection,History Collection,St. Petersburg,1784,17529.89
+MUS058,Chicago Sculpture Museum,Sculpture Museum,Chicago,1876,15315.14
+MUS059,New York National Museum,National Museum,New York,1964,17119.58
+MUS060,Oslo Architecture Center,Architecture Center,Oslo,1883,6697.96
+MUS061,Johannesburg Photography Gallery,Photography Gallery,Johannesburg,1885,11103.07
+MUS062,Buenos Aires Ethnography Institute,Ethnography Institute,Buenos Aires,1911,23367.42
+MUS063,Berlin Art Institute,Art Institute,Berlin,1801,3685.0
+MUS064,Seoul Architecture Center,Architecture Center,Seoul,1817,23464.97
+MUS065,Berlin Science Center,Science Center,Berlin,1895,5628.18
+MUS066,Copenhagen Ethnography Collection,Ethnography Collection,Copenhagen,1754,17360.85
+MUS067,Stockholm Ethnography Museum,Ethnography Museum,Stockholm,1818,8082.72
+MUS068,Madrid Architecture Gallery,Architecture Gallery,Madrid,1889,8480.39
+MUS069,Seoul Photography Gallery,Photography Gallery,Seoul,1885,13624.41
+MUS070,Boston Art Museum,Art Museum,Boston,1966,21075.01
+MUS071,New York Art Center,Art Center,New York,1816,16653.61
+MUS072,Boston Modern Art Institute,Modern Art Institute,Boston,1968,14900.86
+MUS073,Amsterdam History Gallery,History Gallery,Amsterdam,1768,21195.69
+MUS074,Helsinki Architecture Gallery,Architecture Gallery,Helsinki,1970,4931.25
+MUS075,Venice Photography Museum,Photography Museum,Venice,1933,6831.76
+MUS076,Chicago History Center,History Center,Chicago,1958,24398.25
+MUS077,Almaty Modern Art Gallery,Modern Art Gallery,Almaty,1833,24452.74
+MUS078,St. Petersburg Sculpture Museum,Sculpture Museum,St. Petersburg,1841,18940.98
+MUS079,Hamburg Sculpture Gallery,Sculpture Gallery,Hamburg,1886,5661.55
+MUS080,Rio de Janeiro History Institute,History Institute,Rio de Janeiro,1769,21747.64
+MUS081,Los Angeles Science Institute,Science Institute,Los Angeles,1929,9019.39
+MUS082,Los Angeles Science Museum,Science Museum,Los Angeles,1848,11164.72
+MUS083,Barcelona History Center,History Center,Barcelona,1929,16754.08
+MUS084,Melbourne Architecture Center,Architecture Center,Melbourne,1764,4652.86
+MUS085,Boston Modern Art Collection,Modern Art Collection,Boston,1885,2879.92
+MUS086,Istanbul Sculpture Center,Sculpture Center,Istanbul,1910,12037.06
+MUS087,Lisbon History Institute,History Institute,Lisbon,1847,7858.62
+MUS088,Johannesburg Sculpture Museum,Sculpture Museum,Johannesburg,2016,23288.23
+MUS089,Dubai History Center,History Center,Dubai,1910,17257.91
+MUS090,Amsterdam Ethnography Collection,Ethnography Collection,Amsterdam,1908,17338.54
+MUS091,Munich Sculpture Center,Sculpture Center,Munich,1815,6412.32
+MUS092,Buenos Aires Sculpture Gallery,Sculpture Gallery,Buenos Aires,1904,11339.73
+MUS093,Paris Ethnography Center,Ethnography Center,Paris,1857,11887.43
+MUS094,Helsinki National Center,National Center,Helsinki,1988,12161.08
+MUS095,Sao Paulo Science Collection,Science Collection,Sao Paulo,1992,20255.91
+MUS096,Almaty Modern Art Museum,Modern Art Museum,Almaty,1895,13855.4
+MUS097,Cairo National Center,National Center,Cairo,1797,20823.74
+MUS098,Astana Science Center,Science Center,Astana,1865,20550.95
+MUS099,Prague Art Museum,Art Museum,Prague,1875,24630.53
+MUS100,Athens History Institute,History Institute,Athens,1962,22381.15

@@ -1,0 +1,131 @@
+collection_id,collection_name,collection_type,curator_staff_id,acquisition_date,museum_id
+COL001,Narratives of Photography,Permanent,STF258,1999-06-13,MUS085
+COL002,Treasures of Contemporary Art,Permanent,STF098,2011-03-24,MUS014
+COL003,Echoes of European Art,Online,STF407,1993-09-25,MUS004
+COL004,Highlights of Textiles,Permanent,STF160,2019-05-17,MUS080
+COL005,Journeys of Textiles,Rotating,STF254,2009-11-17,MUS030
+COL006,Horizons of Modern Sculpture,Temporary,STF540,1991-04-14,MUS017
+COL007,Masterpieces of Architecture,Special,STF334,2010-12-16,MUS046
+COL008,Perspectives of Design Objects,Temporary,STF456,2021-04-17,MUS035
+COL009,Echoes of Modern Sculpture,Online,STF468,2009-07-06,MUS076
+COL010,Echoes of Architecture,Rotating,STF547,2005-07-29,MUS082
+COL011,Visions of Design Objects,Special,STF092,2003-10-24,MUS030
+COL012,Icons of Contemporary Art,Rotating,STF160,1990-06-22,MUS034
+COL013,Masterpieces of Design Objects,Rotating,STF140,2002-11-12,MUS098
+COL014,Visions of Design Objects,Special,STF504,2003-06-10,MUS002
+COL015,Masterpieces of Contemporary Art,Permanent,STF237,2014-08-04,MUS038
+COL016,Icons of Photography,Special,STF448,2001-03-18,MUS053
+COL017,Treasures of Digital Art,Special,STF400,1999-11-24,MUS095
+COL018,Legacy of Asian Art,Online,STF246,2017-07-04,MUS055
+COL019,Dimensions of Digital Art,Rotating,STF279,2019-02-02,MUS088
+COL020,Narratives of Design Objects,Temporary,STF423,1993-01-26,MUS035
+COL021,Treasures of Modern Sculpture,Special,STF114,2017-09-16,MUS038
+COL022,Visions of Textiles,Temporary,STF504,2004-05-20,MUS090
+COL023,Masterpieces of Modern Sculpture,Permanent,STF548,1998-05-05,MUS007
+COL024,Highlights of Textiles,Special,STF129,2022-08-13,MUS035
+COL025,Masterpieces of Photography,Permanent,STF155,2012-02-21,MUS012
+COL026,Heritage of Ancient Civilizations,Special,STF320,2006-08-29,MUS054
+COL027,Visions of Digital Art,Permanent,STF339,2023-09-02,MUS005
+COL028,Treasures of European Art,Permanent,STF402,2014-05-14,MUS035
+COL029,Visions of Modern Sculpture,Special,STF257,1990-07-26,MUS025
+COL030,Highlights of Digital Art,Special,STF395,2001-02-01,MUS032
+COL031,Narratives of European Art,Permanent,STF472,2013-05-18,MUS026
+COL032,Horizons of Photography,Rotating,STF399,2004-06-29,MUS061
+COL033,Treasures of Architecture,Online,STF044,2013-05-14,MUS094
+COL034,Highlights of Textiles,Temporary,STF306,2006-03-03,MUS062
+COL035,Masterpieces of Architecture,Temporary,STF116,2018-05-23,MUS028
+COL036,Journeys of Ancient Civilizations,Rotating,STF172,2016-03-24,MUS002
+COL037,Highlights of Contemporary Art,Permanent,STF010,2016-01-25,MUS032
+COL038,Dimensions of Digital Art,Rotating,STF159,1994-01-06,MUS061
+COL039,Heritage of Modern Sculpture,Online,STF094,2005-03-07,MUS064
+COL040,Dimensions of Architecture,Rotating,STF062,2018-11-30,MUS008
+COL041,Treasures of Digital Art,Temporary,STF110,2011-11-19,MUS069
+COL042,Heritage of Ancient Civilizations,Special,STF356,2022-11-21,MUS072
+COL043,Heritage of European Art,Rotating,STF387,2022-06-30,MUS089
+COL044,Treasures of Textiles,Special,STF497,2015-01-29,MUS006
+COL045,Legacy of Design Objects,Temporary,STF502,2015-06-03,MUS090
+COL046,Treasures of Design Objects,Special,STF332,2002-05-08,MUS045
+COL047,Perspectives of Ceramics,Permanent,STF165,2013-10-29,MUS071
+COL048,Treasures of Drawings and Prints,Online,STF270,2006-06-20,MUS038
+COL049,Visions of European Art,Special,STF519,2022-11-29,MUS100
+COL050,Treasures of European Art,Online,STF373,2000-09-17,MUS080
+COL051,Icons of Digital Art,Special,STF552,1998-07-08,MUS009
+COL052,Echoes of Architecture,Online,STF158,2002-09-13,MUS064
+COL053,Icons of Contemporary Art,Permanent,STF330,1994-04-27,MUS083
+COL054,Echoes of Architecture,Temporary,STF045,1998-01-05,MUS009
+COL055,Perspectives of European Art,Special,STF110,1998-08-06,MUS026
+COL056,Highlights of European Art,Special,STF398,2013-08-03,MUS074
+COL057,Chronicles of Digital Art,Permanent,STF263,2006-06-08,MUS076
+COL058,Heritage of Ceramics,Permanent,STF073,1999-05-13,MUS092
+COL059,Horizons of Drawings and Prints,Permanent,STF480,2006-03-11,MUS011
+COL060,Echoes of Digital Art,Permanent,STF378,2017-09-03,MUS054
+COL061,Legacy of Design Objects,Rotating,STF073,1993-06-30,MUS006
+COL062,Heritage of Design Objects,Temporary,STF104,2013-11-06,MUS013
+COL063,Journeys of Photography,Temporary,STF539,2015-07-28,MUS025
+COL064,Horizons of Modern Sculpture,Permanent,STF426,2018-08-25,MUS072
+COL065,Chronicles of Ancient Civilizations,Special,STF470,1994-09-02,MUS087
+COL066,Treasures of Modern Sculpture,Online,STF412,2005-02-20,MUS071
+COL067,Horizons of Modern Sculpture,Rotating,STF454,2004-02-20,MUS069
+COL068,Echoes of Ancient Civilizations,Special,STF423,2022-07-24,MUS048
+COL069,Icons of Ceramics,Special,STF220,2014-09-07,MUS031
+COL070,Narratives of Textiles,Special,STF464,2007-10-24,MUS047
+COL071,Masterpieces of Digital Art,Online,STF292,1990-09-25,MUS005
+COL072,Echoes of Modern Sculpture,Rotating,STF007,1999-12-15,MUS039
+COL073,Heritage of Ancient Civilizations,Online,STF283,2012-12-07,MUS003
+COL074,Echoes of Ceramics,Permanent,STF159,1991-09-11,MUS074
+COL075,Visions of Ancient Civilizations,Rotating,STF142,2006-06-20,MUS020
+COL076,Chronicles of Photography,Rotating,STF263,1994-02-14,MUS030
+COL077,Chronicles of Contemporary Art,Permanent,STF223,2022-06-17,MUS073
+COL078,Icons of Drawings and Prints,Online,STF500,1994-04-12,MUS023
+COL079,Chronicles of Architecture,Online,STF039,2007-02-12,MUS039
+COL080,Highlights of European Art,Rotating,STF343,2009-06-25,MUS099
+COL081,Journeys of Asian Art,Online,STF233,1990-07-07,MUS099
+COL082,Horizons of Architecture,Rotating,STF056,2013-07-10,MUS049
+COL083,Masterpieces of Ancient Civilizations,Rotating,STF154,2012-07-15,MUS070
+COL084,Narratives of Photography,Special,STF052,2009-12-27,MUS020
+COL085,Dimensions of Ceramics,Permanent,STF517,1999-12-18,MUS074
+COL086,Journeys of Textiles,Temporary,STF152,2005-01-29,MUS051
+COL087,Highlights of Drawings and Prints,Online,STF051,2007-11-28,MUS074
+COL088,Legacy of Asian Art,Special,STF514,2021-04-21,MUS052
+COL089,Treasures of Modern Sculpture,Special,STF203,2007-09-25,MUS062
+COL090,Horizons of Ceramics,Temporary,STF537,2000-11-14,MUS026
+COL091,Highlights of Textiles,Rotating,STF441,2020-09-18,MUS100
+COL092,Chronicles of Asian Art,Special,STF424,2006-05-21,MUS015
+COL093,Icons of Photography,Online,STF353,2019-05-27,MUS042
+COL094,Masterpieces of Textiles,Online,STF359,2009-11-02,MUS022
+COL095,Chronicles of Modern Sculpture,Temporary,STF046,1998-12-16,MUS057
+COL096,Horizons of Ancient Civilizations,Permanent,STF088,2023-03-06,MUS020
+COL097,Masterpieces of Photography,Rotating,STF152,1990-08-14,MUS080
+COL098,Icons of Digital Art,Special,STF313,2011-02-19,MUS015
+COL099,Masterpieces of Ancient Civilizations,Temporary,STF551,1999-02-22,MUS027
+COL100,Echoes of Design Objects,Online,STF265,2011-09-01,MUS097
+COL101,Chronicles of Digital Art,Special,STF019,2016-02-25,MUS019
+COL102,Horizons of Design Objects,Temporary,STF262,1992-09-11,MUS006
+COL103,Legacy of Photography,Permanent,STF278,2010-11-09,MUS090
+COL104,Horizons of European Art,Rotating,STF398,2019-09-28,MUS009
+COL105,Perspectives of Architecture,Permanent,STF111,2003-02-14,MUS047
+COL106,Perspectives of Architecture,Special,STF237,2012-10-23,MUS050
+COL107,Narratives of Asian Art,Online,STF497,2013-11-05,MUS041
+COL108,Highlights of Modern Sculpture,Special,STF513,2015-02-25,MUS026
+COL109,Narratives of European Art,Online,STF254,2003-09-05,MUS006
+COL110,Icons of Drawings and Prints,Permanent,STF161,2005-07-22,MUS051
+COL111,Horizons of Ancient Civilizations,Temporary,STF310,2012-06-26,MUS046
+COL112,Legacy of European Art,Special,STF264,1991-04-28,MUS081
+COL113,Echoes of Textiles,Rotating,STF156,2007-08-16,MUS029
+COL114,Horizons of Modern Sculpture,Online,STF392,2020-05-31,MUS012
+COL115,Chronicles of Architecture,Special,STF233,2000-10-13,MUS088
+COL116,Chronicles of Modern Sculpture,Online,STF320,2004-10-09,MUS055
+COL117,Visions of Design Objects,Temporary,STF212,2016-01-24,MUS017
+COL118,Echoes of Architecture,Rotating,STF142,2020-11-19,MUS026
+COL119,Narratives of Design Objects,Temporary,STF441,2019-06-09,MUS018
+COL120,Chronicles of Modern Sculpture,Online,STF070,2013-11-28,MUS041
+COL121,Narratives of Asian Art,Temporary,STF326,2022-08-13,MUS024
+COL122,Masterpieces of Ancient Civilizations,Rotating,STF422,2009-11-15,MUS053
+COL123,Narratives of Architecture,Temporary,STF281,1998-06-07,MUS095
+COL124,Highlights of Modern Sculpture,Online,STF027,2017-09-04,MUS024
+COL125,Legacy of Ceramics,Online,STF237,2000-06-01,MUS073
+COL126,Heritage of Architecture,Permanent,STF368,2020-11-13,MUS004
+COL127,Dimensions of Drawings and Prints,Online,STF515,2011-01-11,MUS018
+COL128,Narratives of Architecture,Special,STF189,2012-01-17,MUS048
+COL129,Visions of Modern Sculpture,Temporary,STF198,1991-06-13,MUS021
+COL130,Journeys of European Art,Temporary,STF423,2023-04-20,MUS035

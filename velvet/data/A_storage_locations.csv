@@ -1,0 +1,131 @@
+location_id,location_type,room_number,floor_number,capacity,climate_controlled,security_level,museum_id
+LOC001,Archive,R-026,1,459,N,Restricted,MUS069
+LOC002,Conservation Lab,R-019,5,100,Y,Restricted,MUS097
+LOC003,Gallery,R-035,3,410,N,Medium,MUS037
+LOC004,Gallery,R-025,7,354,N,Restricted,MUS088
+LOC005,Storage Room,R-002,7,134,Y,Low,MUS053
+LOC006,Archive,R-027,-2,186,Y,Medium,MUS077
+LOC007,Conservation Lab,R-006,3,31,N,Medium,MUS073
+LOC008,Conservation Lab,R-024,1,109,N,Medium,MUS021
+LOC009,Storage Room,R-019,-1,477,Y,Medium,MUS042
+LOC010,Conservation Lab,R-030,1,370,N,Medium,MUS074
+LOC011,Conservation Lab,R-033,8,76,N,Medium,MUS023
+LOC012,Conservation Lab,R-005,-2,403,Y,Restricted,MUS032
+LOC013,Conservation Lab,R-025,-1,420,N,High,MUS067
+LOC014,Archive,R-008,7,351,Y,Restricted,MUS092
+LOC015,Gallery,R-019,4,444,Y,High,MUS062
+LOC016,Archive,R-029,4,423,Y,Low,MUS052
+LOC017,Vault,R-038,-1,389,Y,High,MUS019
+LOC018,Vault,R-010,1,427,N,Medium,MUS053
+LOC019,Gallery,R-022,8,375,Y,Restricted,MUS034
+LOC020,Conservation Lab,R-016,2,195,N,Restricted,MUS091
+LOC021,Conservation Lab,R-017,7,160,Y,Medium,MUS043
+LOC022,Archive,R-019,-2,133,N,High,MUS019
+LOC023,Vault,R-020,0,310,N,Restricted,MUS092
+LOC024,Conservation Lab,R-019,0,400,Y,Medium,MUS092
+LOC025,Vault,R-025,2,346,Y,Low,MUS078
+LOC026,Archive,R-020,0,319,Y,High,MUS028
+LOC027,Archive,R-034,4,264,Y,High,MUS047
+LOC028,Storage Room,R-038,6,180,N,Restricted,MUS083
+LOC029,Storage Room,R-034,5,109,N,Restricted,MUS063
+LOC030,Gallery,R-022,1,178,Y,Medium,MUS002
+LOC031,Vault,R-039,-1,352,Y,High,MUS020
+LOC032,Conservation Lab,R-037,8,484,Y,Medium,MUS064
+LOC033,Storage Room,R-024,8,36,N,Low,MUS095
+LOC034,Archive,R-005,2,303,Y,Low,MUS043
+LOC035,Archive,R-034,1,145,N,Medium,MUS058
+LOC036,Storage Room,R-015,5,110,Y,High,MUS089
+LOC037,Vault,R-006,1,395,Y,Medium,MUS071
+LOC038,Vault,R-004,1,136,Y,Restricted,MUS067
+LOC039,Gallery,R-035,-2,183,Y,Medium,MUS060
+LOC040,Gallery,R-029,-1,263,Y,Low,MUS062
+LOC041,Archive,R-014,7,269,N,Low,MUS070
+LOC042,Conservation Lab,R-008,5,418,Y,Restricted,MUS075
+LOC043,Vault,R-027,7,158,N,Medium,MUS001
+LOC044,Archive,R-031,6,165,N,High,MUS043
+LOC045,Storage Room,R-022,2,367,N,Restricted,MUS069
+LOC046,Storage Room,R-032,-2,183,N,Restricted,MUS015
+LOC047,Storage Room,R-005,4,364,N,Low,MUS021
+LOC048,Vault,R-035,0,119,Y,Medium,MUS057
+LOC049,Vault,R-033,2,183,N,Low,MUS028
+LOC050,Vault,R-040,1,312,Y,High,MUS088
+LOC051,Storage Room,R-026,0,456,Y,Medium,MUS021
+LOC052,Archive,R-031,8,324,N,High,MUS042
+LOC053,Vault,R-031,2,209,Y,High,MUS030
+LOC054,Vault,R-021,5,177,N,Restricted,MUS043
+LOC055,Conservation Lab,R-001,4,48,N,High,MUS098
+LOC056,Storage Room,R-030,2,29,Y,Medium,MUS083
+LOC057,Vault,R-019,3,32,N,Restricted,MUS085
+LOC058,Vault,R-036,6,398,Y,Medium,MUS049
+LOC059,Archive,R-029,2,74,Y,Medium,MUS080
+LOC060,Vault,R-031,7,260,Y,Restricted,MUS021
+LOC061,Conservation Lab,R-016,2,330,N,Low,MUS089
+LOC062,Gallery,R-022,2,295,N,Restricted,MUS013
+LOC063,Gallery,R-031,0,470,Y,High,MUS037
+LOC064,Conservation Lab,R-010,0,321,N,Medium,MUS100
+LOC065,Gallery,R-029,1,187,N,High,MUS072
+LOC066,Gallery,R-009,-1,465,N,High,MUS089
+LOC067,Conservation Lab,R-014,0,184,N,Medium,MUS099
+LOC068,Vault,R-022,1,366,N,High,MUS059
+LOC069,Gallery,R-009,-1,348,N,Restricted,MUS078
+LOC070,Conservation Lab,R-004,6,50,N,Low,MUS051
+LOC071,Conservation Lab,R-003,6,467,N,Restricted,MUS073
+LOC072,Archive,R-022,8,54,Y,Low,MUS037
+LOC073,Gallery,R-035,0,428,Y,Restricted,MUS072
+LOC074,Storage Room,R-005,8,240,N,Restricted,MUS079
+LOC075,Storage Room,R-022,-1,113,N,Restricted,MUS058
+LOC076,Conservation Lab,R-002,4,314,N,Low,MUS068
+LOC077,Conservation Lab,R-002,-2,135,N,Restricted,MUS080
+LOC078,Vault,R-015,7,365,N,Restricted,MUS020
+LOC079,Storage Room,R-037,3,477,Y,Medium,MUS084
+LOC080,Storage Room,R-014,2,112,Y,Low,MUS099
+LOC081,Archive,R-003,0,296,N,Low,MUS069
+LOC082,Vault,R-015,8,126,Y,High,MUS042
+LOC083,Conservation Lab,R-018,1,499,Y,High,MUS021
+LOC084,Storage Room,R-029,-1,447,N,Low,MUS004
+LOC085,Storage Room,R-025,-2,248,N,Restricted,MUS057
+LOC086,Storage Room,R-025,7,437,Y,Low,MUS026
+LOC087,Archive,R-038,6,82,Y,Medium,MUS023
+LOC088,Conservation Lab,R-039,3,403,N,Restricted,MUS016
+LOC089,Storage Room,R-006,6,204,N,High,MUS025
+LOC090,Gallery,R-030,-2,23,N,Restricted,MUS066
+LOC091,Gallery,R-023,3,178,Y,Restricted,MUS052
+LOC092,Vault,R-015,-1,353,N,Restricted,MUS084
+LOC093,Vault,R-021,-2,92,Y,Medium,MUS003
+LOC094,Gallery,R-009,6,99,Y,Restricted,MUS073
+LOC095,Gallery,R-004,7,430,Y,High,MUS098
+LOC096,Archive,R-027,0,234,Y,Medium,MUS048
+LOC097,Storage Room,R-012,3,470,Y,Medium,MUS067
+LOC098,Conservation Lab,R-014,2,226,N,High,MUS004
+LOC099,Vault,R-002,-2,189,Y,Restricted,MUS080
+LOC100,Storage Room,R-027,-2,296,N,Medium,MUS005
+LOC101,Gallery,R-001,3,479,Y,Low,MUS021
+LOC102,Gallery,R-008,5,257,N,Restricted,MUS054
+LOC103,Archive,R-001,2,263,N,High,MUS018
+LOC104,Vault,R-035,3,334,Y,Restricted,MUS017
+LOC105,Archive,R-013,0,132,Y,Medium,MUS064
+LOC106,Gallery,R-007,4,164,Y,Medium,MUS029
+LOC107,Vault,R-012,8,174,N,Restricted,MUS029
+LOC108,Archive,R-034,6,315,N,Medium,MUS086
+LOC109,Conservation Lab,R-024,8,94,Y,Restricted,MUS042
+LOC110,Gallery,R-013,0,27,Y,Low,MUS081
+LOC111,Storage Room,R-026,3,25,N,Restricted,MUS031
+LOC112,Storage Room,R-037,4,251,Y,Restricted,MUS045
+LOC113,Vault,R-035,5,80,N,High,MUS080
+LOC114,Storage Room,R-017,3,433,N,Restricted,MUS044
+LOC115,Gallery,R-022,6,154,Y,High,MUS085
+LOC116,Gallery,R-035,0,68,Y,Restricted,MUS055
+LOC117,Gallery,R-036,2,84,N,High,MUS015
+LOC118,Conservation Lab,R-036,-1,463,Y,Restricted,MUS058
+LOC119,Storage Room,R-010,8,133,Y,Medium,MUS066
+LOC120,Vault,R-034,7,419,Y,Low,MUS094
+LOC121,Vault,R-035,1,375,Y,High,MUS069
+LOC122,Gallery,R-011,8,344,Y,Medium,MUS021
+LOC123,Archive,R-028,1,162,Y,Restricted,MUS070
+LOC124,Conservation Lab,R-034,4,477,N,Restricted,MUS038
+LOC125,Storage Room,R-020,-2,58,N,High,MUS042
+LOC126,Archive,R-039,-1,50,N,Medium,MUS027
+LOC127,Conservation Lab,R-011,1,220,Y,Restricted,MUS019
+LOC128,Archive,R-013,1,447,N,Low,MUS051
+LOC129,Vault,R-009,4,83,Y,Medium,MUS029
+LOC130,Storage Room,R-018,3,25,Y,High,MUS057
